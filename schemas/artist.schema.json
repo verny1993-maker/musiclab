@@ -1,0 +1,122 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://musiclab.local/schemas/artist.schema.json",
+  "title": "Artist Profile",
+  "description": "Artist-level metadata and computed aggregates. manual = human-curated, computed = derived from sets.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique artist identifier (slug), e.g. 'charlotte-de-witte'"
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name"
+    },
+    "manual": {
+      "type": "object",
+      "description": "Human-curated fields. Never overwritten by scripts.",
+      "properties": {
+        "genres": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Genre tags, e.g. ['techno', 'peak-time']"
+        },
+        "country": {
+          "type": "string",
+          "description": "Country of origin"
+        },
+        "label": {
+          "type": "string",
+          "description": "Primary label affiliation"
+        },
+        "aliases": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Alternate artist names"
+        },
+        "links": {
+          "type": "object",
+          "description": "External profile URLs",
+          "properties": {
+            "discogs": { "type": "string", "format": "uri" },
+            "soundcloud": { "type": "string", "format": "uri" },
+            "spotify": { "type": "string", "format": "uri" },
+            "ra": { "type": "string", "format": "uri" },
+            "instagram": { "type": "string", "format": "uri" }
+          },
+          "additionalProperties": true
+        }
+      },
+      "required": [],
+      "additionalProperties": true
+    },
+    "computed": {
+      "type": "object",
+      "description": "Fields derived from set data. Rebuilt by 04_hypothesis / 05_build_cards.",
+      "properties": {
+        "n_sets_analyzed": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Number of sets processed for this artist"
+        },
+        "mean_bpm": {
+          "type": "number",
+          "description": "Mean BPM across all tracks"
+        },
+        "bpm_range": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 2,
+          "items": { "type": "number" },
+          "description": "[min_bpm, max_bpm] across all tracks"
+        },
+        "top_keys": {
+          "type": "array",
+          "description": "Most frequent keys with counts, e.g. [{\"key\": \"Am\", \"count\": 12}]",
+          "items": {
+            "type": "object",
+            "properties": {
+              "key": { "type": "string" },
+              "count": { "type": "integer" }
+            },
+            "required": ["key", "count"]
+          }
+        },
+        "energy_profile": {
+          "type": "object",
+          "description": "Typed energy statistics. Computed from all tracks with audio.",
+          "properties": {
+            "mean": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1,
+              "description": "Mean energy across all tracks"
+            },
+            "std": {
+              "type": "number",
+              "minimum": 0,
+              "description": "Standard deviation of energy"
+            },
+            "archetype_distribution": {
+              "type": "object",
+              "description": "Count of set-level energy curve archetypes, e.g. {\"rising\": 3, \"peak_valley\": 5}",
+              "additionalProperties": { "type": "integer" }
+            }
+          },
+          "required": ["mean", "std"],
+          "additionalProperties": false
+        },
+        "computed_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When computed fields were last rebuilt"
+        }
+      },
+      "required": ["n_sets_analyzed"],
+      "additionalProperties": false
+    }
+  },
+  "required": ["id", "name", "manual", "computed"],
+  "additionalProperties": false
+}

@@ -1,0 +1,257 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://musiclab.local/schemas/set.schema.json",
+  "title": "DJ Set",
+  "description": "A DJ set with tracklist, audio features, and enrichment errors.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique set identifier, e.g. 'set_2025-06-28_awakenings'"
+    },
+    "title": {
+      "type": "string",
+      "description": "Human-readable set title"
+    },
+    "artist": {
+      "type": "string",
+      "description": "DJ/performer name"
+    },
+    "venue": {
+      "type": ["string", "null"],
+      "description": "Venue/platform name, e.g. 'Boiler Room', 'HÖR', 'Awakenings', 'Tomorrowland'. Null if unknown."
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Original URL (1001tracklists, SoundCloud, YouTube, etc.)"
+    },
+    "source_platform": {
+      "type": "string",
+      "enum": ["1001tracklists", "set79", "soundcloud", "youtube", "manual"],
+      "description": "Platform the tracklist was parsed from"
+    },
+    "audio_url": {
+      "type": ["string", "null"],
+      "format": "uri",
+      "description": "Primary audio URL (SoundCloud preferred). Null if no audio found."
+    },
+    "youtube_url": {
+      "type": ["string", "null"],
+      "format": "uri",
+      "description": "YouTube mirror URL if available. Null otherwise."
+    },
+    "parsed_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of parsing"
+    },
+    "enriched_at": {
+      "type": ["string", "null"],
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of audio enrichment. Null if not yet enriched."
+    },
+    "tracks": {
+      "type": "array",
+      "description": "Ordered tracklist",
+      "items": {
+        "type": "object",
+        "properties": {
+          "position": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Track position in the set (1-based)"
+          },
+          "title": {
+            "type": "string",
+            "description": "Track title"
+          },
+          "artist": {
+            "type": "string",
+            "description": "Track artist"
+          },
+          "timecode": {
+            "type": "string",
+            "description": "Timestamp from tracklist, e.g. '01:23:45' or '83:45'"
+          },
+          "start_sec": {
+            "type": "number",
+            "minimum": 0,
+            "description": "Track start time in seconds, parsed from timecode"
+          },
+          "duration_sec": {
+            "type": "number",
+            "minimum": 0,
+            "description": "Duration in seconds"
+          },
+          "audio": {
+            "description": "Audio features for this track, or null if enrichment failed.",
+            "oneOf": [
+              { "$ref": "#/$defs/audio_features" },
+              { "type": "null" }
+            ]
+          },
+          "meta": {
+            "description": "Track metadata from external sources (Discogs, MusicBrainz, etc.), or null if not resolved.",
+            "oneOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "label": {
+                    "type": "string",
+                    "description": "Record label, e.g. 'KNTXT'"
+                  },
+                  "release": {
+                    "type": "string",
+                    "description": "Release/catalog title, e.g. 'Selected EP'"
+                  },
+                  "year": {
+                    "type": "integer",
+                    "minimum": 1980,
+                    "maximum": 2100,
+                    "description": "Release year"
+                  },
+                  "genres": {
+                    "type": "array",
+                    "items": { "type": "string" },
+                    "description": "Genre tags, e.g. ['techno', 'peak-time']"
+                  },
+                  "remixers": {
+                    "type": "array",
+                    "items": { "type": "string" },
+                    "description": "Remixer artist names (empty if original mix)"
+                  },
+                  "discogs_url": {
+                    "type": "string",
+                    "format": "uri",
+                    "description": "Discogs release URL"
+                  },
+                  "source": {
+                    "type": "string",
+                    "enum": ["discogs", "musicbrainz", "bandcamp", "manual"],
+                    "description": "Metadata source"
+                  }
+                },
+                "required": ["source"],
+                "additionalProperties": true
+              },
+              { "type": "null" }
+            ]
+          },
+          "alignment_checked": {
+            "type": "boolean",
+            "default": false,
+            "description": "Manual flag — set by human after verifying timecode vs audio alignment. Scripts only warn, never set this."
+          }
+        },
+        "required": ["position", "title", "audio"],
+        "additionalProperties": false
+      }
+    },
+    "energy_curve_archetype": {
+      "type": "object",
+      "description": "Classified energy curve shape across the set. Typed only — implementation lives in 05_build_cards.",
+      "properties": {
+        "type": {
+          "description": "Archetype of energy curve. Null when unclassified.",
+          "anyOf": [
+            { "enum": ["rising", "peak_valley", "flat"] },
+            { "type": "null" }
+          ]
+        },
+        "segments": {
+          "type": "array",
+          "description": "Segment boundaries (future: e.g. [{start_pos: 1, end_pos: 8, label: 'intro'}]). Empty until implemented.",
+          "items": {}
+        }
+      },
+      "required": ["type", "segments"],
+      "additionalProperties": false
+    },
+    "errors": {
+      "type": "array",
+      "description": "Enrichment errors per track — written by 02_enrich_audio.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "position": {
+            "type": "integer",
+            "description": "Track position that failed"
+          },
+          "stage": {
+            "type": "string",
+            "description": "Pipeline stage where the error occurred, e.g. '02_enrich/download', '02_enrich/ffmpeg', '02_enrich/analysis'"
+          },
+          "reason": {
+            "type": "string",
+            "description": "Human-readable error description"
+          }
+        },
+        "required": ["position", "stage", "reason"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["id", "title", "tracks", "errors"],
+  "additionalProperties": false,
+
+  "$defs": {
+    "audio_features": {
+      "type": "object",
+      "title": "AudioFeatures",
+      "description": "Extracted audio features for a single track. Validation rejects incomplete objects.",
+      "properties": {
+        "bpm": {
+          "type": "number",
+          "minimum": 20,
+          "maximum": 300,
+          "description": "Detected tempo in BPM"
+        },
+        "key": {
+          "type": "string",
+          "description": "Human-readable key with mode, e.g. 'F# minor', 'C major'. From essentia KeyExtractor."
+        },
+        "camelot": {
+          "type": "string",
+          "description": "Camelot wheel notation, e.g. '11A', '8B'. Derived from key+scale via standard circle-of-fifths mapping."
+        },
+        "key_strength": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Confidence of key detection from essentia KeyExtractor (0–1)"
+        },
+        "energy": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "RMS energy normalized to [0, 1]"
+        },
+        "danceability": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Danceability score [0, 1]"
+        },
+        "loudness": {
+          "type": "number",
+          "description": "Integrated loudness in LUFS (typically negative)"
+        },
+        "mfcc_mean": {
+          "type": "array",
+          "description": "13 mean MFCC coefficients across the track",
+          "items": { "type": "number" },
+          "minItems": 13,
+          "maxItems": 13
+        },
+        "beat_positions": {
+          "type": "array",
+          "description": "Beat positions in seconds",
+          "items": { "type": "number" }
+        }
+      },
+      "required": ["bpm", "key", "camelot", "key_strength", "energy", "danceability", "loudness", "mfcc_mean", "beat_positions"],
+      "additionalProperties": false
+    }
+  }
+}

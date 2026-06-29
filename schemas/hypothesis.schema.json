@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://musiclab.local/schemas/hypothesis.schema.json",
+  "title": "Hypothesis",
+  "description": "A falsifiable claim about a DJ, track, or set pattern. Based on N observed sets.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique hypothesis slug, e.g. 'charlotte-rising-energy'"
+    },
+    "subject_type": {
+      "type": "string",
+      "enum": ["artist", "set", "track", "label", "genre"],
+      "description": "What the hypothesis is about"
+    },
+    "subject_id": {
+      "type": "string",
+      "description": "ID of the subject entity (artist slug, set ID, track ID, etc.)"
+    },
+    "statement": {
+      "type": "string",
+      "description": "The claim, e.g. 'Sets consistently build energy towards a peak in the last third'"
+    },
+    "based_on_n_sets": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Number of sets this hypothesis draws evidence from"
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Confidence score [0, 1]. Based on n_sets and statistical signal strength."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "testing", "confirmed", "rejected"],
+      "description": "Lifecycle stage. draft = idea, testing = gathering evidence, confirmed/rejected = resolved."
+    },
+    "evidence": {
+      "type": "object",
+      "description": "Supporting data summary",
+      "properties": {
+        "set_ids": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Set IDs used as evidence"
+        },
+        "metric": {
+          "type": "string",
+          "description": "Primary metric tested, e.g. 'energy_curve_slope', 'key_distribution'"
+        },
+        "p_value": {
+          "type": "number",
+          "description": "Statistical significance (optional, when applicable)"
+        }
+      },
+      "required": ["set_ids", "metric"],
+      "additionalProperties": false
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "required": ["id", "subject_type", "subject_id", "statement", "based_on_n_sets", "confidence", "status", "evidence", "created_at"],
+  "additionalProperties": false
+}

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Data
+data/
+*.db
+*.sqlite
+
+# Env
+.env
+.env.*
+
+# Temp
+.tmp/
+*.tmp
+*.bak
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+qdrant_storage/
+data/
+.venv/
