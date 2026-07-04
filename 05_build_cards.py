@@ -18,7 +18,7 @@ from pathlib import Path
 from typing import Any
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from lib.lib_io import load_json, write_json
+from lib.lib_io import load_json
 
 logger = logging.getLogger("05_build_cards")
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(name)s] %(message)s")
@@ -40,44 +40,57 @@ def collect_tracks(sets_dir: Path = DATA_SETS) -> list[dict]:
             for t in s["tracks"]:
                 af = t.get("audio") or {}
                 meta = t.get("meta") or {}
-                all_tracks.append({
-                    "artist": s["artist"],
-                    "venue": s.get("venue"),
-                    "set_id": s["id"],
-                    "set_title": s["title"],
-                    "track_artist": t.get("artist", ""),
-                    "track_title": t.get("title", ""),
-                    "position": t["position"],
-                    "bpm": af.get("bpm"),
-                    "camelot": af.get("camelot"),
-                    "energy": af.get("energy"),
-                    "danceability": af.get("danceability"),
-                    "loudness": af.get("loudness"),
-                    "key_strength": af.get("key_strength"),
-                    "label": meta.get("label"),
-                    "year": meta.get("year"),
-                    "genres": meta.get("genres"),
-                    "bpm_ambiguous": af.get("bpm_ambiguous", False),
-                    "id_status": t.get("id_status", "identified"),
-                })
+                all_tracks.append(
+                    {
+                        "artist": s["artist"],
+                        "venue": s.get("venue"),
+                        "set_id": s["id"],
+                        "set_title": s["title"],
+                        "track_artist": t.get("artist", ""),
+                        "track_title": t.get("title", ""),
+                        "position": t["position"],
+                        "bpm": af.get("bpm"),
+                        "camelot": af.get("camelot"),
+                        "energy": af.get("energy"),
+                        "danceability": af.get("danceability"),
+                        "loudness": af.get("loudness"),
+                        "key_strength": af.get("key_strength"),
+                        "label": meta.get("label"),
+                        "year": meta.get("year"),
+                        "genres": meta.get("genres"),
+                        "bpm_ambiguous": af.get("bpm_ambiguous", False),
+                        "id_status": t.get("id_status", "identified"),
+                    }
+                )
     return all_tracks
 
 
 def build_artist_card(artist_slug: str, all_tracks: list[dict]) -> dict:
     """Build a computed artist card from track data."""
-    tracks = [t for t in all_tracks if t["artist"].lower().replace(" ", "-") == artist_slug.lower().replace(" ", "-")
-              or artist_slug.lower() in t["artist"].lower()]
+    tracks = [
+        t
+        for t in all_tracks
+        if t["artist"].lower().replace(" ", "-")
+        == artist_slug.lower().replace(" ", "-")
+        or artist_slug.lower() in t["artist"].lower()
+    ]
 
     if not tracks:
         # Try fuzzy match
         artist_key = artist_slug.lower().replace(" ", "")
-        tracks = [t for t in all_tracks if artist_key in t["artist"].lower().replace(" ", "")]
+        tracks = [
+            t for t in all_tracks if artist_key in t["artist"].lower().replace(" ", "")
+        ]
         if not tracks:
             raise ValueError(f"No tracks found for artist '{artist_slug}'")
 
-    bpms = [t["bpm"] for t in tracks if t["bpm"] is not None
-            and t.get("id_status") != "unidentified"
-            and not t.get("bpm_ambiguous")]
+    bpms = [
+        t["bpm"]
+        for t in tracks
+        if t["bpm"] is not None
+        and t.get("id_status") != "unidentified"
+        and not t.get("bpm_ambiguous")
+    ]
     energies = [t["energy"] for t in tracks if t["energy"] is not None]
     camelots = [t["camelot"] for t in tracks if t["camelot"]]
     labels = [t["label"] for t in tracks if t["label"]]
@@ -104,7 +117,9 @@ def build_artist_card(artist_slug: str, all_tracks: list[dict]) -> dict:
             "bpm_range": [round(min(bpms), 1), round(max(bpms), 1)] if bpms else None,
             "bpm_std": round(statistics.stdev(bpms), 1) if len(bpms) > 1 else 0.0,
             "mean_energy": round(statistics.mean(energies), 4) if energies else None,
-            "energy_std": round(statistics.stdev(energies), 4) if len(energies) > 1 else 0.0,
+            "energy_std": round(statistics.stdev(energies), 4)
+            if len(energies) > 1
+            else 0.0,
             "top_camelot": top_camelot,
             "top_labels": top_labels,
             "set_ids": set_ids,
@@ -116,7 +131,11 @@ def build_artist_card(artist_slug: str, all_tracks: list[dict]) -> dict:
 
 def build_venue_card(venue_name: str, all_tracks: list[dict]) -> dict:
     """Build a venue card from track data."""
-    venue_tracks = [t for t in all_tracks if t.get("venue") and t["venue"].lower() == venue_name.lower()]
+    venue_tracks = [
+        t
+        for t in all_tracks
+        if t.get("venue") and t["venue"].lower() == venue_name.lower()
+    ]
 
     if not venue_tracks:
         raise ValueError(f"No tracks found for venue '{venue_name}'")
@@ -171,7 +190,12 @@ def build_all() -> dict[str, int]:
         with open(path, "w", encoding="utf-8") as f:
             json.dump(card, f, indent=2, ensure_ascii=False)
         counts["artists"] += 1
-        logger.info("Artist: %s (%d tracks, %d sets)", artist_name, card["computed"]["n_tracks_analyzed"], card["computed"]["n_sets_analyzed"])
+        logger.info(
+            "Artist: %s (%d tracks, %d sets)",
+            artist_name,
+            card["computed"]["n_tracks_analyzed"],
+            card["computed"]["n_sets_analyzed"],
+        )
 
     for venue_name, _ in venues.items():
         slug = venue_name.lower().replace(" ", "-")
@@ -194,7 +218,9 @@ def main():
 
     if args.all:
         counts = build_all()
-        print(f"[05_build_cards] Done: {counts['artists']} artists, {counts['venues']} venues")
+        print(
+            f"[05_build_cards] Done: {counts['artists']} artists, {counts['venues']} venues"
+        )
     elif args.artist:
         all_tracks = collect_tracks()
         card = build_artist_card(args.artist, all_tracks)

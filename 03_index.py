@@ -29,14 +29,13 @@ from __future__ import annotations
 
 import argparse
 import hashlib
-import json
 import logging
 import math
 import sys
 from pathlib import Path
 
 from qdrant_client import QdrantClient
-from qdrant_client.models import Distance, VectorParams, PointStruct
+from qdrant_client.models import Distance, PointStruct, VectorParams
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from lib.lib_io import load_json
@@ -51,10 +50,10 @@ VECTOR_SIZE = 8
 
 # ── Fixed normalization anchors (from 58-track global sample) ──
 # Padded by ±10% to accommodate future sets. Values outside → clamped.
-BPM_MIN, BPM_MAX = 60.0, 200.0           # bpm_norm = (bpm - 60) / 140
-MFCC1_MIN, MFCC1_MAX = -358.0, -24.0     # mfcc_1 norm
-MFCC2_MIN, MFCC2_MAX = 55.0, 194.0       # mfcc_2 norm
-MFCC3_MIN, MFCC3_MAX = -73.0, 63.0       # mfcc_3 norm
+BPM_MIN, BPM_MAX = 60.0, 200.0  # bpm_norm = (bpm - 60) / 140
+MFCC1_MIN, MFCC1_MAX = -358.0, -24.0  # mfcc_1 norm
+MFCC2_MIN, MFCC2_MAX = 55.0, 194.0  # mfcc_2 norm
+MFCC3_MIN, MFCC3_MAX = -73.0, 63.0  # mfcc_3 norm
 
 
 def _norm(value: float, vmin: float, vmax: float) -> float:
@@ -109,7 +108,11 @@ def ensure_collection(client: QdrantClient) -> None:
             collection_name=COLLECTION_NAME,
             vectors_config=VectorParams(size=VECTOR_SIZE, distance=Distance.COSINE),
         )
-        logger.info("Created collection '%s' (size=%d, distance=cosine)", COLLECTION_NAME, VECTOR_SIZE)
+        logger.info(
+            "Created collection '%s' (size=%d, distance=cosine)",
+            COLLECTION_NAME,
+            VECTOR_SIZE,
+        )
 
 
 def index_set(set_path: str) -> int:
@@ -189,31 +192,44 @@ def search_similar(track_index: int, set_path: str, top_k: int = 5) -> list[dict
     similar = []
     for r in results:
         payload = r.payload or {}
-        if payload.get("set_id") == set_data["id"] and payload.get("position") == track_index:
+        if (
+            payload.get("set_id") == set_data["id"]
+            and payload.get("position") == track_index
+        ):
             continue
-        similar.append({
-            "score": r.score,
-            "artist": payload.get("artist", "?"),
-            "title": payload.get("title", "?"),
-            "bpm": payload.get("bpm"),
-            "camelot": payload.get("camelot"),
-            "energy": payload.get("energy"),
-            "label": payload.get("label"),
-            "set_id": payload.get("set_id", "?"),
-            "venue": payload.get("venue"),
-        })
+        similar.append(
+            {
+                "score": r.score,
+                "artist": payload.get("artist", "?"),
+                "title": payload.get("title", "?"),
+                "bpm": payload.get("bpm"),
+                "camelot": payload.get("camelot"),
+                "energy": payload.get("energy"),
+                "label": payload.get("label"),
+                "set_id": payload.get("set_id", "?"),
+                "venue": payload.get("venue"),
+            }
+        )
         if len(similar) >= top_k:
             break
     return similar
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Index DJ sets into Qdrant (8d vectors)")
+    parser = argparse.ArgumentParser(
+        description="Index DJ sets into Qdrant (8d vectors)"
+    )
     parser.add_argument("--set", type=str, help="Path to set JSON")
     group = parser.add_mutually_exclusive_group(required=True)
-    group.add_argument("--index", action="store_true", help="Index the set specified by --set")
-    group.add_argument("--rebuild", action="store_true", help="Full index rebuild from data/sets/")
-    group.add_argument("--search", type=int, help="Search similar to track position N (requires --set)")
+    group.add_argument(
+        "--index", action="store_true", help="Index the set specified by --set"
+    )
+    group.add_argument(
+        "--rebuild", action="store_true", help="Full index rebuild from data/sets/"
+    )
+    group.add_argument(
+        "--search", type=int, help="Search similar to track position N (requires --set)"
+    )
     args = parser.parse_args()
 
     if args.rebuild:
@@ -226,12 +242,18 @@ def main():
         similar = search_similar(args.search, args.set, top_k=5)
         print(f"Similar to track #{args.search}:")
         for i, s in enumerate(similar):
-            sid = s['set_id']
-            if 'boiler-room' in sid: sn = 'BR Tokyo'
-            elif 'keep-hush' in sid: sn = 'Keep Hush'
-            elif 'midnight' in sid: sn = 'HÖR Berlin'
-            else: sn = sid[:20]
-            print(f"  {i+1}. [{s['score']:.4f}] [{sn}] {s['artist'][:25]} — {s['title'][:25]} BPM={s['bpm']} {s['camelot']}")
+            sid = s["set_id"]
+            if "boiler-room" in sid:
+                sn = "BR Tokyo"
+            elif "keep-hush" in sid:
+                sn = "Keep Hush"
+            elif "midnight" in sid:
+                sn = "HÖR Berlin"
+            else:
+                sn = sid[:20]
+            print(
+                f"  {i + 1}. [{s['score']:.4f}] [{sn}] {s['artist'][:25]} — {s['title'][:25]} BPM={s['bpm']} {s['camelot']}"
+            )
     else:
         if not args.set:
             print("--index requires --set")

@@ -25,13 +25,12 @@ from pathlib import Path
 from typing import Any, Literal
 from urllib.parse import urlparse
 
-import requests
 from bs4 import BeautifulSoup
 
 # Project imports
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from lib.rate_limits import set79_get  # ← single gate for all HTTP
 from lib.lib_io import write_json
+from lib.rate_limits import set79_get  # ← single gate for all HTTP
 
 logger = logging.getLogger("01_parse")
 
@@ -40,6 +39,7 @@ Backend = Literal["set79", "1001tl", "fallback"]
 # ═══════════════════════════════════════════════════════════════════════
 # Helpers
 # ═══════════════════════════════════════════════════════════════════════
+
 
 def _parse_timecode(tc: str) -> float:
     """Convert 'HH:MM:SS' or 'MM:SS' to seconds."""
@@ -93,7 +93,7 @@ def _extract_soundcloud_url(html: str, set79_url: str) -> str | None:
     parsed = urlparse(set79_url)
     path = parsed.path
     if path.startswith("/tracklist/"):
-        sc_path = path[len("/tracklist/"):]
+        sc_path = path[len("/tracklist/") :]
         return f"https://{sc_path}"
     return None
 
@@ -116,6 +116,7 @@ def _extract_youtube_url(html: str) -> str | None:
 # ═══════════════════════════════════════════════════════════════════════
 # set79 parser
 # ═══════════════════════════════════════════════════════════════════════
+
 
 def parse_set79(url: str) -> dict:
     """
@@ -155,8 +156,19 @@ def parse_set79(url: str) -> dict:
     if desc_el:
         desc_text = desc_el.get_text()
         # Look for venue patterns in description
-        for kw in ["Boiler Room", "HÖR", "Keep Hush", "DEF", "NTS", "Rinse FM",
-                    "Coachella", "Ultra", "EDC", "Awakenings", "Tomorrowland"]:
+        for kw in [
+            "Boiler Room",
+            "HÖR",
+            "Keep Hush",
+            "DEF",
+            "NTS",
+            "Rinse FM",
+            "Coachella",
+            "Ultra",
+            "EDC",
+            "Awakenings",
+            "Tomorrowland",
+        ]:
             if kw in desc_text:
                 venue = kw
                 break
@@ -195,22 +207,24 @@ def parse_set79(url: str) -> dict:
             # Track name — cell[3]. set79 format: "Title - Artist"
             raw_name = cells[3].get_text(" ", strip=True)
             if raw_name.lower().startswith("unknown"):
-                raw_name = raw_name[len("Unknown "):].strip()
+                raw_name = raw_name[len("Unknown ") :].strip()
             track_artist, track_title = _split_artist_title(raw_name, title_first=True)
 
             # Time — cell[4]
             time_str = cells[4].get_text(strip=True).lstrip("▶").strip()
             start_sec = _parse_timecode(time_str)
 
-            tracks.append({
-                "position": pos,
-                "title": track_title or raw_name,
-                "artist": track_artist,
-                "timecode": time_str,
-                "start_sec": start_sec,
-                "audio": None,
-                "meta": None,
-            })
+            tracks.append(
+                {
+                    "position": pos,
+                    "title": track_title or raw_name,
+                    "artist": track_artist,
+                    "timecode": time_str,
+                    "start_sec": start_sec,
+                    "audio": None,
+                    "meta": None,
+                }
+            )
 
     # ── Build set dict ──
     # Derive set_id
@@ -244,6 +258,7 @@ def parse_set79(url: str) -> dict:
 # 1001tl parser (placeholder)
 # ═══════════════════════════════════════════════════════════════════════
 
+
 def parse_1001tl(url: str) -> dict:
     """
     Parse a 1001tracklists.com tracklist page.
@@ -260,6 +275,7 @@ def parse_1001tl(url: str) -> dict:
 # ═══════════════════════════════════════════════════════════════════════
 # CLI
 # ═══════════════════════════════════════════════════════════════════════
+
 
 def main():
     parser = argparse.ArgumentParser(description="Parse a DJ set tracklist from URL")

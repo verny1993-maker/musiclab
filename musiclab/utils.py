@@ -13,10 +13,10 @@ import math
 import re
 from typing import Optional
 
-
 # ═══════════════════════════════════════════════════════════════════════
 # Normalization
 # ═══════════════════════════════════════════════════════════════════════
+
 
 def norm(value: float, vmin: float, vmax: float) -> float:
     """Normalize value to [0, 1] with clamping. Returns 0.5 when vmin == vmax."""
@@ -28,6 +28,7 @@ def norm(value: float, vmin: float, vmax: float) -> float:
 # ═══════════════════════════════════════════════════════════════════════
 # Camelot wheel encoding
 # ═══════════════════════════════════════════════════════════════════════
+
 
 def camelot_to_angle(camelot: Optional[str]) -> tuple[float, float]:
     """
@@ -58,13 +59,33 @@ def camelot_to_angle(camelot: Optional[str]) -> tuple[float, float]:
 KEYS = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
 
 _CAMELOT_MAJOR = {
-    11: 1, 6: 2, 1: 3, 8: 4, 3: 5, 10: 6,
-    5: 7, 0: 8, 7: 9, 2: 10, 9: 11, 4: 12,
+    11: 1,
+    6: 2,
+    1: 3,
+    8: 4,
+    3: 5,
+    10: 6,
+    5: 7,
+    0: 8,
+    7: 9,
+    2: 10,
+    9: 11,
+    4: 12,
 }
 
 _CAMELOT_MINOR = {
-    8: 1, 3: 2, 10: 3, 5: 4, 0: 5, 7: 6,
-    2: 7, 9: 8, 4: 9, 11: 10, 6: 11, 1: 12,
+    8: 1,
+    3: 2,
+    10: 3,
+    5: 4,
+    0: 5,
+    7: 6,
+    2: 7,
+    9: 8,
+    4: 9,
+    11: 10,
+    6: 11,
+    1: 12,
 }
 
 _PITCH_TO_INDEX = {name: i for i, name in enumerate(KEYS)}
@@ -159,15 +180,15 @@ def track_to_vector(track: dict) -> list[float]:
 # Parsing utilities
 # ═══════════════════════════════════════════════════════════════════════
 
-_SANITIZE_RE = re.compile(r'[&/\\:*?"<>|()\[\]{}—–' "'" ']+')
-_SANITIZE_DASH_RE = re.compile(r'-{2,}')
+_SANITIZE_RE = re.compile(r'[&/\\:*?"<>|()\[\]{}—–' "'" "]+")
+_SANITIZE_DASH_RE = re.compile(r"-{2,}")
 
 
 def sanitize_filename(name: str) -> str:
     """Remove characters unsafe for filenames, collapse dashes, truncate to 120."""
-    name = _SANITIZE_RE.sub('', name)
-    name = _SANITIZE_DASH_RE.sub('-', name)
-    return name.strip(' -_.')[:120]
+    name = _SANITIZE_RE.sub("", name)
+    name = _SANITIZE_DASH_RE.sub("-", name)
+    return name.strip(" -_.")[:120]
 
 
 def parse_timecode(tc: str) -> float:

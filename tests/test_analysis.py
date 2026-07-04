@@ -54,7 +54,9 @@ def sine_wav_120bpm():
     for i in range(int(duration / beat_interval)):
         start = int(i * beat_interval * sr)
         end = min(start + int(0.05 * sr), len(y))
-        y[start:end] = np.sin(2 * np.pi * 200 * t[start:end]) * np.exp(-t[start:end] * 30)
+        y[start:end] = np.sin(2 * np.pi * 200 * t[start:end]) * np.exp(
+            -t[start:end] * 30
+        )
 
     with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as f:
         sf.write(f.name, y.astype(np.float32), sr)
@@ -70,10 +72,16 @@ class TestAnalyzeAudio:
     def _setup(self):
         """Try to import analyze_audio; skip if unavailable."""
         try:
-            _ma = Path(__file__).resolve().parent.parent.parent / "Hermes" / "data" / "music-analysis"
+            _ma = (
+                Path(__file__).resolve().parent.parent.parent
+                / "Hermes"
+                / "data"
+                / "music-analysis"
+            )
             if _ma.exists():
                 sys.path.insert(0, str(_ma))
             from server import analyze_audio
+
             self.analyze_audio = analyze_audio
         except (ImportError, ModuleNotFoundError):
             pytest.skip("music-analysis server.py not available")

@@ -46,7 +46,7 @@ import os
 import random
 import time
 from pathlib import Path
-from typing import Any, Optional
+from typing import Optional
 from urllib.parse import urljoin
 
 import requests
@@ -56,6 +56,7 @@ logger = logging.getLogger("rate_limits")
 # ═══════════════════════════════════════════════════════════════════════
 # Configuration (read from env, fall back to defaults)
 # ═══════════════════════════════════════════════════════════════════════
+
 
 def _env(key: str, default: str = "") -> str:
     val = os.environ.get(key, "")
@@ -81,25 +82,26 @@ def _env(key: str, default: str = "") -> str:
                 pass
     return default
 
+
 # MusicBrainz
 MB_BASE_URL = "https://musicbrainz.org"
 MB_USER_AGENT = _env(
     "MB_USER_AGENT",
     "MusicLab/0.1 ( verny1993@yandex.ru )",
 )
-MB_RATE = 1.0          # req/s per IP — hard on/off, so stay well under
+MB_RATE = 1.0  # req/s per IP — hard on/off, so stay well under
 MB_MIN_INTERVAL = 1.0 / MB_RATE  # 1.0s between requests
 
 # Discogs
 DISCOGS_BASE_URL = "https://api.discogs.com"
 DISCOGS_TOKEN = _env("DISCOGS_TOKEN", "")
-DISCOGS_RATE = 60       # req/min authenticated
+DISCOGS_RATE = 60  # req/min authenticated
 DISCOGS_MIN_INTERVAL = 60.0 / DISCOGS_RATE  # 1.0s between requests
 
 # Last.fm
 LASTFM_BASE_URL = "https://ws.audioscrobbler.com/2.0/"
 LASTFM_API_KEY = _env("LASTFM_API_KEY", "")
-LASTFM_RATE = 5          # req/s per IP
+LASTFM_RATE = 5  # req/s per IP
 LASTFM_MIN_INTERVAL = 1.0 / LASTFM_RATE  # 0.2s
 
 # Spotify
@@ -108,10 +110,10 @@ SPOTIFY_ACCESS_TOKEN = _env("SPOTIFY_ACCESS_TOKEN", "")
 
 # 1001tracklists
 N001TL_BASE_URL = "https://www.1001tracklists.com"
-N001TL_MIN_DELAY = 2.0      # minimum random delay between requests (seconds)
-N001TL_MAX_DELAY = 5.0      # maximum random delay
+N001TL_MIN_DELAY = 2.0  # minimum random delay between requests (seconds)
+N001TL_MAX_DELAY = 5.0  # maximum random delay
 N001TL_BACKOFF_BASE = 10.0  # base backoff after 403/429 (seconds)
-N001TL_MAX_RETRIES = 5      # max retries per URL
+N001TL_MAX_RETRIES = 5  # max retries per URL
 N001TL_BACKOFF_MULTIPLIER = 2.0  # exponential multiplier
 
 
@@ -129,7 +131,9 @@ def _wait_if_needed(source: str, min_interval: float) -> None:
     elapsed = now - last
     if elapsed < min_interval:
         sleep_time = min_interval - elapsed
-        logger.debug("%s: throttling %.2fs (interval=%.2fs)", source, sleep_time, min_interval)
+        logger.debug(
+            "%s: throttling %.2fs (interval=%.2fs)", source, sleep_time, min_interval
+        )
         time.sleep(sleep_time)
     _last_request[source] = time.monotonic()
 
@@ -173,10 +177,12 @@ def musicbrainz_get(path: str, params: dict | None = None) -> dict:
     """
     global _mb_session
     if _mb_session is None:
-        _mb_session = _build_session({
-            "User-Agent": MB_USER_AGENT,
-            "Accept": "application/json",
-        })
+        _mb_session = _build_session(
+            {
+                "User-Agent": MB_USER_AGENT,
+                "Accept": "application/json",
+            }
+        )
         _mb_session.verify = False  # SSL broken on Windows
     _wait_if_needed("musicbrainz", MB_MIN_INTERVAL)
 
@@ -269,9 +275,11 @@ def lastfm_get(params: dict) -> dict:
     """
     global _lastfm_session
     if _lastfm_session is None:
-        _lastfm_session = _build_session({
-            "User-Agent": MB_USER_AGENT,
-        })
+        _lastfm_session = _build_session(
+            {
+                "User-Agent": MB_USER_AGENT,
+            }
+        )
 
     _wait_if_needed("lastfm", LASTFM_MIN_INTERVAL)
 
@@ -325,10 +333,12 @@ def spotify_get(path: str, params: dict | None = None) -> dict:
     """
     global _spotify_session
     if _spotify_session is None:
-        _spotify_session = _build_session({
-            "Authorization": f"Bearer {SPOTIFY_ACCESS_TOKEN}",
-            "Content-Type": "application/json",
-        })
+        _spotify_session = _build_session(
+            {
+                "Authorization": f"Bearer {SPOTIFY_ACCESS_TOKEN}",
+                "Content-Type": "application/json",
+            }
+        )
 
     url = urljoin(SPOTIFY_BASE_URL, f"/v1/{path.lstrip('/')}")
     resp = _spotify_session.get(url, params=params, timeout=(10, 45))
@@ -357,19 +367,21 @@ _n001tl_session: Optional[requests.Session] = None
 
 def _n001tl_session_factory() -> requests.Session:
     """Build a session with browser-like headers for 1001tracklists."""
-    s = _build_session({
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/125.0.0.0 Safari/537.36"
-        ),
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.9",
-        "Accept-Encoding": "gzip, deflate, br",
-        "DNT": "1",
-        "Connection": "keep-alive",
-        "Upgrade-Insecure-Requests": "1",
-    })
+    s = _build_session(
+        {
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/125.0.0.0 Safari/537.36"
+            ),
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Accept-Encoding": "gzip, deflate, br",
+            "DNT": "1",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+        }
+    )
     return s
 
 
@@ -431,10 +443,16 @@ def scrape_1001tl(
         try:
             resp = _n001tl_session.get(url, timeout=(10, 60))
             if resp.status_code in (403, 429):
-                backoff = N001TL_BACKOFF_BASE * (N001TL_BACKOFF_MULTIPLIER ** (attempt - 1))
+                backoff = N001TL_BACKOFF_BASE * (
+                    N001TL_BACKOFF_MULTIPLIER ** (attempt - 1)
+                )
                 logger.warning(
                     "1001tl: %d on %s (attempt %d/%d), backoff %.1fs",
-                    resp.status_code, url, attempt, max_retries, backoff,
+                    resp.status_code,
+                    url,
+                    attempt,
+                    max_retries,
+                    backoff,
                 )
                 time.sleep(backoff)
                 last_exception = requests.HTTPError(
@@ -459,10 +477,15 @@ def scrape_1001tl(
         except requests.RequestException as e:
             last_exception = e
             if attempt < max_retries:
-                backoff = N001TL_BACKOFF_BASE * (N001TL_BACKOFF_MULTIPLIER ** (attempt - 1))
+                backoff = N001TL_BACKOFF_BASE * (
+                    N001TL_BACKOFF_MULTIPLIER ** (attempt - 1)
+                )
                 logger.warning(
                     "1001tl: request failed (attempt %d/%d): %s, backoff %.1fs",
-                    attempt, max_retries, e, backoff,
+                    attempt,
+                    max_retries,
+                    e,
+                    backoff,
                 )
                 time.sleep(backoff)
 
@@ -494,11 +517,13 @@ def set79_get(url: str) -> str:
     """
     global _set79_session
     if _set79_session is None:
-        _set79_session = _build_session({
-            "User-Agent": MB_USER_AGENT,
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-            "Accept-Language": "en-US,en;q=0.9",
-        })
+        _set79_session = _build_session(
+            {
+                "User-Agent": MB_USER_AGENT,
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Accept-Language": "en-US,en;q=0.9",
+            }
+        )
 
     _wait_if_needed("set79", _SET79_MIN_INTERVAL)
 

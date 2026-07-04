@@ -19,18 +19,14 @@ Usage:
 from __future__ import annotations
 
 import argparse
-import json
 import logging
 import os
-import shutil
 import subprocess
 import sys
-import tempfile
 import time
 from pathlib import Path
 
 import librosa
-import numpy as np
 import requests
 import soundfile as sf
 
@@ -49,7 +45,9 @@ EDGE_TRIM = 0.15
 ALIGNMENT_TOLERANCE_SEC = 15.0
 
 
-def download_audio(audio_url: str, youtube_url: str | None, dest_dir: str) -> str | None:
+def download_audio(
+    audio_url: str, youtube_url: str | None, dest_dir: str
+) -> str | None:
     """
     Download audio from SoundCloud (primary) or YouTube (fallback) using yt-dlp.
 
@@ -60,7 +58,9 @@ def download_audio(audio_url: str, youtube_url: str | None, dest_dir: str) -> st
     for f in os.listdir(dest_dir):
         if f.endswith(".wav"):
             path = os.path.join(dest_dir, f)
-            logger.info("Using cached audio: %s (%.1f MB)", f, os.path.getsize(path) / 1e6)
+            logger.info(
+                "Using cached audio: %s (%.1f MB)", f, os.path.getsize(path) / 1e6
+            )
             return path
 
     urls = [audio_url]
@@ -73,12 +73,19 @@ def download_audio(audio_url: str, youtube_url: str | None, dest_dir: str) -> st
         try:
             subprocess.run(
                 [
-                    sys.executable, "-m", "yt_dlp",
-                    "-x", "--audio-format", "wav",
-                    "--audio-quality", "0",
-                    "-o", f"{dest_dir}/%(title)s.%(ext)s",
+                    sys.executable,
+                    "-m",
+                    "yt_dlp",
+                    "-x",
+                    "--audio-format",
+                    "wav",
+                    "--audio-quality",
+                    "0",
+                    "-o",
+                    f"{dest_dir}/%(title)s.%(ext)s",
                     "--no-playlist",
-                    "--socket-timeout", "30",
+                    "--socket-timeout",
+                    "30",
                     url,
                 ],
                 check=True,
@@ -90,7 +97,9 @@ def download_audio(audio_url: str, youtube_url: str | None, dest_dir: str) -> st
             for f in os.listdir(dest_dir):
                 if f.endswith(".wav"):
                     path = os.path.join(dest_dir, f)
-                    logger.info("Downloaded: %s (%.1f MB)", f, os.path.getsize(path) / 1e6)
+                    logger.info(
+                        "Downloaded: %s (%.1f MB)", f, os.path.getsize(path) / 1e6
+                    )
                     return path
         except subprocess.CalledProcessError as e:
             logger.warning("%s download failed: %s", source, e.stderr[-200:])
@@ -130,7 +139,17 @@ def analyze_slice(wav_path: str, container_path: str | None = None) -> dict | No
             "beat_positions": data.get("beat_positions", []),
         }
         # Validate: all required fields must be present
-        required = ["bpm", "key", "camelot", "key_strength", "energy", "danceability", "loudness", "mfcc_mean", "beat_positions"]
+        required = [
+            "bpm",
+            "key",
+            "camelot",
+            "key_strength",
+            "energy",
+            "danceability",
+            "loudness",
+            "mfcc_mean",
+            "beat_positions",
+        ]
         # Fallback: null danceability → 0.5 (API bug workaround)
         for k in required:
             if af.get(k) is None:
@@ -140,7 +159,9 @@ def analyze_slice(wav_path: str, container_path: str | None = None) -> dict | No
                     af["bpm"] = 120.0  # reasonable default
         if any(af.get(k) is None for k in required):
             missing = [k for k in required if af.get(k) is None]
-            logger.warning("API returned incomplete audio_features: missing %s", missing)
+            logger.warning(
+                "API returned incomplete audio_features: missing %s", missing
+            )
             return None
         return af
     except Exception as e:
@@ -167,11 +188,13 @@ def enrich_audio(set_path: str) -> Path:
     audio_path = download_audio(audio_url, youtube_url, download_dir)
     if not audio_path:
         logger.error("Failed to download audio from all sources")
-        set_data.setdefault("errors", []).append({
-            "position": 0,
-            "stage": "02_enrich/download",
-            "reason": "Failed to download audio from SoundCloud and YouTube",
-        })
+        set_data.setdefault("errors", []).append(
+            {
+                "position": 0,
+                "stage": "02_enrich/download",
+                "reason": "Failed to download audio from SoundCloud and YouTube",
+            }
+        )
         write_json(set_data, "set", set_path)
         return Path(set_path)
 
@@ -189,7 +212,10 @@ def enrich_audio(set_path: str) -> Path:
         logger.warning(
             "ALIGNMENT WARNING: audio duration %.1fs vs last track start %.1fs (gap=%.1fs, %d tracks). "
             "Manual alignment_checked flag NOT set.",
-            full_duration, last_timecode, gap, len(tracks),
+            full_duration,
+            last_timecode,
+            gap,
+            len(tracks),
         )
 
     # ── Step 3: Slice & analyze each track (offset-based loading) ──
@@ -218,12 +244,21 @@ def enrich_audio(set_path: str) -> Path:
 
         slice_duration = end_sec - start_sec
         if slice_duration < 5:
-            logger.warning("[%d/%d] %s — %s: too short (%.1fs), skipping", pos, len(tracks), artist, title, slice_duration)
-            errors.append({
-                "position": pos,
-                "stage": "02_enrich/slice",
-                "reason": f"Track slice too short ({slice_duration:.1f}s)",
-            })
+            logger.warning(
+                "[%d/%d] %s — %s: too short (%.1fs), skipping",
+                pos,
+                len(tracks),
+                artist,
+                title,
+                slice_duration,
+            )
+            errors.append(
+                {
+                    "position": pos,
+                    "stage": "02_enrich/slice",
+                    "reason": f"Track slice too short ({slice_duration:.1f}s)",
+                }
+            )
             continue
 
         # Trim edges: exclude transition zones
@@ -239,26 +274,39 @@ def enrich_audio(set_path: str) -> Path:
         slice_dur = trim_end - trim_start
         try:
             slice_y, _ = librosa.load(
-                audio_path, sr=sr, mono=True,
-                offset=trim_start, duration=slice_dur,
+                audio_path,
+                sr=sr,
+                mono=True,
+                offset=trim_start,
+                duration=slice_dur,
             )
         except Exception as e:
             logger.warning("[%d] Failed to load slice: %s", pos, e)
-            errors.append({
-                "position": pos,
-                "stage": "02_enrich/slice",
-                "reason": f"Failed to load audio slice: {e}",
-            })
+            errors.append(
+                {
+                    "position": pos,
+                    "stage": "02_enrich/slice",
+                    "reason": f"Failed to load audio slice: {e}",
+                }
+            )
             continue
 
         if len(slice_y) < sr * 2:  # less than 2 seconds
-            logger.warning("[%d/%d] %s — %s: slice too short (%d samples), skipping",
-                           pos, len(tracks), artist, title, len(slice_y))
-            errors.append({
-                "position": pos,
-                "stage": "02_enrich/slice",
-                "reason": "Slice too short after loading",
-            })
+            logger.warning(
+                "[%d/%d] %s — %s: slice too short (%d samples), skipping",
+                pos,
+                len(tracks),
+                artist,
+                title,
+                len(slice_y),
+            )
+            errors.append(
+                {
+                    "position": pos,
+                    "stage": "02_enrich/slice",
+                    "reason": "Slice too short after loading",
+                }
+            )
             continue
 
         # Export temp WAV
@@ -268,21 +316,37 @@ def enrich_audio(set_path: str) -> Path:
         sf.write(tmp_host, slice_y, sr)
 
         # Analyze
-        logger.info("[%d/%d] %s — %s (%.1f-%.1fs, trim %.1fs, slice %.1fs)",
-                     pos, len(tracks), artist, title, start_sec, end_sec, trim, slice_dur)
+        logger.info(
+            "[%d/%d] %s — %s (%.1f-%.1fs, trim %.1fs, slice %.1fs)",
+            pos,
+            len(tracks),
+            artist,
+            title,
+            start_sec,
+            end_sec,
+            trim,
+            slice_dur,
+        )
         af = analyze_slice(tmp_host, tmp_container)
 
         if af:
             track["audio"] = af
             enriched += 1
-            logger.info("  -> bpm=%-6s key=%-10s camelot=%-4s energy=%.3f",
-                         af.get("bpm"), af.get("key"), af.get("camelot"), af.get("energy", 0))
+            logger.info(
+                "  -> bpm=%-6s key=%-10s camelot=%-4s energy=%.3f",
+                af.get("bpm"),
+                af.get("key"),
+                af.get("camelot"),
+                af.get("energy", 0),
+            )
         else:
-            errors.append({
-                "position": pos,
-                "stage": "02_enrich/analysis",
-                "reason": f"Audio analysis failed for {artist} — {title}",
-            })
+            errors.append(
+                {
+                    "position": pos,
+                    "stage": "02_enrich/analysis",
+                    "reason": f"Audio analysis failed for {artist} — {title}",
+                }
+            )
             logger.warning("  -> ANALYSIS FAILED")
 
         # Cleanup temp
@@ -298,8 +362,12 @@ def enrich_audio(set_path: str) -> Path:
     set_data["errors"] = errors
     set_data["enriched_at"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
     result = write_json(set_data, "set", set_path)
-    logger.info("Done: %d enriched, %d skipped, %d errors", enriched, skipped,
-                 len([e for e in errors if e.get("stage", "").startswith("02_enrich")]))
+    logger.info(
+        "Done: %d enriched, %d skipped, %d errors",
+        enriched,
+        skipped,
+        len([e for e in errors if e.get("stage", "").startswith("02_enrich")]),
+    )
     return result
 
 

@@ -1,5 +1,7 @@
 # MusicLab — DJ Set Analysis Pipeline
 
+[![CI](https://github.com/verny1993-maker/musiclab/actions/workflows/ci.yml/badge.svg)](https://github.com/verny1993-maker/musiclab/actions)
+
 **Parse, analyze, enrich, and build artist intelligence from DJ sets and music libraries.**
 
 MusicLab is a multi-stage pipeline that takes DJ set tracklists, downloads the audio, extracts musical features (BPM, key, Camelot, energy, danceability, MFCC, beat grid), enriches with metadata from 5 external APIs, builds 8D embedding vectors for similarity search, and generates artist/venue intelligence cards.

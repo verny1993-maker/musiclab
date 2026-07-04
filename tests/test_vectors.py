@@ -14,17 +14,17 @@ import pytest
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from musiclab.utils import (
-    norm,
-    camelot_to_angle,
     build_8d_vector,
-    track_to_vector,
+    camelot_to_angle,
+    norm,
     sanitize_filename,
+    track_to_vector,
 )
-
 
 # ═══════════════════════════════════════════════════════════
 # norm
 # ═══════════════════════════════════════════════════════════
+
 
 class TestNorm:
     def test_min_value(self):
@@ -57,6 +57,7 @@ class TestNorm:
 # ═══════════════════════════════════════════════════════════
 # camelot_to_angle
 # ═══════════════════════════════════════════════════════════
+
 
 class TestCamelotToAngle:
     def test_1a(self):
@@ -120,6 +121,7 @@ class TestCamelotToAngle:
 # build_8d_vector
 # ═══════════════════════════════════════════════════════════
 
+
 class TestBuild8dVector:
     def test_length(self):
         v = build_8d_vector(128, "8A", 0.7, 0.65, [-140, 85, -12])
@@ -166,10 +168,18 @@ class TestBuild8dVector:
 # track_to_vector
 # ═══════════════════════════════════════════════════════════
 
+
 class TestTrackToVector:
     def test_full_track(self):
-        track = {"audio": {"bpm": 128, "camelot": "8A", "energy": 0.72,
-                "danceability": 0.65, "mfcc_mean": [-140.2, 85.3, -12.1]}}
+        track = {
+            "audio": {
+                "bpm": 128,
+                "camelot": "8A",
+                "energy": 0.72,
+                "danceability": 0.65,
+                "mfcc_mean": [-140.2, 85.3, -12.1],
+            }
+        }
         v = track_to_vector(track)
         assert len(v) == 8
         for i, val in enumerate(v):
@@ -183,16 +193,41 @@ class TestTrackToVector:
         assert len(v) == 8
 
     def test_null_fields(self):
-        track = {"audio": {"bpm": None, "camelot": None, "energy": None,
-                "danceability": None, "mfcc_mean": None}}
+        track = {
+            "audio": {
+                "bpm": None,
+                "camelot": None,
+                "energy": None,
+                "danceability": None,
+                "mfcc_mean": None,
+            }
+        }
         v = track_to_vector(track)
         assert len(v) == 8
 
     def test_bpm_range(self):
-        slow = track_to_vector({"audio": {"bpm": 60, "camelot": "1B", "energy": 0.5,
-                "danceability": 0.5, "mfcc_mean": [0, 0, 0]}})
-        fast = track_to_vector({"audio": {"bpm": 200, "camelot": "1B", "energy": 0.5,
-                "danceability": 0.5, "mfcc_mean": [0, 0, 0]}})
+        slow = track_to_vector(
+            {
+                "audio": {
+                    "bpm": 60,
+                    "camelot": "1B",
+                    "energy": 0.5,
+                    "danceability": 0.5,
+                    "mfcc_mean": [0, 0, 0],
+                }
+            }
+        )
+        fast = track_to_vector(
+            {
+                "audio": {
+                    "bpm": 200,
+                    "camelot": "1B",
+                    "energy": 0.5,
+                    "danceability": 0.5,
+                    "mfcc_mean": [0, 0, 0],
+                }
+            }
+        )
         assert slow[0] == pytest.approx(0.0, abs=0.01)
         assert fast[0] == pytest.approx(1.0, abs=0.01)
 
@@ -200,6 +235,7 @@ class TestTrackToVector:
 # ═══════════════════════════════════════════════════════════
 # sanitize_filename
 # ═══════════════════════════════════════════════════════════
+
 
 class TestSanitizeFilename:
     def test_basic(self):

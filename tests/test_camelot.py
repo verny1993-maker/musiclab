@@ -44,18 +44,36 @@ class TestPitchToCamelot:
 
     def test_all_major_keys(self):
         expected = {
-            "B": "1B", "F#": "2B", "C#": "3B", "G#": "4B",
-            "D#": "5B", "A#": "6B", "F": "7B", "C": "8B",
-            "G": "9B", "D": "10B", "A": "11B", "E": "12B",
+            "B": "1B",
+            "F#": "2B",
+            "C#": "3B",
+            "G#": "4B",
+            "D#": "5B",
+            "A#": "6B",
+            "F": "7B",
+            "C": "8B",
+            "G": "9B",
+            "D": "10B",
+            "A": "11B",
+            "E": "12B",
         }
         for key, exp in expected.items():
             assert pitch_to_camelot(key, "major") == exp, f"{key} major"
 
     def test_all_minor_keys(self):
         expected = {
-            "G#": "1A", "D#": "2A", "A#": "3A", "F": "4A",
-            "C": "5A", "G": "6A", "D": "7A", "A": "8A",
-            "E": "9A", "B": "10A", "F#": "11A", "C#": "12A",
+            "G#": "1A",
+            "D#": "2A",
+            "A#": "3A",
+            "F": "4A",
+            "C": "5A",
+            "G": "6A",
+            "D": "7A",
+            "A": "8A",
+            "E": "9A",
+            "B": "10A",
+            "F#": "11A",
+            "C#": "12A",
         }
         for key, exp in expected.items():
             assert pitch_to_camelot(key, "minor") == exp, f"{key} minor"

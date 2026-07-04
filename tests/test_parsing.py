@@ -9,7 +9,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from musiclab.utils import parse_timecode, split_artist_title, slugify
+from musiclab.utils import parse_timecode, slugify, split_artist_title
 
 
 class TestParseTimecode:

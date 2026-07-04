@@ -16,13 +16,11 @@ from __future__ import annotations
 import argparse
 import logging
 import sys
-import time
 from pathlib import Path
-from typing import Any
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from lib.rate_limits import discogs_get, musicbrainz_get, lastfm_get
 from lib.lib_io import load_json, write_json
+from lib.rate_limits import discogs_get, lastfm_get, musicbrainz_get
 
 logger = logging.getLogger("02_enrich_meta")
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(name)s] %(message)s")
@@ -32,11 +30,14 @@ def _search_discogs(artist: str, title: str) -> dict | None:
     """Search Discogs for a release matching artist + title."""
     query = f"{artist} {title}"
     try:
-        data = discogs_get("/database/search", params={
-            "q": query,
-            "type": "release",
-            "per_page": 3,
-        })
+        data = discogs_get(
+            "/database/search",
+            params={
+                "q": query,
+                "type": "release",
+                "per_page": 3,
+            },
+        )
     except Exception as e:
         logger.warning("Discogs search failed for %s — %s: %s", artist, title, e)
         return None
@@ -79,10 +80,13 @@ def _search_musicbrainz(artist: str, title: str) -> dict | None:
     """Search MusicBrainz for genres."""
     query = f'artist:"{artist}" AND recording:"{title}"'
     try:
-        data = musicbrainz_get("/ws/2/recording/", params={
-            "query": query,
-            "limit": 3,
-        })
+        data = musicbrainz_get(
+            "/ws/2/recording/",
+            params={
+                "query": query,
+                "limit": 3,
+            },
+        )
     except Exception as e:
         logger.warning("MusicBrainz search failed for %s — %s: %s", artist, title, e)
         return None
@@ -103,11 +107,13 @@ def _search_musicbrainz(artist: str, title: str) -> dict | None:
 def _search_lastfm(artist: str, title: str) -> dict | None:
     """Search Last.fm for genres."""
     try:
-        data = lastfm_get({
-            "method": "track.getInfo",
-            "artist": artist,
-            "track": title,
-        })
+        data = lastfm_get(
+            {
+                "method": "track.getInfo",
+                "artist": artist,
+                "track": title,
+            }
+        )
     except Exception as e:
         logger.warning("Last.fm search failed for %s — %s: %s", artist, title, e)
         return None
@@ -169,7 +175,12 @@ def enrich_meta(set_path: str) -> Path:
                     meta["year"] = None
             track["meta"] = meta
             enriched += 1
-            logger.info("  -> %s | year=%s | %d genres", meta.get("label", "?"), meta.get("year"), len(meta.get("genres") or []))
+            logger.info(
+                "  -> %s | year=%s | %d genres",
+                meta.get("label", "?"),
+                meta.get("year"),
+                len(meta.get("genres") or []),
+            )
         else:
             # Partial: try Last.fm directly if Discogs failed
             lf = _search_lastfm(artist, title)
@@ -178,23 +189,32 @@ def enrich_meta(set_path: str) -> Path:
                 enriched += 1
                 logger.info("  -> lastfm only | %d genres", len(lf.get("genres") or []))
             else:
-                errors.append({
-                    "position": pos,
-                    "stage": "02_enrich_meta",
-                    "reason": f"No metadata found for {artist} — {title}",
-                })
+                errors.append(
+                    {
+                        "position": pos,
+                        "stage": "02_enrich_meta",
+                        "reason": f"No metadata found for {artist} — {title}",
+                    }
+                )
                 logger.warning("  -> NOT FOUND")
 
         # Small delay between tracks (already handled by rate_limits per-request)
 
     set_data["errors"] = errors
     result = write_json(set_data, "set", set_path)
-    logger.info("Done: %d enriched, %d skipped, %d errors", enriched, skipped, len(errors) - len(set_data.get("errors", [])))
+    logger.info(
+        "Done: %d enriched, %d skipped, %d errors",
+        enriched,
+        skipped,
+        len(errors) - len(set_data.get("errors", [])),
+    )
     return result
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Enrich track metadata from Discogs/MusicBrainz/Last.fm")
+    parser = argparse.ArgumentParser(
+        description="Enrich track metadata from Discogs/MusicBrainz/Last.fm"
+    )
     parser.add_argument("--set", required=True, help="Path to set JSON file")
     args = parser.parse_args()
     enrich_meta(args.set)
