@@ -66,6 +66,7 @@ Repository = "https://github.com/verny1993-maker/musiclab"
 
 [tool.ruff]
 target-version = "py311"
+extend-exclude = ["deploy/", ".venv/"]
 
 [tool.ruff.lint]
 select = ["E", "F", "W", "I"]

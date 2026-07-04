@@ -1,0 +1,6 @@
+librosa>=0.10.0
+soundfile>=0.12.0
+fastapi>=0.100.0
+uvicorn>=0.23.0
+numpy>=1.24.0
+essentia>=2.1b5

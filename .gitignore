@@ -50,6 +50,10 @@ qdrant/
 # Misc
 ac
 _archive/
+run.ps1
+
+# Playlists (auto-generated)
+data/playlists/
 
 # Logs
 *.log
@@ -57,3 +61,9 @@ _archive/
 # Coverage
 .coverage
 .pytest_cache/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl

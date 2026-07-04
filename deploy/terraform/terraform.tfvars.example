@@ -1,0 +1,4 @@
+# Terraform variables — copy to terraform.tfvars and fill in
+aws_region     = "us-east-1"
+service_name   = "musiclab-api"
+container_image = "CHANGE_ME"  # from: aws lightsail get-container-images --service-name musiclab-api
