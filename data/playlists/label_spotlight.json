@@ -1,0 +1,4840 @@
+[
+  {
+    "id": "0R3BCpAupuah7hGTA4xccc",
+    "artist": "Skeptical, Alix Perez",
+    "name": "Taurus",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "neurofunk",
+          "All",
+          "dnb",
+          "british"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Skeptical (2) & Alix Perez - Without A Trace EP",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/9877084",
+      "genres": [
+        "all",
+        "british",
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "neurofunk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3Po3Q57geiL5JOZpqjUXXo",
+    "artist": "Alden Tyrell, Detroit In Effect",
+    "name": "Let Me C U - Techno-Vocal",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Electro"
+        ],
+        "lastfm_genres": [
+          "Italo Disco",
+          "electro",
+          "Disco",
+          "electronic",
+          "the west coast sound of holland"
+        ]
+      },
+      "label": "Clone West Coast Series",
+      "release": "Alden Tyrell, Detroit In Effect* - Present: The Greys Part 1",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35932078",
+      "genres": [
+        "disco",
+        "electro",
+        "electronic",
+        "italo disco",
+        "the west coast sound of holland"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2axYDVx47F1TVlmEUi9oiz",
+    "artist": "Alden Tyrell, Detroit In Effect",
+    "name": "Let Me C U - Electro-Vocal",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Electro"
+        ],
+        "lastfm_genres": [
+          "Italo Disco",
+          "electro",
+          "Disco",
+          "electronic",
+          "the west coast sound of holland"
+        ]
+      },
+      "label": "Clone West Coast Series",
+      "release": "Alden Tyrell, Detroit In Effect* - Present: The Greys Part 1",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35932078",
+      "genres": [
+        "disco",
+        "electro",
+        "electronic",
+        "italo disco",
+        "the west coast sound of holland"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4421WCnw87BrsJcEuG4yVQ",
+    "artist": "Red Axes",
+    "name": "Sound Text Xox",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Tech House",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "Disco",
+          "Garage Rock",
+          "Psychedelic Rock",
+          "new wave"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Red Axes - The Phone Call / Sound Text Xox",
+      "year": 2023,
+      "discogs_url": "https://www.discogs.com/release/26247074",
+      "genres": [
+        "disco",
+        "electronic",
+        "garage rock",
+        "new wave",
+        "psychedelic rock",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1AWVySdGojdnQDRyNd6Y2s",
+    "artist": "Oneohtrix Point Never",
+    "name": "D.I.S.",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Ambient",
+          "IDM",
+          "Plunderphonics"
+        ],
+        "lastfm_genres": [
+          "ambient",
+          "drone",
+          "experimental",
+          "electronic",
+          "psychedelic"
+        ]
+      },
+      "label": "Warp Records",
+      "release": "Oneohtrix Point Never - Tranquilizer",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35676676",
+      "genres": [
+        "ambient",
+        "drone",
+        "electronic",
+        "experimental",
+        "idm",
+        "plunderphonics",
+        "psychedelic"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1YlGQvoDePtFI0SjRazsvC",
+    "artist": "Jürgen Paape, Hella",
+    "name": "Grace (A Tale)",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Minimal",
+          "Tech House",
+          "Techno",
+          "Minimal Techno"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "electronic",
+          "Kompakt",
+          "german"
+        ]
+      },
+      "label": "Kompakt",
+      "release": "Various - Total 25",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35399563",
+      "genres": [
+        "electronic",
+        "german",
+        "kompakt",
+        "minimal",
+        "minimal techno",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7wOII0pOjOO03nLBVApgmo",
+    "artist": "Oltrefuturo",
+    "name": "Culto Del Sol",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Acid",
+          "Abstract"
+        ]
+      },
+      "label": "Multi Culti",
+      "release": "Oltrefuturo - Culto Del Sol",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/33029343",
+      "genres": [
+        "abstract",
+        "acid",
+        "electronic",
+        "house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3GXL1dPJEWOhmYgrlXAgsY",
+    "artist": "Detroit In Effect",
+    "name": "Playin' Games",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Electro"
+        ],
+        "lastfm_genres": [
+          "electro",
+          "nu electro",
+          "e-l-e-c-t-r-o",
+          "detroit",
+          "pimp"
+        ]
+      },
+      "label": "Clone West Coast Series",
+      "release": "Detroit In Effect* - Who's In Control ",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/36331357",
+      "genres": [
+        "detroit",
+        "e-l-e-c-t-r-o",
+        "electro",
+        "electronic",
+        "nu electro",
+        "pimp"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7N0HivwNaMQ70bIXX8PKte",
+    "artist": "6th Borough Project",
+    "name": "Back 2 Black",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Beatdown",
+          "Deep House",
+          "Nu-Disco"
+        ],
+        "lastfm_genres": [
+          "deep house",
+          "House",
+          "Disco",
+          "funk",
+          "nu disco"
+        ]
+      },
+      "label": "Delusions Of Grandeur",
+      "release": "6th Borough Project - Borough 2 Borough",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/5574396",
+      "genres": [
+        "beatdown",
+        "deep house",
+        "disco",
+        "electronic",
+        "funk",
+        "house",
+        "nu disco",
+        "nu-disco"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4Ie9nDMwwMbuesYPkIqiuU",
+    "artist": "6th Borough Project",
+    "name": "Through The Night",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Beatdown",
+          "Deep House",
+          "Nu-Disco"
+        ],
+        "lastfm_genres": [
+          "deep house",
+          "House",
+          "Disco",
+          "funk",
+          "nu disco"
+        ]
+      },
+      "label": "Delusions Of Grandeur",
+      "release": "6th Borough Project - Borough 2 Borough",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/5574396",
+      "genres": [
+        "beatdown",
+        "deep house",
+        "disco",
+        "electronic",
+        "funk",
+        "house",
+        "nu disco",
+        "nu-disco"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1j1HvcQ5saDmZHmxmq1qLx",
+    "artist": "6th Borough Project",
+    "name": "Our Love",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Beatdown",
+          "Deep House"
+        ],
+        "lastfm_genres": [
+          "deep house",
+          "House",
+          "Disco",
+          "funk",
+          "nu disco"
+        ]
+      },
+      "label": "Delusions Of Grandeur",
+      "release": "6th Borough Project - Borough 2 Borough",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/5444541",
+      "genres": [
+        "beatdown",
+        "deep house",
+        "disco",
+        "electronic",
+        "funk",
+        "house",
+        "nu disco"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2E6WTPlkw9uCQgZ9QzcSBg",
+    "artist": "Marcel Dettmann, Ben Klock",
+    "name": "Dawning",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Techno",
+          "Minimal Techno"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "minimal techno",
+          "minimal",
+          "dub techno",
+          "Berghain"
+        ]
+      },
+      "label": "Ostgut Ton",
+      "release": "Dettmann* | Klock* - Dawning / Dawning (Revisited)",
+      "year": 2013,
+      "discogs_url": "https://www.discogs.com/release/4817204",
+      "genres": [
+        "berghain",
+        "dub techno",
+        "electronic",
+        "house",
+        "minimal",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "321hWrisLKmLZ9bER2P7Yt",
+    "artist": "µ-Ziq",
+    "name": "Lunatic Harness",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Breakbeat",
+          "IDM",
+          "Experimental"
+        ],
+        "lastfm_genres": [
+          "idm",
+          "electronic",
+          "experimental",
+          "ambient",
+          "electronica"
+        ]
+      },
+      "label": "Planet Mu",
+      "release": "µ-Ziq - Lunatic Harness",
+      "year": 1997,
+      "discogs_url": "https://www.discogs.com/release/66788",
+      "genres": [
+        "ambient",
+        "breakbeat",
+        "electronic",
+        "electronica",
+        "experimental",
+        "idm"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4Wc2IIL5jGE1V9NkxS9OL3",
+    "artist": "Boards of Canada",
+    "name": "Rue The Whirl",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "IDM",
+          "Ambient"
+        ],
+        "lastfm_genres": [
+          "ambient",
+          "electronic",
+          "idm",
+          "chillout",
+          "electronica"
+        ]
+      },
+      "label": "Warp Records",
+      "release": "Boards Of Canada - Music Has The Right To Children",
+      "year": 2013,
+      "discogs_url": "https://www.discogs.com/release/5006908",
+      "genres": [
+        "ambient",
+        "chillout",
+        "electronic",
+        "electronica",
+        "idm"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4HhqwBWMkOPULvI62gsP7w",
+    "artist": "Fantastic Twins",
+    "name": "Uninhibited",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "downtempo",
+          "electronic",
+          "french",
+          "instrumental",
+          "composer"
+        ]
+      },
+      "label": "Kompakt Extra",
+      "release": "Fantastic Twins - Uninhibited",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/36716833",
+      "genres": [
+        "composer",
+        "downtempo",
+        "electronic",
+        "french",
+        "instrumental",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5GAmaKFWooeFb1u5hJtjBQ",
+    "artist": "Glowing Glisses",
+    "name": "Just Apologize",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep House",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "deep",
+          "House",
+          "deep house"
+        ]
+      },
+      "label": "Poker Flat Recordings",
+      "release": "Glowing Glisses - Silver Surfer",
+      "year": 2003,
+      "discogs_url": "https://www.discogs.com/release/95487",
+      "genres": [
+        "deep",
+        "deep house",
+        "electronic",
+        "house",
+        "minimal",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "43TBLMRXXHy4trPhp58sXF",
+    "artist": "Alix Perez",
+    "name": "Losing You",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "liquid funk",
+          "soulful drum and bass",
+          "dnb",
+          "Drum n Bass"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Alix Perez - Recall And Reflect EP",
+      "year": 2015,
+      "discogs_url": "https://www.discogs.com/release/7514155",
+      "genres": [
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "liquid funk",
+        "soulful drum and bass"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "72FABhOIjc950UHuktWqEP",
+    "artist": "Clarian",
+    "name": "Ma Shiva - Invisible Conga People Remix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep House"
+        ],
+        "lastfm_genres": [
+          "House",
+          "electronic",
+          "tech house",
+          "UK",
+          "synthwave"
+        ]
+      },
+      "label": "Multi Culti",
+      "release": "Clarian - Ma Shiva",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/6072653",
+      "genres": [
+        "deep house",
+        "electronic",
+        "house",
+        "synthwave",
+        "tech house",
+        "uk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1VwULeshH3z3VmiycnwzX3",
+    "artist": "Takuya Matsumoto",
+    "name": "87",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Deep House",
+          "Acid House"
+        ],
+        "lastfm_genres": [
+          "House",
+          "japanese",
+          "deep house",
+          "electronic",
+          "acid house"
+        ]
+      },
+      "label": "Clone Jack For Daze",
+      "release": "Takuya Matsumoto - 85 - 88",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/24657587",
+      "genres": [
+        "acid house",
+        "deep house",
+        "electronic",
+        "house",
+        "japanese"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0EaAI4j7qoN3BXjaXxjnu9",
+    "artist": "Takuya Matsumoto",
+    "name": "86",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Deep House",
+          "Acid House"
+        ],
+        "lastfm_genres": [
+          "House",
+          "japanese",
+          "deep house",
+          "electronic",
+          "acid house"
+        ]
+      },
+      "label": "Clone Jack For Daze",
+      "release": "Takuya Matsumoto - 85 - 88",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/24657587",
+      "genres": [
+        "acid house",
+        "deep house",
+        "electronic",
+        "house",
+        "japanese"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7nP7XKZ9fp5HM14QwL9lZ8",
+    "artist": "Takuya Matsumoto",
+    "name": "85",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Deep House",
+          "Acid House"
+        ],
+        "lastfm_genres": [
+          "House",
+          "japanese",
+          "deep house",
+          "electronic",
+          "acid house"
+        ]
+      },
+      "label": "Clone Jack For Daze",
+      "release": "Takuya Matsumoto - 85 - 88",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/24657587",
+      "genres": [
+        "acid house",
+        "deep house",
+        "electronic",
+        "house",
+        "japanese"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4xm1qRWNJqml5IxiHfuWtv",
+    "artist": "Takuya Matsumoto",
+    "name": "92",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Deep House"
+        ],
+        "lastfm_genres": [
+          "House",
+          "japanese",
+          "deep house",
+          "electronic",
+          "acid house"
+        ]
+      },
+      "label": "Clone Jack For Daze",
+      "release": "Takuya Matsumoto - 90 - 93",
+      "year": 2023,
+      "discogs_url": "https://www.discogs.com/release/26911289",
+      "genres": [
+        "acid house",
+        "deep house",
+        "electronic",
+        "house",
+        "japanese"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6NFzt1KvXbKhY38H7KYQB9",
+    "artist": "Takuya Matsumoto",
+    "name": "91",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Deep House"
+        ],
+        "lastfm_genres": [
+          "House",
+          "japanese",
+          "deep house",
+          "electronic",
+          "acid house"
+        ]
+      },
+      "label": "Clone Jack For Daze",
+      "release": "Takuya Matsumoto - 90 - 93",
+      "year": 2023,
+      "discogs_url": "https://www.discogs.com/release/26911289",
+      "genres": [
+        "acid house",
+        "deep house",
+        "electronic",
+        "house",
+        "japanese"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6tPU70iPKXV6TpXfzdHSgn",
+    "artist": "Planetary Assault Systems",
+    "name": "Thunder Major",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Ambient"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "minimal techno",
+          "detroit techno",
+          "electronic",
+          "minimal"
+        ]
+      },
+      "label": "Ostgut Ton",
+      "release": "Planetary Assault Systems - Planetary People",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37377273",
+      "genres": [
+        "ambient",
+        "detroit techno",
+        "electronic",
+        "minimal",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2iMV9m54c5Ir3xF1QycpgE",
+    "artist": "The Hundred In The Hands",
+    "name": "Pigeons",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Rock",
+          "Pop",
+          "Synth-pop",
+          "Indie Rock"
+        ],
+        "lastfm_genres": [
+          "electronic",
+          "electropop",
+          "female vocalists",
+          "indie",
+          "indietronica"
+        ]
+      },
+      "label": "Warp Records",
+      "release": "The Hundred In The Hands - The Hundred In The Hands",
+      "year": 2010,
+      "discogs_url": "https://www.discogs.com/release/2454603",
+      "genres": [
+        "electronic",
+        "electropop",
+        "female vocalists",
+        "indie",
+        "indie rock",
+        "indietronica",
+        "pop",
+        "rock",
+        "synth-pop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6CjcbAFeubiRKz5OHv9yGs",
+    "artist": "Pangaea",
+    "name": "You & I",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Dubstep"
+        ],
+        "lastfm_genres": [
+          "dubstep",
+          "electronic",
+          "experimental",
+          "bass",
+          "future garage"
+        ]
+      },
+      "label": "Hessle Audio",
+      "release": "Pangaea (4) - You & I",
+      "year": 2008,
+      "discogs_url": "https://www.discogs.com/release/1481147",
+      "genres": [
+        "bass",
+        "dubstep",
+        "electronic",
+        "experimental",
+        "future garage"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6KCgXxNqdjcu6y6CpyPL4C",
+    "artist": "6th Borough Project, Paul Joseph",
+    "name": "Read My Mind",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Beatdown",
+          "Deep House",
+          "Nu-Disco"
+        ],
+        "lastfm_genres": [
+          "deep house",
+          "House",
+          "Disco",
+          "funk",
+          "nu disco"
+        ]
+      },
+      "label": "Delusions Of Grandeur",
+      "release": "6th Borough Project - Borough 2 Borough",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/5574396",
+      "genres": [
+        "beatdown",
+        "deep house",
+        "disco",
+        "electronic",
+        "funk",
+        "house",
+        "nu disco",
+        "nu-disco"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "43xTeVWaUzB0khgS5qNxlc",
+    "artist": "D.H.S.",
+    "name": "House Of God - $50 Mix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "electronic",
+          "House",
+          "OC ReMix",
+          "touhou"
+        ]
+      },
+      "label": "R & S Records",
+      "release": "Dimensional Holofonic Sound* - The House Of God",
+      "year": 1991,
+      "discogs_url": "https://www.discogs.com/release/120661",
+      "genres": [
+        "electronic",
+        "house",
+        "oc remix",
+        "techno",
+        "touhou"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7t020iFDoAjNgc4mjUMBAS",
+    "artist": "Jaydee",
+    "name": "Plastic Dreams - Radio Edit",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Tribal",
+          "House"
+        ],
+        "lastfm_genres": [
+          "House",
+          "techno",
+          "dance",
+          "electronic",
+          "trance"
+        ]
+      },
+      "label": "R & S Records",
+      "release": "Jaydee - Plastic Dreams",
+      "year": 1992,
+      "discogs_url": "https://www.discogs.com/release/35547",
+      "genres": [
+        "dance",
+        "electronic",
+        "house",
+        "techno",
+        "trance",
+        "tribal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5F0vFiQJLtQ1E3VQmc7a7o",
+    "artist": "Aphex Twin",
+    "name": "Phlange Phace",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Breakbeat",
+          "Abstract",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "electronic",
+          "idm",
+          "ambient",
+          "experimental",
+          "electronica"
+        ]
+      },
+      "label": "R & S Records",
+      "release": "Aphex Twin - Xylem Tube E.P.",
+      "year": 1992,
+      "discogs_url": "https://www.discogs.com/release/1788489",
+      "genres": [
+        "abstract",
+        "ambient",
+        "breakbeat",
+        "electronic",
+        "electronica",
+        "experimental",
+        "idm",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "07B2B3iy8IW3oA4ezFT88A",
+    "artist": "Squarepusher",
+    "name": "E8 Boogie",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "IDM",
+          "Drum n Bass",
+          "Breakbeat"
+        ],
+        "lastfm_genres": [
+          "idm",
+          "electronic",
+          "experimental",
+          "Drum n Bass",
+          "electronica"
+        ]
+      },
+      "label": "Warp Records",
+      "release": "Squarepusher - Hard Normal Daddy",
+      "year": 1997,
+      "discogs_url": "https://www.discogs.com/release/30829",
+      "genres": [
+        "breakbeat",
+        "drum n bass",
+        "electronic",
+        "electronica",
+        "experimental",
+        "idm"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1M9VDz7fYxodeRKsdDtIHD",
+    "artist": "Pariah",
+    "name": "Orpheus",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "UK Garage",
+          "Dubstep"
+        ],
+        "lastfm_genres": [
+          "dubstep",
+          "thrash metal",
+          "future garage",
+          "electronic",
+          "Drum and bass"
+        ]
+      },
+      "label": "R & S Records",
+      "release": "Pariah (9) - Detroit Falls / Orpheus",
+      "year": 2010,
+      "discogs_url": "https://www.discogs.com/release/2234497",
+      "genres": [
+        "drum and bass",
+        "dubstep",
+        "electronic",
+        "future garage",
+        "thrash metal",
+        "uk garage"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3SqNoY0CBujQFSmBXMhg2U",
+    "artist": "Fantastic Twins",
+    "name": "False Index",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "downtempo",
+          "electronic",
+          "french",
+          "instrumental",
+          "composer"
+        ]
+      },
+      "label": "Kompakt Extra",
+      "release": "Fantastic Twins - Speicher 139",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37003566",
+      "genres": [
+        "composer",
+        "downtempo",
+        "electronic",
+        "french",
+        "instrumental",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0YbaAJ6FtbZr5O55dbiIrd",
+    "artist": "Steve Bug",
+    "name": "Electro Harmonix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep Techno",
+          "Dub Techno"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "minimal techno",
+          "minimal house",
+          "electronic"
+        ]
+      },
+      "label": "Poker Flat Recordings",
+      "release": "Steve Bug - Never Ending Winding Roads",
+      "year": 2020,
+      "discogs_url": "https://www.discogs.com/release/16205642",
+      "genres": [
+        "deep techno",
+        "dub techno",
+        "electronic",
+        "minimal",
+        "minimal house",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6bnWb9G3qjUFx1cs75lqwd",
+    "artist": "Josh Caffé",
+    "name": "Do You Want To Take Me Home",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Acid House",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "UK"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Josh Caffé* - Do You Want To Take Me Home?",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/23122745",
+      "genres": [
+        "acid house",
+        "electronic",
+        "techno",
+        "uk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "12CD0PAxh1ZgZoP51THm0J",
+    "artist": "Quelza",
+    "name": "One Thought Responds To Another",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Classical",
+          "Techno",
+          "Modern Classical"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "ambient",
+          "experimental",
+          "electronic",
+          "french"
+        ]
+      },
+      "label": "Ostgut Ton",
+      "release": "Quelza - Above The Clouds I Finally Found Peace",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/36657835",
+      "genres": [
+        "ambient",
+        "classical",
+        "electronic",
+        "experimental",
+        "french",
+        "modern classical",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5eyKd5yKjvq0GjXDo2dqC7",
+    "artist": "Quelza",
+    "name": "Argo Voa",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Classical",
+          "Techno",
+          "Modern Classical"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "ambient",
+          "experimental",
+          "electronic",
+          "french"
+        ]
+      },
+      "label": "Ostgut Ton",
+      "release": "Quelza - Above The Clouds I Finally Found Peace",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/36657835",
+      "genres": [
+        "ambient",
+        "classical",
+        "electronic",
+        "experimental",
+        "french",
+        "modern classical",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "62VouKi7VTsVuZlKB8SlW0",
+    "artist": "Hermit In A Rave Cave",
+    "name": "Sentimental Proverbs",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Electro",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "House",
+          "techno",
+          "funk_add_to_lidarr_batch_11",
+          "electro"
+        ]
+      },
+      "label": "Clone Jack For Daze",
+      "release": "Hermit In A Rave Cave - Hermit In A Rave Cave",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/25475926",
+      "genres": [
+        "electro",
+        "electronic",
+        "funk_add_to_lidarr_batch_11",
+        "house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1ismGdY6TRQKBBrWmgGJpe",
+    "artist": "John Tejada",
+    "name": "The Dream",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "minimal techno",
+          "electronic",
+          "House"
+        ]
+      },
+      "label": "Kompakt",
+      "release": "John Tejada - Parabolas",
+      "year": 2011,
+      "discogs_url": "https://www.discogs.com/release/2950047",
+      "genres": [
+        "electronic",
+        "house",
+        "minimal",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "49ucpPYrxG9yuUUoaahs3C",
+    "artist": "Autechre",
+    "name": "C/Pach",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Abstract",
+          "IDM",
+          "Ambient"
+        ],
+        "lastfm_genres": [
+          "idm",
+          "electronic",
+          "ambient",
+          "experimental",
+          "electronica"
+        ]
+      },
+      "label": "Warp Records",
+      "release": "Autechre - Tri Repetae",
+      "year": 2016,
+      "discogs_url": "https://www.discogs.com/release/9304093",
+      "genres": [
+        "abstract",
+        "ambient",
+        "electronic",
+        "electronica",
+        "experimental",
+        "idm"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7AfbtT8GN1iv3Crb11NaVI",
+    "artist": "Boards of Canada",
+    "name": "Telephasic Workshop",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "IDM",
+          "Downtempo"
+        ],
+        "lastfm_genres": [
+          "ambient",
+          "electronic",
+          "idm",
+          "chillout",
+          "electronica"
+        ]
+      },
+      "label": "Warp Records",
+      "release": "Boards Of Canada - Telephasic Workshop",
+      "year": 1998,
+      "discogs_url": "https://www.discogs.com/release/24007",
+      "genres": [
+        "ambient",
+        "chillout",
+        "downtempo",
+        "electronic",
+        "electronica",
+        "idm"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6gzAkH8lCFQ9yW0y9OimJX",
+    "artist": "Orlando Voorn",
+    "name": "Numb Denial - Afraid Of The Pain Mix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "detroit techno",
+          "tech house",
+          "electro house",
+          "detroit"
+        ]
+      },
+      "label": "Kompakt",
+      "release": "Orlando Voorn Prersents Dark Reality (4) - Numb Denial",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37484382",
+      "genres": [
+        "detroit",
+        "detroit techno",
+        "electro house",
+        "electronic",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4DsFm5zzW45W81Pescc7xc",
+    "artist": "Orlando Voorn",
+    "name": "Numb Denial - Main Mix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "detroit techno",
+          "tech house",
+          "electro house",
+          "detroit"
+        ]
+      },
+      "label": "Kompakt",
+      "release": "Orlando Voorn Prersents Dark Reality (4) - Numb Denial",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37484382",
+      "genres": [
+        "detroit",
+        "detroit techno",
+        "electro house",
+        "electronic",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5iMvDGgQyxEyZYbl9NI9M3",
+    "artist": "Session Victim",
+    "name": "Bring It Back",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Deep House",
+          "Disco",
+          "Downtempo"
+        ],
+        "lastfm_genres": [
+          "House",
+          "deep house",
+          "electronic",
+          "german",
+          "germany"
+        ]
+      },
+      "label": "Delusions Of Grandeur",
+      "release": "Session Victim - Listen To Your Heart",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/10380304",
+      "genres": [
+        "deep house",
+        "disco",
+        "downtempo",
+        "electronic",
+        "german",
+        "germany",
+        "house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "33nb0qJOhRVz3Bb8XLUqOo",
+    "artist": "Guido Schneider",
+    "name": "Re-Moved",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Minimal",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "minimal techno",
+          "electronic",
+          "tech house"
+        ]
+      },
+      "label": "Poker Flat Recordings",
+      "release": "Guido Schneider - Focus On Guido Schneider",
+      "year": 2006,
+      "discogs_url": "https://www.discogs.com/release/676368",
+      "genres": [
+        "electronic",
+        "minimal",
+        "minimal techno",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6TFJfNBmjLhEOumaSUfuOg",
+    "artist": "Steve Bug, Langenberg, Tim Engelhardt",
+    "name": "NGC 6240 - Tim Engelhardt Remix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "minimal techno",
+          "minimal house",
+          "electronic"
+        ]
+      },
+      "label": "Poker Flat Recordings",
+      "release": "Steve Bug & Langenberg - NGC 6240",
+      "year": 2018,
+      "discogs_url": "https://www.discogs.com/release/11617981",
+      "genres": [
+        "electronic",
+        "minimal",
+        "minimal house",
+        "minimal techno",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1B0RmknQSLdULgsSRqJXfJ",
+    "artist": "Joe Seven, dBridge",
+    "name": "Err Hello",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Electro",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "exit records",
+          "Drum and bass",
+          "autonomic",
+          "electronic",
+          "Italo Disco"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Joe Seven (2) x dBridge* - Radical Apathy",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35546296",
+      "genres": [
+        "autonomic",
+        "drum and bass",
+        "electro",
+        "electronic",
+        "exit records",
+        "italo disco",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6k2Uef1zyMyLKEIAgKEt20",
+    "artist": "Hermit In A Rave Cave",
+    "name": "Life and Ride",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Electro",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "House",
+          "techno",
+          "funk_add_to_lidarr_batch_11",
+          "electro"
+        ]
+      },
+      "label": "Clone Jack For Daze",
+      "release": "Hermit In A Rave Cave - Hermit In A Rave Cave",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/25475926",
+      "genres": [
+        "electro",
+        "electronic",
+        "funk_add_to_lidarr_batch_11",
+        "house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3CH3WNV6ZIkR46Ps6SgWP4",
+    "artist": "Session Victim",
+    "name": "Matching Half",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep House",
+          "House"
+        ],
+        "lastfm_genres": [
+          "House",
+          "deep house",
+          "electronic",
+          "german",
+          "germany"
+        ]
+      },
+      "label": "Delusions Of Grandeur",
+      "release": "Session Victim - Matching Half EP",
+      "year": 2016,
+      "discogs_url": "https://www.discogs.com/release/9198930",
+      "genres": [
+        "deep house",
+        "electronic",
+        "german",
+        "germany",
+        "house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1KOqY0QTSadQFRgbNw1sLh",
+    "artist": "Flying Lotus, Kendrick Lamar",
+    "name": "Never Catch Me",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Hip Hop",
+          "Jazz",
+          "Future Jazz",
+          "Experimental",
+          "Drum n Bass",
+          "Jazzy Hip-Hop"
+        ],
+        "lastfm_genres": [
+          "electronic",
+          "experimental",
+          "Hip-Hop",
+          "instrumental hip-hop",
+          "downtempo"
+        ]
+      },
+      "label": "Warp Records",
+      "release": "Flying Lotus - You're Dead!",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/6089455",
+      "genres": [
+        "downtempo",
+        "drum n bass",
+        "electronic",
+        "experimental",
+        "future jazz",
+        "hip hop",
+        "hip-hop",
+        "instrumental hip-hop",
+        "jazz",
+        "jazzy hip-hop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1MNd0iWkcrjhkgqJpRTblY",
+    "artist": "Simple Symmetry, Red Axes",
+    "name": "Problem - Red Axes Remix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Neo Trance",
+          "Progressive House"
+        ],
+        "lastfm_genres": [
+          "House",
+          "techno",
+          "ebm",
+          "wave",
+          "indie dance"
+        ]
+      },
+      "label": "Multi Culti",
+      "release": "Simple Symmetry - Problem",
+      "year": 2023,
+      "discogs_url": "https://www.discogs.com/release/27243582",
+      "genres": [
+        "ebm",
+        "electronic",
+        "house",
+        "indie dance",
+        "neo trance",
+        "progressive house",
+        "techno",
+        "wave"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1FQfVaOfWT6VS9ys52e35T",
+    "artist": "Glowing Glisses",
+    "name": "Glowing Glisses",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep House",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "deep",
+          "House",
+          "deep house"
+        ]
+      },
+      "label": "Poker Flat Recordings",
+      "release": "Glowing Glisses - Silver Surfer",
+      "year": 2003,
+      "discogs_url": "https://www.discogs.com/release/95487",
+      "genres": [
+        "deep",
+        "deep house",
+        "electronic",
+        "house",
+        "minimal",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6QwfRYRapiHwwj4zly3Fby",
+    "artist": "Joe Seven, dBridge",
+    "name": "Anachronistic",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Electro",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "exit records",
+          "Drum and bass",
+          "autonomic",
+          "electronic",
+          "Italo Disco"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Joe Seven (2) x dBridge* - Radical Apathy",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35546296",
+      "genres": [
+        "autonomic",
+        "drum and bass",
+        "electro",
+        "electronic",
+        "exit records",
+        "italo disco",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "34w6FOw3EAjxjX5avIXsDq",
+    "artist": "Heiko Voss",
+    "name": "I Think About You - DJ Koze Mix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Pop",
+          "House",
+          "Minimal"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "electronic",
+          "Kompakt",
+          "techno",
+          "germany"
+        ]
+      },
+      "label": "Kompakt Pop",
+      "release": "Heiko Voss - I Think About You",
+      "year": 2003,
+      "discogs_url": "https://www.discogs.com/release/182405",
+      "genres": [
+        "electronic",
+        "germany",
+        "house",
+        "kompakt",
+        "minimal",
+        "pop",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0VgYD2As0Tq0WPNAd66AwR",
+    "artist": "Michael Mayer",
+    "name": "Rudi Was A Punk",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Minimal",
+          "Ambient"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "minimal techno",
+          "electronic",
+          "techno",
+          "Kompakt"
+        ]
+      },
+      "label": "Kompakt",
+      "release": "Michael Mayer - Mantasy",
+      "year": 2012,
+      "discogs_url": "https://www.discogs.com/release/3961496",
+      "genres": [
+        "ambient",
+        "electronic",
+        "kompakt",
+        "minimal",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2aDkhzKGM3xxiNaUQnd8KJ",
+    "artist": "Aphex Twin",
+    "name": "Tamphex (Hedphuq Mix)",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Hardcore",
+          "IDM"
+        ],
+        "lastfm_genres": [
+          "electronic",
+          "idm",
+          "ambient",
+          "experimental",
+          "electronica"
+        ]
+      },
+      "label": "R & S Records",
+      "release": "The Aphex Twin* - Classics",
+      "year": 1995,
+      "discogs_url": "https://www.discogs.com/release/830",
+      "genres": [
+        "ambient",
+        "electronic",
+        "electronica",
+        "experimental",
+        "hardcore",
+        "idm",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "08EgS4Nqe1jPkI9tx9Dq3S",
+    "artist": "Boards of Canada",
+    "name": "Aquarius",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "IDM",
+          "Downtempo",
+          "Ambient"
+        ],
+        "lastfm_genres": [
+          "ambient",
+          "electronic",
+          "idm",
+          "chillout",
+          "electronica"
+        ]
+      },
+      "label": "Skam",
+      "release": "Boards Of Canada - Aquarius",
+      "year": 1998,
+      "discogs_url": "https://www.discogs.com/release/14936",
+      "genres": [
+        "ambient",
+        "chillout",
+        "downtempo",
+        "electronic",
+        "electronica",
+        "idm"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2p8e7OYGUJ9iOm19A5q1pK",
+    "artist": "Session Victim",
+    "name": "Shadows",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Deep House",
+          "Disco",
+          "Downtempo"
+        ],
+        "lastfm_genres": [
+          "House",
+          "deep house",
+          "electronic",
+          "german",
+          "germany"
+        ]
+      },
+      "label": "Delusions Of Grandeur",
+      "release": "Session Victim - Listen To Your Heart",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/10380304",
+      "genres": [
+        "deep house",
+        "disco",
+        "downtempo",
+        "electronic",
+        "german",
+        "germany",
+        "house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5EfF3PwzmS4qjHDlcKqzBv",
+    "artist": "Session Victim",
+    "name": "The Hatch",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Deep House",
+          "Disco",
+          "Downtempo"
+        ],
+        "lastfm_genres": [
+          "House",
+          "deep house",
+          "electronic",
+          "german",
+          "germany"
+        ]
+      },
+      "label": "Delusions Of Grandeur",
+      "release": "Session Victim - Listen To Your Heart",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/10380304",
+      "genres": [
+        "deep house",
+        "disco",
+        "downtempo",
+        "electronic",
+        "german",
+        "germany",
+        "house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1wSR0W875EJAr5YNPCRhN5",
+    "artist": "Guido Schneider",
+    "name": "Moesko",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Tech House",
+          "Minimal Techno"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "minimal techno",
+          "electronic",
+          "tech house"
+        ]
+      },
+      "label": "Poker Flat Recordings",
+      "release": "Guido Schneider - Unterwegs Mit Guido Schneider",
+      "year": 2004,
+      "discogs_url": "https://www.discogs.com/release/297600",
+      "genres": [
+        "electronic",
+        "minimal",
+        "minimal techno",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7BuDoV6lTOU9gFNjzwhe7c",
+    "artist": "Jasmín, Older Brother",
+    "name": "The Ride",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Bass Music",
+          "Techno",
+          "Dubstep"
+        ],
+        "lastfm_genres": [
+          "techno"
+        ]
+      },
+      "label": "Hessle Audio",
+      "release": "Jasmín* -  Bite The Hand That Feeds You",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35476168",
+      "genres": [
+        "bass music",
+        "dubstep",
+        "electronic",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0kgj0LBtcLNAJraJhpuTuI",
+    "artist": "Jasmín, Older Brother",
+    "name": "Overdriven",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Bass Music",
+          "Techno",
+          "Dubstep"
+        ],
+        "lastfm_genres": [
+          "techno"
+        ]
+      },
+      "label": "Hessle Audio",
+      "release": "Jasmín* -  Bite The Hand That Feeds You",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35476168",
+      "genres": [
+        "bass music",
+        "dubstep",
+        "electronic",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4yvFQS7uhEdSEzYxh4wBAn",
+    "artist": "Oltrefuturo",
+    "name": "Beca",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Acid",
+          "Abstract"
+        ]
+      },
+      "label": "Multi Culti",
+      "release": "Oltrefuturo - Culto Del Sol",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/33029343",
+      "genres": [
+        "abstract",
+        "acid",
+        "electronic",
+        "house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5JCjyRsnzkiic9vHoqpykC",
+    "artist": "CC:DISCO!, Confidence Man, Spray, Spriitzz",
+    "name": "Chez Moi (Waiting For You) - Spray's 'Club Spriitzz' Mix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "House",
+          "electronic",
+          "Portugal",
+          "boogie",
+          "funk_add_to_lidarr_batch_5"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "CC:DISCO! Featuring Confidence Man - Chez Moi (Waiting For You)",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37162788",
+      "genres": [
+        "boogie",
+        "electronic",
+        "funk_add_to_lidarr_batch_5",
+        "house",
+        "portugal",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "69uEGeNEinfv4otYc4ADRH",
+    "artist": "Takuya Matsumoto",
+    "name": "93",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Deep House"
+        ],
+        "lastfm_genres": [
+          "House",
+          "japanese",
+          "deep house",
+          "electronic",
+          "acid house"
+        ]
+      },
+      "label": "Clone Jack For Daze",
+      "release": "Takuya Matsumoto - 90 - 93",
+      "year": 2023,
+      "discogs_url": "https://www.discogs.com/release/26911289",
+      "genres": [
+        "acid house",
+        "deep house",
+        "electronic",
+        "house",
+        "japanese"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4rGX3IRS1wCzVpwSjU0hrh",
+    "artist": "Takuya Matsumoto",
+    "name": "90",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Deep House"
+        ],
+        "lastfm_genres": [
+          "House",
+          "japanese",
+          "deep house",
+          "electronic",
+          "acid house"
+        ]
+      },
+      "label": "Clone Jack For Daze",
+      "release": "Takuya Matsumoto - 90 - 93",
+      "year": 2023,
+      "discogs_url": "https://www.discogs.com/release/26911289",
+      "genres": [
+        "acid house",
+        "deep house",
+        "electronic",
+        "house",
+        "japanese"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6puAJhEiqhL5icISJY7tsy",
+    "artist": "John Tejada",
+    "name": "Subdivided",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "minimal techno",
+          "electronic",
+          "House"
+        ]
+      },
+      "label": "Kompakt",
+      "release": "John Tejada - Parabolas",
+      "year": 2011,
+      "discogs_url": "https://www.discogs.com/release/2950047",
+      "genres": [
+        "electronic",
+        "house",
+        "minimal",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2y9B6VY5OG0AyZ6ZUavI4t",
+    "artist": "Session Victim",
+    "name": "Shadows",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Deep House",
+          "Disco",
+          "Downtempo"
+        ],
+        "lastfm_genres": [
+          "House",
+          "deep house",
+          "electronic",
+          "german",
+          "germany"
+        ]
+      },
+      "label": "Delusions Of Grandeur",
+      "release": "Session Victim - Listen To Your Heart",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/10380304",
+      "genres": [
+        "deep house",
+        "disco",
+        "downtempo",
+        "electronic",
+        "german",
+        "germany",
+        "house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7F3MjS1b1xHeaeXyBTvCE0",
+    "artist": "Boards of Canada",
+    "name": "Turquoise Hexagon Sun",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Downtempo",
+          "Ambient"
+        ],
+        "lastfm_genres": [
+          "ambient",
+          "electronic",
+          "idm",
+          "chillout",
+          "electronica"
+        ]
+      },
+      "label": "Skam",
+      "release": "Boards Of Canada - Hi Scores",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/6197108",
+      "genres": [
+        "ambient",
+        "chillout",
+        "downtempo",
+        "electronic",
+        "electronica",
+        "idm"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5RJL1EYX399dHsamldPMwY",
+    "artist": "Skeptical, Alix Perez",
+    "name": "Without a Trace",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "neurofunk",
+          "All",
+          "dnb",
+          "british"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Skeptical (2) & Alix Perez - Without A Trace EP",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/9877084",
+      "genres": [
+        "all",
+        "british",
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "neurofunk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1FNeshISK3vjYw9ebBLw8o",
+    "artist": "Greta Levska",
+    "name": "Who's Here?",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Tech House",
+          "Deep House",
+          "Broken Beat"
+        ],
+        "lastfm_genres": [
+          "latin",
+          "instrumental",
+          "House",
+          "electronic",
+          "composer"
+        ]
+      },
+      "label": "Kompakt Exklusiv",
+      "release": "Joyce Muniz & Andre VII / Greta Levska - Freeze / Who’s Here?",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/36827278",
+      "genres": [
+        "broken beat",
+        "composer",
+        "deep house",
+        "electronic",
+        "house",
+        "instrumental",
+        "latin",
+        "tech house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "20sYMumws3RAkMPRu1YvQw",
+    "artist": "6th Borough Project",
+    "name": "The Hertz",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep House"
+        ],
+        "lastfm_genres": [
+          "deep house",
+          "House",
+          "Disco",
+          "funk",
+          "nu disco"
+        ]
+      },
+      "label": "Delusions Of Grandeur",
+      "release": "6th Borough Project - The Deal EP",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/36356563",
+      "genres": [
+        "deep house",
+        "disco",
+        "electronic",
+        "funk",
+        "house",
+        "nu disco"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "33spSpelFc51FItGAkAibr",
+    "artist": "Flying Lotus, Captain Murphy, Snoop Dogg",
+    "name": "Dead Man's Tetris",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Hip Hop",
+          "Jazz",
+          "Future Jazz",
+          "Experimental",
+          "Drum n Bass",
+          "Jazzy Hip-Hop"
+        ],
+        "lastfm_genres": [
+          "electronic",
+          "experimental",
+          "Hip-Hop",
+          "instrumental hip-hop",
+          "downtempo"
+        ]
+      },
+      "label": "Warp Records",
+      "release": "Flying Lotus - You're Dead!",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/6089455",
+      "genres": [
+        "downtempo",
+        "drum n bass",
+        "electronic",
+        "experimental",
+        "future jazz",
+        "hip hop",
+        "hip-hop",
+        "instrumental hip-hop",
+        "jazz",
+        "jazzy hip-hop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2z5PQ8n9F6JQL3Cb6TA2ka",
+    "artist": "Jürgen Paape",
+    "name": "Come Into My Life - Radio Edit",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Minimal",
+          "House"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "electronic",
+          "Kompakt",
+          "german"
+        ]
+      },
+      "label": "Kompakt Exklusiv",
+      "release": "Jürgen Paape - Kompilation",
+      "year": 2023,
+      "discogs_url": "https://www.discogs.com/release/26745599",
+      "genres": [
+        "electronic",
+        "german",
+        "house",
+        "kompakt",
+        "minimal",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5bAzVlsFU0Qpu3PEdiqmMD",
+    "artist": "Märtini Brös, Prins Thomas",
+    "name": "(She's) Heavy Metal - Prins Thomas Remix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "electronic",
+          "minimal",
+          "House",
+          "electro",
+          "minimal techno"
+        ]
+      },
+      "label": "Poker Flat Recordings",
+      "release": "Märtini Brös. - (She's) Heavy Metal",
+      "year": 2004,
+      "discogs_url": "https://www.discogs.com/release/325742",
+      "genres": [
+        "electro",
+        "electronic",
+        "house",
+        "minimal",
+        "minimal techno",
+        "tech house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6eOeHuVDlKSuLt98EZqUH5",
+    "artist": "Kolombo, Elekfantz, Michael Mayer",
+    "name": "Play This Game - Michael Mayer Club Edit",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "tech house",
+          "electronic",
+          "minimal techno"
+        ]
+      },
+      "label": "Kompakt",
+      "release": "Kolombo / Elekfantz - Play This Game",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/36825412",
+      "genres": [
+        "electronic",
+        "house",
+        "minimal",
+        "minimal techno",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5Ij8xC8dWoTxa8fsp5Osst",
+    "artist": "Steve Bug",
+    "name": "A Conscious Machine",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep Techno",
+          "Dub Techno"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "minimal techno",
+          "minimal house",
+          "electronic"
+        ]
+      },
+      "label": "Poker Flat Recordings",
+      "release": "Steve Bug - Never Ending Winding Roads",
+      "year": 2020,
+      "discogs_url": "https://www.discogs.com/release/16205642",
+      "genres": [
+        "deep techno",
+        "dub techno",
+        "electronic",
+        "minimal",
+        "minimal house",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0Q6gkFpjoCQD5fGtBIZ9Wl",
+    "artist": "Fixate",
+    "name": "Rumours",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Juke",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "halftime",
+          "instrumental",
+          "electronica",
+          "electronic",
+          "Drum and bass"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Fixate (2) - What Goes Around",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/11185310",
+      "genres": [
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "electronica",
+        "halftime",
+        "instrumental",
+        "juke"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2zWyk27ZZ22Bt6CA8GVWAP",
+    "artist": "AFX",
+    "name": "Wabby Legs",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "IDM",
+          "Breakcore",
+          "Experimental"
+        ],
+        "lastfm_genres": [
+          "idm",
+          "electronic",
+          "experimental",
+          "ambient",
+          "Acid"
+        ]
+      },
+      "label": "Warp Records",
+      "release": "AFX* - Hangable Auto Bulb EP",
+      "year": 1995,
+      "discogs_url": "https://www.discogs.com/release/136",
+      "genres": [
+        "acid",
+        "ambient",
+        "breakcore",
+        "electronic",
+        "experimental",
+        "idm"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7726U8Yn9Yj0OFimaTCE02",
+    "artist": "Steve Bug",
+    "name": "Loverboy",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Minimal",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "minimal techno",
+          "minimal house",
+          "electronic"
+        ]
+      },
+      "label": "Poker Flat Recordings",
+      "release": "Steve Bug - Loverboy (Re-Loved)",
+      "year": 2004,
+      "discogs_url": "https://www.discogs.com/release/359810",
+      "genres": [
+        "electronic",
+        "house",
+        "minimal",
+        "minimal house",
+        "minimal techno",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1B0RKtwtvsMXcFQuXqn2xj",
+    "artist": "Fixate, Skeptical",
+    "name": "The Rig Monkey",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Juke",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "halftime",
+          "instrumental",
+          "electronica",
+          "electronic",
+          "Drum and bass"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Fixate (2) - What Goes Around",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/11185310",
+      "genres": [
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "electronica",
+        "halftime",
+        "instrumental",
+        "juke"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1qUqx8kzrtgrjWtrBivRAT",
+    "artist": "6th Borough Project",
+    "name": "In Your Arms",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Beatdown",
+          "Deep House",
+          "Nu-Disco"
+        ],
+        "lastfm_genres": [
+          "deep house",
+          "House",
+          "Disco",
+          "funk",
+          "nu disco"
+        ]
+      },
+      "label": "Delusions Of Grandeur",
+      "release": "6th Borough Project - Borough 2 Borough",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/5574396",
+      "genres": [
+        "beatdown",
+        "deep house",
+        "disco",
+        "electronic",
+        "funk",
+        "house",
+        "nu disco",
+        "nu-disco"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5NyJfLtvE5tLV9d5HEQOoB",
+    "artist": "Märtini Brös",
+    "name": "(She's) Heavy Metal",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "electronic",
+          "minimal",
+          "House",
+          "electro",
+          "minimal techno"
+        ]
+      },
+      "label": "Poker Flat Recordings",
+      "release": "Märtini Brös. - (She's) Heavy Metal",
+      "year": 2004,
+      "discogs_url": "https://www.discogs.com/release/325742",
+      "genres": [
+        "electro",
+        "electronic",
+        "house",
+        "minimal",
+        "minimal techno",
+        "tech house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6SVGBGLvB7Sl9rb2hADfal",
+    "artist": "Red Axes",
+    "name": "Sound Test",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Leftfield",
+          "House",
+          "Acid"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "Disco",
+          "Garage Rock",
+          "Psychedelic Rock",
+          "new wave"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Red Axes - Sound Test",
+      "year": 2019,
+      "discogs_url": "https://www.discogs.com/release/13116309",
+      "genres": [
+        "acid",
+        "disco",
+        "electronic",
+        "garage rock",
+        "house",
+        "leftfield",
+        "new wave",
+        "psychedelic rock",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6e0xjHQQIWJNY0HSl4oK3S",
+    "artist": "Michael Mayer",
+    "name": "Neue Furche",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Minimal",
+          "Ambient"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "minimal techno",
+          "electronic",
+          "techno",
+          "Kompakt"
+        ]
+      },
+      "label": "Kompakt",
+      "release": "Michael Mayer - Mantasy",
+      "year": 2012,
+      "discogs_url": "https://www.discogs.com/release/3961496",
+      "genres": [
+        "ambient",
+        "electronic",
+        "kompakt",
+        "minimal",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "09W02h8QuNu7K9mjRjwu8k",
+    "artist": "Daniel Avery",
+    "name": "Need Electric",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Techno",
+          "Electro"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "electronic",
+          "House",
+          "ambient",
+          "idm"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Daniel Avery - Need Electric EP",
+      "year": 2012,
+      "discogs_url": "https://www.discogs.com/release/3752085",
+      "genres": [
+        "ambient",
+        "electro",
+        "electronic",
+        "house",
+        "idm",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "217CdFtQocILHi0TNKclJf",
+    "artist": "Glowing Glisses",
+    "name": "Pumas Don't Worry",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep House",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "deep",
+          "House",
+          "deep house"
+        ]
+      },
+      "label": "Poker Flat Recordings",
+      "release": "Glowing Glisses - Silver Surfer",
+      "year": 2003,
+      "discogs_url": "https://www.discogs.com/release/95487",
+      "genres": [
+        "deep",
+        "deep house",
+        "electronic",
+        "house",
+        "minimal",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4WThAKjiZbcAymTbK3xWzM",
+    "artist": "Fixate",
+    "name": "What Goes Around",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Juke",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "halftime",
+          "instrumental",
+          "electronica",
+          "electronic",
+          "Drum and bass"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Fixate (2) - What Goes Around",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/11185310",
+      "genres": [
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "electronica",
+        "halftime",
+        "instrumental",
+        "juke"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0fVDmqhQl9X4GpgR25ASXV",
+    "artist": "Betonkust, Innershades",
+    "name": "Public Access",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Acid"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "House",
+          "Acid",
+          "idm",
+          "netherlands"
+        ]
+      },
+      "label": "Clone Jack For Daze",
+      "release": "Betonkust & Innershades - Benelux Connection",
+      "year": 2019,
+      "discogs_url": "https://www.discogs.com/release/14298870",
+      "genres": [
+        "acid",
+        "electronic",
+        "house",
+        "idm",
+        "netherlands",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2CEgBA3E3NoHtV3ltdESJq",
+    "artist": "Red Axes",
+    "name": "Professor Grasstov",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Tech House",
+          "Leftfield",
+          "Acid"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "Disco",
+          "Garage Rock",
+          "Psychedelic Rock",
+          "new wave"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Red Axes - Some Lights",
+      "year": 2021,
+      "discogs_url": "https://www.discogs.com/release/20243722",
+      "genres": [
+        "acid",
+        "disco",
+        "electronic",
+        "garage rock",
+        "leftfield",
+        "new wave",
+        "psychedelic rock",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3ikZRF4zF05c7JwtjXStBT",
+    "artist": "Red Axes",
+    "name": "20 Min",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "Disco",
+          "Garage Rock",
+          "Psychedelic Rock",
+          "new wave"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Red Axes - Rhythm Passage",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/25236211",
+      "genres": [
+        "disco",
+        "electronic",
+        "garage rock",
+        "new wave",
+        "psychedelic rock",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6cjUtb7XopHEeQKBjj0rER",
+    "artist": "Daniel Avery",
+    "name": "Drone Logic",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Acid",
+          "Acid House",
+          "Tech House",
+          "Dark Ambient"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "electronic",
+          "House",
+          "ambient",
+          "idm"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Daniel Avery - Drone Logic",
+      "year": 2013,
+      "discogs_url": "https://www.discogs.com/release/4967829",
+      "genres": [
+        "acid",
+        "acid house",
+        "ambient",
+        "dark ambient",
+        "electronic",
+        "house",
+        "idm",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5mEYnNUtWCB97Z09tk2Nw2",
+    "artist": "Daniel Avery",
+    "name": "Water Jump",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Techno",
+          "Electro",
+          "Acid"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "electronic",
+          "House",
+          "ambient",
+          "idm"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Daniel Avery - Water Jump EP",
+      "year": 2012,
+      "discogs_url": "https://www.discogs.com/release/3980062",
+      "genres": [
+        "acid",
+        "ambient",
+        "electro",
+        "electronic",
+        "house",
+        "idm",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1XhuLzTH3GGF7wAyQDorZf",
+    "artist": "Jasmín",
+    "name": "Bite the Hand",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Bass Music",
+          "Techno",
+          "Dubstep"
+        ],
+        "lastfm_genres": [
+          "techno"
+        ]
+      },
+      "label": "Hessle Audio",
+      "release": "Jasmín* -  Bite The Hand That Feeds You",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35476168",
+      "genres": [
+        "bass music",
+        "dubstep",
+        "electronic",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "55J2ON7QxEqvKHoqrrlq9D",
+    "artist": "Skeptical, Alix Perez",
+    "name": "Solitude",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "neurofunk",
+          "All",
+          "dnb",
+          "british"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Skeptical (2) & Alix Perez - Without A Trace EP",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/9877084",
+      "genres": [
+        "all",
+        "british",
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "neurofunk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0rFsgkb1KUpjeMSbJcWqN0",
+    "artist": "Red Axes",
+    "name": "Sipoor",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Leftfield",
+          "House",
+          "Acid"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "Disco",
+          "Garage Rock",
+          "Psychedelic Rock",
+          "new wave"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Red Axes - Sipoor",
+      "year": 2018,
+      "discogs_url": "https://www.discogs.com/release/12155002",
+      "genres": [
+        "acid",
+        "disco",
+        "electronic",
+        "garage rock",
+        "house",
+        "leftfield",
+        "new wave",
+        "psychedelic rock",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0WJ8cuaiixBKJUsiRAnfRK",
+    "artist": "The Maghreban",
+    "name": "Strings",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep House",
+          "Tribal",
+          "Downtempo",
+          "African"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "electronic",
+          "downtempo",
+          "deep house",
+          "House"
+        ]
+      },
+      "label": "R & S Records",
+      "release": "The Maghreban - 01deas ",
+      "year": 2018,
+      "discogs_url": "https://www.discogs.com/release/11772992",
+      "genres": [
+        "african",
+        "deep house",
+        "downtempo",
+        "electronic",
+        "house",
+        "techno",
+        "tribal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6F60rBuoPckfGrERnDZcX2",
+    "artist": "Steve Bug",
+    "name": "Locked Away in My Head",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep Techno",
+          "Dub Techno"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "minimal techno",
+          "minimal house",
+          "electronic"
+        ]
+      },
+      "label": "Poker Flat Recordings",
+      "release": "Steve Bug - Never Ending Winding Roads",
+      "year": 2020,
+      "discogs_url": "https://www.discogs.com/release/16205642",
+      "genres": [
+        "deep techno",
+        "dub techno",
+        "electronic",
+        "minimal",
+        "minimal house",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7MP6NwsRBBmywS7kdEQKJ9",
+    "artist": "Joe Seven, dBridge",
+    "name": "Enjoyable Delusion",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Electro",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "exit records",
+          "Drum and bass",
+          "autonomic",
+          "electronic",
+          "Italo Disco"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Joe Seven (2) x dBridge* - Radical Apathy",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35546296",
+      "genres": [
+        "autonomic",
+        "drum and bass",
+        "electro",
+        "electronic",
+        "exit records",
+        "italo disco",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3XGCcV5pEI2xF7AW2SpfUA",
+    "artist": "Oltrefuturo",
+    "name": "Voce Cosmica",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Acid",
+          "Abstract"
+        ]
+      },
+      "label": "Multi Culti",
+      "release": "Oltrefuturo - Culto Del Sol",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/33029343",
+      "genres": [
+        "abstract",
+        "acid",
+        "electronic",
+        "house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4nxm7PqINcyIA7lcF5BBJV",
+    "artist": "John Tejada",
+    "name": "Farther And Fainter",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "minimal techno",
+          "electronic",
+          "House"
+        ]
+      },
+      "label": "Kompakt",
+      "release": "John Tejada - Parabolas",
+      "year": 2011,
+      "discogs_url": "https://www.discogs.com/release/2950047",
+      "genres": [
+        "electronic",
+        "house",
+        "minimal",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1x3vvrJK99uChU5StNcvim",
+    "artist": "Session Victim",
+    "name": "Moons and Flowers",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Deep House",
+          "Disco",
+          "Downtempo"
+        ],
+        "lastfm_genres": [
+          "House",
+          "deep house",
+          "electronic",
+          "german",
+          "germany"
+        ]
+      },
+      "label": "Delusions Of Grandeur",
+      "release": "Session Victim - Listen To Your Heart",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/10380304",
+      "genres": [
+        "deep house",
+        "disco",
+        "downtempo",
+        "electronic",
+        "german",
+        "germany",
+        "house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7CdySup9OS9itHaEBztbaK",
+    "artist": "GusGus",
+    "name": "Selfoss",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Progressive House",
+          "House",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "electronic",
+          "icelandic",
+          "House",
+          "techno",
+          "downtempo"
+        ]
+      },
+      "label": "Kompakt",
+      "release": "GusGus - Arabian Horse",
+      "year": 2011,
+      "discogs_url": "https://www.discogs.com/release/2897797",
+      "genres": [
+        "downtempo",
+        "electronic",
+        "house",
+        "icelandic",
+        "progressive house",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6K86fHySZSi1Vnop5MnooD",
+    "artist": "Oltrefuturo",
+    "name": "Prosperidade",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Acid",
+          "Abstract"
+        ]
+      },
+      "label": "Multi Culti",
+      "release": "Oltrefuturo - Culto Del Sol",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/33029343",
+      "genres": [
+        "abstract",
+        "acid",
+        "electronic",
+        "house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "16Irfu68OCWEdcIRzvQwaj",
+    "artist": "Nicola Cruz",
+    "name": "Rio Branco",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Latin",
+          "Folk, World, & Country",
+          "Deep House",
+          "Cumbia",
+          "Latin"
+        ],
+        "lastfm_genres": [
+          "ecuador",
+          "electronic",
+          "ecuadorian",
+          "andes step",
+          "downtempo"
+        ]
+      },
+      "label": "Multi Culti",
+      "release": "Nicola Cruz - Cantos De Visión",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/9640873",
+      "genres": [
+        "andes step",
+        "cumbia",
+        "deep house",
+        "downtempo",
+        "ecuador",
+        "ecuadorian",
+        "electronic",
+        "folk, world, & country",
+        "latin"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1c22hD79Nx7NUQhalugWtd",
+    "artist": "Daniel Avery",
+    "name": "Naive Response",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "electronic",
+          "House",
+          "ambient",
+          "idm"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Daniel Avery - Naive Response (Danny Daze Remix) / Reception (Perc Remix)",
+      "year": 2013,
+      "discogs_url": "https://www.discogs.com/release/5031359",
+      "genres": [
+        "ambient",
+        "electronic",
+        "house",
+        "idm",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2ph2tX9G9kAJ0lE8DqzC5i",
+    "artist": "Daniel Avery",
+    "name": "Free Floating",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Minimal",
+          "Acid"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "electronic",
+          "House",
+          "ambient",
+          "idm"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Daniel Avery - Need Electric (Audion Remix) / Free Floating (Matt Walsh Remix)",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/5482730",
+      "genres": [
+        "acid",
+        "ambient",
+        "electronic",
+        "house",
+        "idm",
+        "minimal",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "53VlzIz47O26mDaXsAIVu2",
+    "artist": "µ-Ziq",
+    "name": "Secret Stair #2",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Breakbeat",
+          "IDM",
+          "Experimental"
+        ],
+        "lastfm_genres": [
+          "idm",
+          "electronic",
+          "experimental",
+          "ambient",
+          "electronica"
+        ]
+      },
+      "label": "Planet Mu",
+      "release": "µ-Ziq - Lunatic Harness",
+      "year": 1997,
+      "discogs_url": "https://www.discogs.com/release/66788",
+      "genres": [
+        "ambient",
+        "breakbeat",
+        "electronic",
+        "electronica",
+        "experimental",
+        "idm"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "43uCZvphlB2b76urdbsnvo",
+    "artist": "Glowing Glisses",
+    "name": "Fragrance",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep House",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "deep",
+          "House",
+          "deep house"
+        ]
+      },
+      "label": "Poker Flat Recordings",
+      "release": "Glowing Glisses - Silver Surfer",
+      "year": 2003,
+      "discogs_url": "https://www.discogs.com/release/95487",
+      "genres": [
+        "deep",
+        "deep house",
+        "electronic",
+        "house",
+        "minimal",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4GrjH4BLMm0OxkvxY7f2hW",
+    "artist": "Glowing Glisses",
+    "name": "Silver Surfer",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep House",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "deep",
+          "House",
+          "deep house"
+        ]
+      },
+      "label": "Poker Flat Recordings",
+      "release": "Glowing Glisses - Silver Surfer",
+      "year": 2003,
+      "discogs_url": "https://www.discogs.com/release/95487",
+      "genres": [
+        "deep",
+        "deep house",
+        "electronic",
+        "house",
+        "minimal",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0pUnhZT8e9Qh53cTKDfvS9",
+    "artist": "Glowing Glisses",
+    "name": "Shaked Ladies",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "deep",
+          "House",
+          "deep house"
+        ]
+      },
+      "label": "Poker Flat Recordings",
+      "release": "Glowing Glisses - Shaked Ladies",
+      "year": 2002,
+      "discogs_url": "https://www.discogs.com/release/51867",
+      "genres": [
+        "deep",
+        "deep house",
+        "electronic",
+        "house",
+        "minimal",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1BWnSKtHKmAhTUeMdeLf4C",
+    "artist": "Shanti Celeste",
+    "name": "Cutie",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Deep House",
+          "UK Garage"
+        ],
+        "lastfm_genres": [
+          "House",
+          "electronic",
+          "deep house",
+          "techno",
+          "UK Garage"
+        ]
+      },
+      "label": "Hessle Audio",
+      "release": "Shanti Celeste - Cutie / Shimmer",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/24778664",
+      "genres": [
+        "deep house",
+        "electronic",
+        "house",
+        "techno",
+        "uk garage"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0G4m8FsJnNRr5ULahJnBt1",
+    "artist": "Fixate",
+    "name": "Murderers Dance Too",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Juke",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "halftime",
+          "instrumental",
+          "electronica",
+          "electronic",
+          "Drum and bass"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Fixate (2) - What Goes Around",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/11185310",
+      "genres": [
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "electronica",
+        "halftime",
+        "instrumental",
+        "juke"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "00GwxMge3vIOMeV43Erckc",
+    "artist": "Nicola Cruz",
+    "name": "Danza de Vision",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Latin",
+          "Folk, World, & Country",
+          "Deep House",
+          "Cumbia",
+          "Latin"
+        ],
+        "lastfm_genres": [
+          "ecuador",
+          "electronic",
+          "ecuadorian",
+          "andes step",
+          "downtempo"
+        ]
+      },
+      "label": "Multi Culti",
+      "release": "Nicola Cruz - Cantos De Visión",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/9640873",
+      "genres": [
+        "andes step",
+        "cumbia",
+        "deep house",
+        "downtempo",
+        "ecuador",
+        "ecuadorian",
+        "electronic",
+        "folk, world, & country",
+        "latin"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4KUFMJJ5t0HDIIsQFSe5s0",
+    "artist": "Detroit In Effect",
+    "name": "Who's In Control",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Electro"
+        ],
+        "lastfm_genres": [
+          "electro",
+          "nu electro",
+          "e-l-e-c-t-r-o",
+          "detroit",
+          "pimp"
+        ]
+      },
+      "label": "Clone West Coast Series",
+      "release": "Detroit In Effect* - Who's In Control ",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/36331357",
+      "genres": [
+        "detroit",
+        "e-l-e-c-t-r-o",
+        "electro",
+        "electronic",
+        "nu electro",
+        "pimp"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2pYNNEAHCO9I2P0dRTJXJX",
+    "artist": "Red Axes",
+    "name": "Some Lights",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Tech House",
+          "Leftfield",
+          "Acid"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "Disco",
+          "Garage Rock",
+          "Psychedelic Rock",
+          "new wave"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Red Axes - Some Lights",
+      "year": 2021,
+      "discogs_url": "https://www.discogs.com/release/20243722",
+      "genres": [
+        "acid",
+        "disco",
+        "electronic",
+        "garage rock",
+        "leftfield",
+        "new wave",
+        "psychedelic rock",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3VlWOLmnmNrM41DIekUfil",
+    "artist": "Iñigo Vontier",
+    "name": "Masika",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Tech House",
+          "House"
+        ],
+        "lastfm_genres": [
+          "psychedelic",
+          "electronic",
+          "drone",
+          "experimental",
+          "tech house"
+        ]
+      },
+      "label": "Multi Culti",
+      "release": "Iñigo Vontier / Thomass Jackson - Calypso Cult",
+      "year": 2019,
+      "discogs_url": "https://www.discogs.com/release/14433345",
+      "genres": [
+        "drone",
+        "electronic",
+        "experimental",
+        "house",
+        "psychedelic",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5Y2AFcvmnshDMMKfjkZ0wh",
+    "artist": "Roman Flügel",
+    "name": "Dragged",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Electro"
+        ],
+        "lastfm_genres": [
+          "House",
+          "electronic",
+          "techno",
+          "minimal",
+          "electro"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Roman Flügel - No Solutions",
+      "year": 2024,
+      "discogs_url": "https://www.discogs.com/release/32468787",
+      "genres": [
+        "electro",
+        "electronic",
+        "house",
+        "minimal",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0u56IvnisfW9gtUhdyhRML",
+    "artist": "Joe Seven, dBridge",
+    "name": "Possible Future",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Electro",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "exit records",
+          "Drum and bass",
+          "autonomic",
+          "electronic",
+          "Italo Disco"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Joe Seven (2) x dBridge* - Radical Apathy",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35546296",
+      "genres": [
+        "autonomic",
+        "drum and bass",
+        "electro",
+        "electronic",
+        "exit records",
+        "italo disco",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "15ApaDqVaM2uG8tuijPlPl",
+    "artist": "Betonkust, Innershades",
+    "name": "Abandoned Chat Room",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Techno",
+          "Electro"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "House",
+          "Acid",
+          "idm",
+          "netherlands"
+        ]
+      },
+      "label": "Clone Jack For Daze",
+      "release": "Betonkust & Innershades - Benelux Connection",
+      "year": 2019,
+      "discogs_url": "https://www.discogs.com/release/14091141",
+      "genres": [
+        "acid",
+        "electro",
+        "electronic",
+        "house",
+        "idm",
+        "netherlands",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "295lYQflragZ08chFlWF5j",
+    "artist": "Heiko Voss",
+    "name": "I Think About You",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Pop",
+          "House",
+          "Minimal"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "electronic",
+          "Kompakt",
+          "techno",
+          "germany"
+        ]
+      },
+      "label": "Kompakt Pop",
+      "release": "Heiko Voss - I Think About You",
+      "year": 2003,
+      "discogs_url": "https://www.discogs.com/release/182405",
+      "genres": [
+        "electronic",
+        "germany",
+        "house",
+        "kompakt",
+        "minimal",
+        "pop",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0ja2yIdhRvavZRlyDsvlA6",
+    "artist": "John Tejada",
+    "name": "A Flexible Plan",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "minimal techno",
+          "electronic",
+          "House"
+        ]
+      },
+      "label": "Kompakt",
+      "release": "John Tejada - Parabolas",
+      "year": 2011,
+      "discogs_url": "https://www.discogs.com/release/2950047",
+      "genres": [
+        "electronic",
+        "house",
+        "minimal",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3J8rAguislccQImOjaF3s3",
+    "artist": "Session Victim",
+    "name": "Over and Over",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Deep House",
+          "Disco",
+          "Downtempo"
+        ],
+        "lastfm_genres": [
+          "House",
+          "deep house",
+          "electronic",
+          "german",
+          "germany"
+        ]
+      },
+      "label": "Delusions Of Grandeur",
+      "release": "Session Victim - Listen To Your Heart",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/10380304",
+      "genres": [
+        "deep house",
+        "disco",
+        "downtempo",
+        "electronic",
+        "german",
+        "germany",
+        "house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6d0itoKfR3ZZCxQwx5qb0M",
+    "artist": "Betonkust, Innershades",
+    "name": "Mercy Like",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Techno",
+          "Electro"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "House",
+          "Acid",
+          "idm",
+          "netherlands"
+        ]
+      },
+      "label": "Clone Jack For Daze",
+      "release": "Betonkust & Innershades - Benelux Connection",
+      "year": 2019,
+      "discogs_url": "https://www.discogs.com/release/14091141",
+      "genres": [
+        "acid",
+        "electro",
+        "electronic",
+        "house",
+        "idm",
+        "netherlands",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "545FgCbXvi4NEoZhjwJ80s",
+    "artist": "John Tejada",
+    "name": "The Mess And The Magic",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "minimal techno",
+          "electronic",
+          "House"
+        ]
+      },
+      "label": "Kompakt",
+      "release": "John Tejada - Parabolas",
+      "year": 2011,
+      "discogs_url": "https://www.discogs.com/release/2950047",
+      "genres": [
+        "electronic",
+        "house",
+        "minimal",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0nr1ZrTH9ndawJrJn3WrKU",
+    "artist": "PVT",
+    "name": "Window",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Rock"
+        ],
+        "lastfm_genres": [
+          "experimental",
+          "electronic",
+          "indie",
+          "post-rock",
+          "Neo-Psychedelia"
+        ]
+      },
+      "label": "Warp Records",
+      "release": "PVT - Window",
+      "year": 2010,
+      "discogs_url": "https://www.discogs.com/release/2527597",
+      "genres": [
+        "electronic",
+        "experimental",
+        "indie",
+        "neo-psychedelia",
+        "post-rock",
+        "rock"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0ZFIz0wuM7ISnVekuUTAUS",
+    "artist": "The Maghreban",
+    "name": "Needy",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep House",
+          "Tribal",
+          "Downtempo",
+          "African"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "electronic",
+          "downtempo",
+          "deep house",
+          "House"
+        ]
+      },
+      "label": "R & S Records",
+      "release": "The Maghreban - 01deas ",
+      "year": 2018,
+      "discogs_url": "https://www.discogs.com/release/11772992",
+      "genres": [
+        "african",
+        "deep house",
+        "downtempo",
+        "electronic",
+        "house",
+        "techno",
+        "tribal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5alHgiEpsvWvywn6jdiD76",
+    "artist": "Michael Mayer",
+    "name": "Cry Me A Raver",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Minimal Techno",
+          "Minimal"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "minimal techno",
+          "electronic",
+          "techno",
+          "Kompakt"
+        ]
+      },
+      "label": "Kompakt Extra",
+      "release": "Michael Mayer - Speicher 137",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/36276598",
+      "genres": [
+        "electronic",
+        "kompakt",
+        "minimal",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2fDGef4BAPYQGyT1klfEYq",
+    "artist": "Betonkust, Innershades",
+    "name": "What You Always Wanted",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Techno",
+          "Electro"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "House",
+          "Acid",
+          "idm",
+          "netherlands"
+        ]
+      },
+      "label": "Clone Jack For Daze",
+      "release": "Betonkust & Innershades - Benelux Connection",
+      "year": 2019,
+      "discogs_url": "https://www.discogs.com/release/14091141",
+      "genres": [
+        "acid",
+        "electro",
+        "electronic",
+        "house",
+        "idm",
+        "netherlands",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "73Hqc32T0mkv6X2bbaOzq4",
+    "artist": "Daniel Avery",
+    "name": "These Nights Never End",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "electronic",
+          "House",
+          "ambient",
+          "idm"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Daniel Avery - All I Need (Roman Flügel Remix)  / These Nights Never End (Ricardo Tobar Remix)",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/5988529",
+      "genres": [
+        "ambient",
+        "electronic",
+        "house",
+        "idm",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "52a80UoQ2sVs0Z4k42K1fG",
+    "artist": "The MFA",
+    "name": "The Difference It Makes - Superpitcher Remix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Progressive House",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "electronic",
+          "Progressive House",
+          "electro"
+        ]
+      },
+      "label": "Kompakt Pop",
+      "release": "The MFA - The Difference It Makes",
+      "year": 2004,
+      "discogs_url": "https://www.discogs.com/release/335616",
+      "genres": [
+        "electro",
+        "electronic",
+        "minimal",
+        "progressive house",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0ftZhdcST5jRHIxRnBBe2p",
+    "artist": "Steve Bug",
+    "name": "Ludic Loops",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep Techno",
+          "Dub Techno"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "techno",
+          "minimal techno",
+          "minimal house",
+          "electronic"
+        ]
+      },
+      "label": "Poker Flat Recordings",
+      "release": "Steve Bug - Never Ending Winding Roads",
+      "year": 2020,
+      "discogs_url": "https://www.discogs.com/release/16205642",
+      "genres": [
+        "deep techno",
+        "dub techno",
+        "electronic",
+        "minimal",
+        "minimal house",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3ShSaSaURKjs2MjbJGFbks",
+    "artist": "V, Dreems",
+    "name": "Kosmische Muzik",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Balearic"
+        ],
+        "lastfm_genres": [
+          "bts",
+          "pop",
+          "rnb",
+          "Melodic Death Metal",
+          "Taehyung"
+        ]
+      },
+      "label": "Multi Culti",
+      "release": "V (42) - Voyage Voyage",
+      "year": 2024,
+      "discogs_url": "https://www.discogs.com/release/31295966",
+      "genres": [
+        "balearic",
+        "bts",
+        "electronic",
+        "house",
+        "melodic death metal",
+        "pop",
+        "rnb",
+        "taehyung"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1IKw8awxrth3D22TbaDgLX",
+    "artist": "Hermit In A Rave Cave",
+    "name": "Cassiopeia Theme",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Electro",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "House",
+          "techno",
+          "funk_add_to_lidarr_batch_11",
+          "electro"
+        ]
+      },
+      "label": "Clone Jack For Daze",
+      "release": "Hermit In A Rave Cave - Hermit In A Rave Cave",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/25475926",
+      "genres": [
+        "electro",
+        "electronic",
+        "funk_add_to_lidarr_batch_11",
+        "house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6sqHzGFwTmg9T6cIdSohfJ",
+    "artist": "Planetary Assault Systems",
+    "name": "Labyrinth",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Ambient"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "minimal techno",
+          "detroit techno",
+          "electronic",
+          "minimal"
+        ]
+      },
+      "label": "Ostgut Ton",
+      "release": "Planetary Assault Systems - Planetary People",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37377273",
+      "genres": [
+        "ambient",
+        "detroit techno",
+        "electronic",
+        "minimal",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5wpdMn2PSpDRvg9wP3wuSC",
+    "artist": "Pearson Sound",
+    "name": "Red Sky",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Bass Music",
+          "UK Garage"
+        ],
+        "lastfm_genres": [
+          "dubstep",
+          "electronic",
+          "future garage",
+          "experimental",
+          "UK Garage"
+        ]
+      },
+      "label": "Hessle Audio",
+      "release": "Pearson Sound - Red Sky",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/25240240",
+      "genres": [
+        "bass music",
+        "dubstep",
+        "electronic",
+        "experimental",
+        "future garage",
+        "uk garage"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6kMftPTYISBG2PLvAe8eQt",
+    "artist": "Mathias Schaffhäuser",
+    "name": "Nippon Jungle",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "minimal techno",
+          "electronic",
+          "techno",
+          "electro"
+        ]
+      },
+      "label": "Kompakt Extra",
+      "release": "Steve Bug / Mathias Schaffhäuser - Speicher 21",
+      "year": 2004,
+      "discogs_url": "https://www.discogs.com/release/320201",
+      "genres": [
+        "electro",
+        "electronic",
+        "minimal",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2xixdZ2dxE00bX6A6jV17m",
+    "artist": "Nicola Cruz",
+    "name": "Tzantza",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Latin",
+          "Folk, World, & Country",
+          "Deep House",
+          "Cumbia",
+          "Latin"
+        ],
+        "lastfm_genres": [
+          "ecuador",
+          "electronic",
+          "ecuadorian",
+          "andes step",
+          "downtempo"
+        ]
+      },
+      "label": "Multi Culti",
+      "release": "Nicola Cruz - Cantos De Visión",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/9640873",
+      "genres": [
+        "andes step",
+        "cumbia",
+        "deep house",
+        "downtempo",
+        "ecuador",
+        "ecuadorian",
+        "electronic",
+        "folk, world, & country",
+        "latin"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0gkJAU3gmlgpfed8vSnqJ3",
+    "artist": "Hermit In A Rave Cave",
+    "name": "Alive With Darkling Things That Fly",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Electro",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "House",
+          "techno",
+          "funk_add_to_lidarr_batch_11",
+          "electro"
+        ]
+      },
+      "label": "Clone Jack For Daze",
+      "release": "Hermit In A Rave Cave - Hermit In A Rave Cave",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/25475926",
+      "genres": [
+        "electro",
+        "electronic",
+        "funk_add_to_lidarr_batch_11",
+        "house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7wiDg2Fw5oe2bwIcH9eIXj",
+    "artist": "Wallace, Love Letters",
+    "name": "Cravings",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Acid House",
+          "Tech House",
+          "Minimal Techno"
+        ],
+        "lastfm_genres": [
+          "rnb",
+          "soul",
+          "House",
+          "punk",
+          "indie rock"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Wallace (13) - Cravings / Concourse",
+      "year": 2024,
+      "discogs_url": "https://www.discogs.com/release/32349741",
+      "genres": [
+        "acid house",
+        "electronic",
+        "house",
+        "indie rock",
+        "minimal techno",
+        "punk",
+        "rnb",
+        "soul",
+        "tech house"
+      ],
+      "meta_status": "enriched"
+    }
+  }
+]

@@ -29,6 +29,7 @@ from torch.utils.data import DataLoader
 # Model
 # ═══════════════════════════════════════════════════════════
 
+
 class GenreClassifier(nn.Module):
     """3-layer MLP for genre classification from 8D audio vectors."""
 
@@ -51,6 +52,7 @@ class GenreClassifier(nn.Module):
 # ═══════════════════════════════════════════════════════════
 # Data loading
 # ═══════════════════════════════════════════════════════════
+
 
 def _load_data(
     tracks_path: str | Path,
@@ -113,6 +115,7 @@ def _load_data(
 # ═══════════════════════════════════════════════════════════
 # Training
 # ═══════════════════════════════════════════════════════════
+
 
 def train(
     model: GenreClassifier,

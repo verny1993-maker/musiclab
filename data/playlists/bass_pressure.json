@@ -1,0 +1,7082 @@
+[
+  {
+    "id": "0lqBqh7Y8dS6Xb3o9suo49",
+    "artist": "Thys, Samurai Breaks, DJ Fuckoff",
+    "name": "Freaky Freaky - featuring DJ Fuckoff",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "idm",
+          "Nu-Skool Breaks",
+          "outro",
+          "dubstep",
+          "ambient"
+        ]
+      },
+      "label": "Vision Recordings",
+      "release": "Thys & Samurai Breaks - Freaky Freaky",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37503555",
+      "genres": [
+        "ambient",
+        "drum n bass",
+        "dubstep",
+        "electronic",
+        "idm",
+        "nu-skool breaks",
+        "outro"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0OE4BlNBPUxNbMjdCnW0Hu",
+    "artist": "Stand High Patrol",
+    "name": "My Research",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Hip Hop",
+          "Jazz",
+          "Boom Bap",
+          "Conscious"
+        ],
+        "lastfm_genres": [
+          "dub",
+          "reggae",
+          "dubabub",
+          "dancehall",
+          "dubstep"
+        ]
+      },
+      "label": "Stand High",
+      "release": "Stand High Patrol - The Shift ",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/10349954",
+      "genres": [
+        "boom bap",
+        "conscious",
+        "dancehall",
+        "dub",
+        "dubabub",
+        "dubstep",
+        "hip hop",
+        "jazz",
+        "reggae"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4aW7Ppq1EmKSEeyOFyG3Im",
+    "artist": "Konflict",
+    "name": "Beckoning",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "neurofunk",
+          "techstep",
+          "Drum n Bass",
+          "dnb"
+        ]
+      },
+      "label": "Renegade Hardware",
+      "release": "Konflict - Messiah / Beckoning",
+      "year": 2005,
+      "discogs_url": "https://www.discogs.com/release/391800",
+      "genres": [
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "neurofunk",
+        "techstep"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3Fr5z3G9EgtmmEvQ6Fh2pR",
+    "artist": "Pugilist",
+    "name": "Motif",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Breakbeat",
+          "Electro",
+          "Bass Music",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "dubstep",
+          "electronic",
+          "jungle",
+          "techno",
+          "uk bass"
+        ]
+      },
+      "label": "Best Intentions",
+      "release": "Pugilist - Inverse EP",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35972227",
+      "genres": [
+        "bass music",
+        "breakbeat",
+        "dubstep",
+        "electro",
+        "electronic",
+        "jungle",
+        "techno",
+        "uk bass"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0R3BCpAupuah7hGTA4xccc",
+    "artist": "Skeptical, Alix Perez",
+    "name": "Taurus",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "neurofunk",
+          "All",
+          "dnb",
+          "british"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Skeptical (2) & Alix Perez - Without A Trace EP",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/9877084",
+      "genres": [
+        "all",
+        "british",
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "neurofunk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "04ikRMtEypZtQAhedTlVVN",
+    "artist": "Privacy",
+    "name": "Code",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Rock",
+          "Hardcore",
+          "Punk"
+        ],
+        "lastfm_genres": [
+          "electro",
+          "techno",
+          "Lo-Fi",
+          "folk",
+          "Spanish Metal"
+        ]
+      },
+      "label": "Blackest Ever Black",
+      "release": "The Raspberry Bulbs* - Privacy",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/6300959",
+      "genres": [
+        "electro",
+        "folk",
+        "hardcore",
+        "lo-fi",
+        "punk",
+        "rock",
+        "spanish metal",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6Ooq1KNrTvng0y0zFsveMn",
+    "artist": "Breaka",
+    "name": "Bell Toll Bounce",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Bass Music"
+        ],
+        "lastfm_genres": [
+          "electronic",
+          "jungle",
+          "british",
+          "bass",
+          "uk bass"
+        ]
+      },
+      "label": "FabricLive",
+      "release": "Breaka - Mangled",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37259781",
+      "genres": [
+        "bass",
+        "bass music",
+        "british",
+        "electronic",
+        "jungle",
+        "uk bass"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3y7mpzEY4f6i2FGK3YTZn0",
+    "artist": "Dengue Dengue Dengue",
+    "name": "Alpha & Omega",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Latin",
+          "Bass Music",
+          "Cumbia",
+          "Tribal",
+          "Dub"
+        ],
+        "lastfm_genres": [
+          "Peru",
+          "electronic",
+          "cumbia",
+          "psychedelic",
+          "Drum and bass"
+        ]
+      },
+      "label": "Chusma Records",
+      "release": "Dengue Dengue Dengue! - La Alianza Profana",
+      "year": 2015,
+      "discogs_url": "https://www.discogs.com/release/6397308",
+      "genres": [
+        "bass music",
+        "cumbia",
+        "drum and bass",
+        "dub",
+        "electronic",
+        "latin",
+        "peru",
+        "psychedelic",
+        "tribal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4sMYc0dq5RbY43mlsU63XP",
+    "artist": "Dengue Dengue Dengue",
+    "name": "Simiolo",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Latin",
+          "Folk, World, & Country",
+          "Cumbia",
+          "Footwork",
+          "Tribal",
+          "Dub"
+        ],
+        "lastfm_genres": [
+          "Peru",
+          "electronic",
+          "cumbia",
+          "psychedelic",
+          "Drum and bass"
+        ]
+      },
+      "label": "Not On Label (Dengue Dengue Dengue! Self-released)",
+      "release": "Dengue Dengue Dengue* - Humos Vol​.​1",
+      "year": 2020,
+      "discogs_url": "https://www.discogs.com/release/15341189",
+      "genres": [
+        "cumbia",
+        "drum and bass",
+        "dub",
+        "electronic",
+        "folk, world, & country",
+        "footwork",
+        "latin",
+        "peru",
+        "psychedelic",
+        "tribal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2RSFi6kTKJRTSHbLyU2C7S",
+    "artist": "Alton Miller",
+    "name": "Last one 1st",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep House"
+        ],
+        "lastfm_genres": [
+          "deep house",
+          "House",
+          "detroit",
+          "downtempo",
+          "more fucking house"
+        ]
+      },
+      "label": "Quintessentials",
+      "release": "Alton Miller - Spirit Chaser",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/36712993",
+      "genres": [
+        "deep house",
+        "detroit",
+        "downtempo",
+        "electronic",
+        "house",
+        "more fucking house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0hOYOFbwrsSbsULtFOPH2Z",
+    "artist": "Batu",
+    "name": "Seize",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Bass Music",
+          "Techno",
+          "Broken Beat"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "electronic",
+          "dubstep",
+          "bass",
+          "Broken Beat"
+        ]
+      },
+      "label": "Lethal Press",
+      "release": "Batu (4) - Question Mark",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/34502236",
+      "genres": [
+        "bass",
+        "bass music",
+        "broken beat",
+        "dubstep",
+        "electronic",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6qINThmTDYBm8twguFRueG",
+    "artist": "Nicola Cruz",
+    "name": "Cumbia del Olvido",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Latin",
+          "Cumbia",
+          "Downtempo",
+          "House",
+          "Leftfield"
+        ],
+        "lastfm_genres": [
+          "ecuador",
+          "electronic",
+          "ecuadorian",
+          "andes step",
+          "downtempo"
+        ]
+      },
+      "label": "ZZK Records",
+      "release": "Nicola Cruz - Prender El Alma",
+      "year": 2015,
+      "discogs_url": "https://www.discogs.com/release/7711860",
+      "genres": [
+        "andes step",
+        "cumbia",
+        "downtempo",
+        "ecuador",
+        "ecuadorian",
+        "electronic",
+        "house",
+        "latin",
+        "leftfield"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6vUiWxGQ9JGnLWaFMRHSw3",
+    "artist": "Big Dope P, Jana Rush, Annie S",
+    "name": "They Don't Want No Smoke",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Jazz",
+          "Blues",
+          "Louisiana Blues",
+          "Chicago Blues",
+          "Ragtime",
+          "Swing",
+          "Dixieland"
+        ],
+        "lastfm_genres": [
+          "bounce",
+          "electronic",
+          "Drum and bass",
+          "france",
+          "Juke"
+        ]
+      },
+      "label": "Le Chant Du Monde",
+      "release": "Various - L'Histoire Du Jazz Vocal - The Story Of Vocal Jazz: Part 1 (1911 - 1940)",
+      "year": 2004,
+      "discogs_url": "https://www.discogs.com/release/441424",
+      "genres": [
+        "blues",
+        "bounce",
+        "chicago blues",
+        "dixieland",
+        "drum and bass",
+        "electronic",
+        "france",
+        "jazz",
+        "juke",
+        "louisiana blues",
+        "ragtime",
+        "swing"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6uWtOFYzcpe4FygTlRt9uW",
+    "artist": "Logistics",
+    "name": "The Trip",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "liquid funk",
+          "dnb",
+          "Drum n Bass",
+          "Hospital Records"
+        ]
+      },
+      "label": "Hospital Records",
+      "release": "Logistics / CLS + Wax* - The Trip / Quite Perfect",
+      "year": 2005,
+      "discogs_url": "https://www.discogs.com/release/1098894",
+      "genres": [
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "hospital records",
+        "liquid funk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1y9Zyz2yfPgl4ubvkQrCfc",
+    "artist": "DJ Marky, Makoto, Vanessa Freeman",
+    "name": "It's Alright, I Feel It",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Hip Hop",
+          "Rock",
+          "Reggae",
+          "Funk / Soul",
+          "Pop",
+          "Hi NRG",
+          "Happy Hardcore",
+          "Vocal",
+          "Disco",
+          "Ragga HipHop",
+          "Techno",
+          "Euro House",
+          "Italodance",
+          "Funk"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "brazilian",
+          "electronic",
+          "dnb",
+          "Drum n Bass"
+        ]
+      },
+      "label": "Pool Records",
+      "release": "DJ Pool (2) - Pool Mix 1990's",
+      "year": 2007,
+      "discogs_url": "https://www.discogs.com/release/1578164",
+      "genres": [
+        "brazilian",
+        "disco",
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "euro house",
+        "funk",
+        "funk / soul",
+        "happy hardcore",
+        "hi nrg",
+        "hip hop",
+        "italodance",
+        "pop",
+        "ragga hiphop",
+        "reggae",
+        "rock",
+        "techno",
+        "vocal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4VVLSWlhe2v4dqO2AIdQgX",
+    "artist": "Kruder & Dorfmeister",
+    "name": "High Noon",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Downtempo"
+        ],
+        "lastfm_genres": [
+          "electronic",
+          "downtempo",
+          "chillout",
+          "trip-hop",
+          "lounge"
+        ]
+      },
+      "label": "Quango Records",
+      "release": "Kruder & Dorfmeister - Kruder & Dorfmeister",
+      "year": 1995,
+      "discogs_url": "https://www.discogs.com/release/718129",
+      "genres": [
+        "chillout",
+        "downtempo",
+        "electronic",
+        "lounge",
+        "trip-hop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4RVkf3SnbxHd0W9BcUT0Dz",
+    "artist": "Khadija",
+    "name": "Good",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Hip Hop",
+          "Footwork"
+        ]
+      },
+      "label": "Fada Records",
+      "release": "Khadija Al Hanafi - Slime Patrol",
+      "year": 2024,
+      "discogs_url": "https://www.discogs.com/release/31393739",
+      "genres": [
+        "electronic",
+        "footwork",
+        "hip hop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "25xa84ZW8Wy3cHvRUzpvrY",
+    "artist": "Mandragora",
+    "name": "Slytherin",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "Melodic Death Metal",
+          "death metal",
+          "lithuanian",
+          "Lithuanian metal",
+          "psytrance"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "death metal",
+        "lithuanian",
+        "lithuanian metal",
+        "melodic death metal",
+        "psytrance"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "2R3KqN2iwzbnK3Gb6gCNDG",
+    "artist": "Specimen A, Ivory",
+    "name": "PITBULL - Instrumental",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "breakbeat",
+          "Drum and bass",
+          "dubstep",
+          "breaks",
+          "electronic"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "breakbeat",
+        "breaks",
+        "drum and bass",
+        "dubstep",
+        "electronic"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "1kvjb0897xUEmNgUpmoD2o",
+    "artist": "Specimen A, Ivory",
+    "name": "PITBULL",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Electro House",
+          "Eurodance",
+          "Electro",
+          "Dubstep"
+        ],
+        "lastfm_genres": [
+          "breakbeat",
+          "Drum and bass",
+          "dubstep",
+          "breaks",
+          "electronic"
+        ]
+      },
+      "label": "DMC",
+      "release": "Various - DMC DJ Only Dance Mixes 23",
+      "year": 2010,
+      "discogs_url": "https://www.discogs.com/release/13760751",
+      "genres": [
+        "breakbeat",
+        "breaks",
+        "drum and bass",
+        "dubstep",
+        "electro",
+        "electro house",
+        "electronic",
+        "eurodance",
+        "house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4dzZbam2MuOnrm9vv0CDLi",
+    "artist": "Asian Dub Foundation",
+    "name": "La Haine",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Dub"
+        ],
+        "lastfm_genres": [
+          "dub",
+          "electronic",
+          "Hip-Hop",
+          "alternative",
+          "trip-hop"
+        ]
+      },
+      "label": "Labels",
+      "release": "Asian Dub Foundation - Enemy Of The Enemy",
+      "year": 2003,
+      "discogs_url": "https://www.discogs.com/release/503115",
+      "genres": [
+        "alternative",
+        "dub",
+        "electronic",
+        "hip-hop",
+        "trip-hop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3VLknghZRe5KG1n7d5KNnp",
+    "artist": "Asian Dub Foundation",
+    "name": "Journey",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Reggae",
+          "Breakbeat",
+          "Reggae",
+          "Dub",
+          "Drum n Bass",
+          "Hip Hop"
+        ],
+        "lastfm_genres": [
+          "dub",
+          "electronic",
+          "Hip-Hop",
+          "alternative",
+          "trip-hop"
+        ]
+      },
+      "label": "EMI",
+      "release": "Asian Dub Foundation - Time Freeze 1995/2007: The Best Of Asian Dub Foundation",
+      "year": 2007,
+      "discogs_url": "https://www.discogs.com/release/1967265",
+      "genres": [
+        "alternative",
+        "breakbeat",
+        "drum n bass",
+        "dub",
+        "electronic",
+        "hip hop",
+        "hip-hop",
+        "reggae",
+        "trip-hop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "38U6Js3aTEkDZFENsANpjS",
+    "artist": "Gats",
+    "name": "Astra",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "punk",
+          "trance",
+          "Drum and bass",
+          "House",
+          "happy hardcore"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "drum and bass",
+        "happy hardcore",
+        "house",
+        "punk",
+        "trance"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "41Y0ch6R3jzpJOZv6nhf9Z",
+    "artist": "DjRUM",
+    "name": "A Tune for Us",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Broken Beat",
+          "Drum n Bass",
+          "IDM",
+          "Ambient"
+        ],
+        "lastfm_genres": [
+          "future garage",
+          "dubstep",
+          "electronic",
+          "techno",
+          "ambient"
+        ]
+      },
+      "label": "Houndstooth",
+      "release": "Djrum* - Under Tangled Silence",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/33804456",
+      "genres": [
+        "ambient",
+        "broken beat",
+        "drum n bass",
+        "dubstep",
+        "electronic",
+        "future garage",
+        "idm",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3iNAdtlehRYGgYV6rt07IM",
+    "artist": "Young Franco, General Levy, Tommy Villiers",
+    "name": "Give Thanks, Give Praise",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Garage House"
+        ],
+        "lastfm_genres": [
+          "electronic",
+          "funk",
+          "All",
+          "Hip-Hop",
+          "australian"
+        ]
+      },
+      "label": "Universal Music",
+      "release": "Young Franco - It's Franky Baby!",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/32935056",
+      "genres": [
+        "all",
+        "australian",
+        "electronic",
+        "funk",
+        "garage house",
+        "hip-hop",
+        "house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4Wc2IIL5jGE1V9NkxS9OL3",
+    "artist": "Boards of Canada",
+    "name": "Rue The Whirl",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "IDM",
+          "Ambient"
+        ],
+        "lastfm_genres": [
+          "ambient",
+          "electronic",
+          "idm",
+          "chillout",
+          "electronica"
+        ]
+      },
+      "label": "Warp Records",
+      "release": "Boards Of Canada - Music Has The Right To Children",
+      "year": 2013,
+      "discogs_url": "https://www.discogs.com/release/5006908",
+      "genres": [
+        "ambient",
+        "chillout",
+        "electronic",
+        "electronica",
+        "idm"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1ggy2A3jLquA9YkEOXYyAh",
+    "artist": "Skeptical",
+    "name": "Push Up",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "neurofunk",
+          "All",
+          "dnb",
+          "british"
+        ]
+      },
+      "label": "Rubi Records",
+      "release": "Skeptical (2) - Initiate EP",
+      "year": 2023,
+      "discogs_url": "https://www.discogs.com/release/26373143",
+      "genres": [
+        "all",
+        "british",
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "neurofunk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0fIz9bgnJ04WyOChqbmNSt",
+    "artist": "DJ Marky, XRS",
+    "name": "Rotation",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "brazilian",
+          "electronic",
+          "dnb",
+          "Drum n Bass"
+        ]
+      },
+      "label": "V Recordings",
+      "release": "Dave Angel - Rotation (DJ Marky & XRS Remix) / Brothers (XRS Remix)",
+      "year": 2006,
+      "discogs_url": "https://www.discogs.com/release/674839",
+      "genres": [
+        "brazilian",
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2g424ZPC6LEQmoYaKHyQBW",
+    "artist": "N.o.h.a.",
+    "name": "Tu cafe",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Breakbeat",
+          "Breaks"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "electronic",
+          "nu jazz",
+          "breakbeat",
+          "jazz"
+        ]
+      },
+      "label": "Cut & Run",
+      "release": "N.O.H.A* / Cut & Run (2) - Tu Café / Kilo",
+      "year": 2008,
+      "discogs_url": "https://www.discogs.com/release/1514114",
+      "genres": [
+        "breakbeat",
+        "breaks",
+        "drum and bass",
+        "electronic",
+        "jazz",
+        "nu jazz"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7awXSTqVxF0iVaA53dJPgY",
+    "artist": "N.o.h.a.",
+    "name": "More pepper",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Breaks",
+          "Future Jazz",
+          "Downtempo"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "electronic",
+          "nu jazz",
+          "breakbeat",
+          "jazz"
+        ]
+      },
+      "label": "Unique",
+      "release": "N.O.H.A. - Dive In Your Life",
+      "year": 2007,
+      "discogs_url": "https://www.discogs.com/release/1048441",
+      "genres": [
+        "breakbeat",
+        "breaks",
+        "downtempo",
+        "drum and bass",
+        "electronic",
+        "future jazz",
+        "jazz",
+        "nu jazz"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0cgsmSXBqsxE4r3uKyc7Ym",
+    "artist": "High Contrast, Clare Maguire",
+    "name": "Who's Loving You - Pt. 1",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Pop"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "liquid funk",
+          "electronic",
+          "Drum n Bass",
+          "dnb"
+        ]
+      },
+      "label": "Virgin EMI Records",
+      "release": "High Contrast & Clare Maguire* - Who's Loving You",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/11542402",
+      "genres": [
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "liquid funk",
+        "pop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "43TBLMRXXHy4trPhp58sXF",
+    "artist": "Alix Perez",
+    "name": "Losing You",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "liquid funk",
+          "soulful drum and bass",
+          "dnb",
+          "Drum n Bass"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Alix Perez - Recall And Reflect EP",
+      "year": 2015,
+      "discogs_url": "https://www.discogs.com/release/7514155",
+      "genres": [
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "liquid funk",
+        "soulful drum and bass"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6aHrEfmZN1sEwacycrW0VO",
+    "artist": "Daniel Avery, Art School Girlfriend",
+    "name": "⁠I Feel You",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Rock",
+          "Techno",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "electronic",
+          "House",
+          "ambient",
+          "idm"
+        ]
+      },
+      "label": "Domino",
+      "release": "Daniel Avery - Tremor",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35510095",
+      "genres": [
+        "ambient",
+        "drum n bass",
+        "electronic",
+        "house",
+        "idm",
+        "rock",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "179TzAz02TdTVWPwmat9Hn",
+    "artist": "Specimen A, Ivory",
+    "name": "FULL FAT - Instrumental",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "breakbeat",
+          "Drum and bass",
+          "dubstep",
+          "breaks",
+          "electronic"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "breakbeat",
+        "breaks",
+        "drum and bass",
+        "dubstep",
+        "electronic"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "23D37DsNoiXVQtzzeF5g8J",
+    "artist": "MOY",
+    "name": "Pale Nimbus",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Electro",
+          "Breakbeat",
+          "Techno",
+          "Acid"
+        ],
+        "lastfm_genres": [
+          "Italo Disco",
+          "electronic",
+          "electro",
+          "UK",
+          "jungle"
+        ]
+      },
+      "label": "Not On Label (MOY (12) Self-released)",
+      "release": "MOY (12) - Moy 808 Luv",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/36023356",
+      "genres": [
+        "acid",
+        "breakbeat",
+        "electro",
+        "electronic",
+        "italo disco",
+        "jungle",
+        "techno",
+        "uk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1gyPafql9rZ7Onm3tQsZRF",
+    "artist": "LTJ Bukem, DRS",
+    "name": "Constellation",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Downtempo",
+          "Future Jazz",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "electronic",
+          "chillout",
+          "Drum n Bass",
+          "dnb"
+        ]
+      },
+      "label": "Earth",
+      "release": "LTJ Bukem - Earth Volume Three",
+      "year": 1998,
+      "discogs_url": "https://www.discogs.com/release/23951",
+      "genres": [
+        "chillout",
+        "dnb",
+        "downtempo",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "future jazz"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1EjkUtz2AcVqCLrwb95eTP",
+    "artist": "Fat Freddy's Drop",
+    "name": "Midnight Marauders",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Hip Hop",
+          "Reggae",
+          "Dub",
+          "Abstract"
+        ],
+        "lastfm_genres": [
+          "dub",
+          "reggae",
+          "New Zealand",
+          "chillout",
+          "chill"
+        ]
+      },
+      "label": "The Drop",
+      "release": "Joe Dukie And DJ Fitchie - Midnight Marauders",
+      "year": 2002,
+      "discogs_url": "https://www.discogs.com/release/65554",
+      "genres": [
+        "abstract",
+        "chill",
+        "chillout",
+        "dub",
+        "electronic",
+        "hip hop",
+        "new zealand",
+        "reggae"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "46zVXz8NKeV9wbaCRAzdqW",
+    "artist": "Yenkov, Gaston Fiore",
+    "name": "Acid Clouds",
+    "meta": {
+      "sources": {},
+      "year": null,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "2Lwu8DK5t5hxzMy5Bi4ko9",
+    "artist": "Hypho, Samurai Breaks, Logan_olm",
+    "name": "Rough",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Trip Hop",
+          "Electro"
+        ],
+        "lastfm_genres": [
+          "UK Garage",
+          "dubstep",
+          "Drum and bass",
+          "jungle",
+          "footwork"
+        ]
+      },
+      "label": "Rough Trade",
+      "release": "Various - Electric Community Compilation",
+      "year": 1996,
+      "discogs_url": "https://www.discogs.com/release/50199",
+      "genres": [
+        "drum and bass",
+        "dubstep",
+        "electro",
+        "electronic",
+        "footwork",
+        "jungle",
+        "techno",
+        "trip hop",
+        "uk garage"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "17WLmfp0kqSd9s0z1lnmKk",
+    "artist": "Mind Vortex",
+    "name": "Underworld",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "dnb",
+          "liquid funk",
+          "Drum n Bass",
+          "drum&bass"
+        ]
+      },
+      "label": "RAM Records",
+      "release": "Mind Vortex - Colours EP",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/6270855",
+      "genres": [
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "drum&bass",
+        "electronic",
+        "liquid funk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4SbbITIMdUlSMqQtnpcnar",
+    "artist": "Metrik, Grafix",
+    "name": "Parallel",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "liquid funk",
+          "neurofunk",
+          "dnb",
+          "Drum n Bass"
+        ]
+      },
+      "label": "Hospital Records",
+      "release": "Metrik (2) & Grafix - Overdrive / Parallel VIP",
+      "year": 2021,
+      "discogs_url": "https://www.discogs.com/release/19903255",
+      "genres": [
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "liquid funk",
+        "neurofunk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1vIfv2nrGdsuarCoIDSwGY",
+    "artist": "Sub Basics",
+    "name": "Polytope",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "dub techno",
+          "techno",
+          "dubstep",
+          "electronic",
+          "english"
+        ]
+      },
+      "label": "Temple Of Sound",
+      "release": "Sub Basics - Taxi Dub",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/36464229",
+      "genres": [
+        "dub techno",
+        "dubstep",
+        "electronic",
+        "english",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0AzytvRcpoml1cd11WiBbp",
+    "artist": "Circadian, Pirapus, Mila Falls",
+    "name": "Slow Motion",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Rock",
+          "Post Rock"
+        ],
+        "lastfm_genres": [
+          "alternative rock",
+          "alternative metal",
+          "post-hardcore",
+          "modern rock",
+          "Drum and bass"
+        ]
+      },
+      "label": "Oxide Tones",
+      "release": "Circadian Eyes - Who We Were",
+      "year": 2011,
+      "discogs_url": "https://www.discogs.com/release/2874378",
+      "genres": [
+        "alternative metal",
+        "alternative rock",
+        "drum and bass",
+        "electronic",
+        "modern rock",
+        "post rock",
+        "post-hardcore",
+        "rock"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "32McrfTTzw7cuwOOqvAHq7",
+    "artist": "Polatronic",
+    "name": "Yuutsu Part II",
+    "meta": {
+      "sources": {},
+      "year": null,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "4CWrTpByob5EvxtbntEIdg",
+    "artist": "Lil Tozan",
+    "name": "Pulse of Life",
+    "meta": {
+      "sources": {},
+      "year": null,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "59S0MtYYJskLwLGV9fyZiq",
+    "artist": "Byron the Aquarius",
+    "name": "Feel My Thoughts - Bruh",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Beatdown",
+          "Hip Hop"
+        ],
+        "lastfm_genres": [
+          "soul",
+          "electronic",
+          "future grooves",
+          "Hip-Hop",
+          "funk_add_to_lidarr_batch_4"
+        ]
+      },
+      "label": "Second Hand Records",
+      "release": "Byron The Aquarius - Fish Soup EP",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/11033090",
+      "genres": [
+        "beatdown",
+        "electronic",
+        "funk_add_to_lidarr_batch_4",
+        "future grooves",
+        "hip hop",
+        "hip-hop",
+        "house",
+        "soul"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "17Md1nIkMF7MfYZDs36MSF",
+    "artist": "Sully",
+    "name": "Model Collapse",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "dubstep",
+          "future garage",
+          "bass",
+          "jungle",
+          "electronic"
+        ]
+      },
+      "label": "FabricLive",
+      "release": "Sully (5) - Model Collapse",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/33385673",
+      "genres": [
+        "bass",
+        "drum n bass",
+        "dubstep",
+        "electronic",
+        "future garage",
+        "jungle"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1M9VDz7fYxodeRKsdDtIHD",
+    "artist": "Pariah",
+    "name": "Orpheus",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "UK Garage",
+          "Dubstep"
+        ],
+        "lastfm_genres": [
+          "dubstep",
+          "thrash metal",
+          "future garage",
+          "electronic",
+          "Drum and bass"
+        ]
+      },
+      "label": "R & S Records",
+      "release": "Pariah (9) - Detroit Falls / Orpheus",
+      "year": 2010,
+      "discogs_url": "https://www.discogs.com/release/2234497",
+      "genres": [
+        "drum and bass",
+        "dubstep",
+        "electronic",
+        "future garage",
+        "thrash metal",
+        "uk garage"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6iL3pR3KZULZTWdsonVOIB",
+    "artist": "Stevie Cox, Fossil Archive",
+    "name": "Daydreamer",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Rock",
+          "Funk / Soul",
+          "Pop",
+          "Pop Rock",
+          "Soul",
+          "Classic Rock"
+        ],
+        "lastfm_genres": [
+          "funk_add_to_lidarr_batch_25"
+        ]
+      },
+      "label": "EMI TV",
+      "release": "Various - Jackie The Album",
+      "year": 2007,
+      "discogs_url": "https://www.discogs.com/release/4024828",
+      "genres": [
+        "classic rock",
+        "funk / soul",
+        "funk_add_to_lidarr_batch_25",
+        "pop",
+        "pop rock",
+        "rock",
+        "soul"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4HyebutbyIWu88ngt9xXFN",
+    "artist": "Logistics",
+    "name": "Inside My Soul",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "liquid funk",
+          "dnb",
+          "Drum n Bass",
+          "Hospital Records"
+        ]
+      },
+      "label": "Hospital Records",
+      "release": "Logistics - Spacejam EP",
+      "year": 2004,
+      "discogs_url": "https://www.discogs.com/release/337099",
+      "genres": [
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "hospital records",
+        "liquid funk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0J4KYkp3D5Q7MxJ47MG20G",
+    "artist": "ISOxo, DJ Snake",
+    "name": "FUCK THE SPEAKERZ UP - DJ Snake Remix",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "american",
+          "USA",
+          "Drum and bass",
+          "dubstep",
+          "san diego"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "american",
+        "drum and bass",
+        "dubstep",
+        "san diego",
+        "usa"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "6BRZBtR05Iru2Ef63KpMNC",
+    "artist": "Владимир Макаров",
+    "name": "Песенка находит друзей",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Pop",
+          "Vocal"
+        ],
+        "lastfm_genres": [
+          "Retro",
+          "easy listening",
+          "pop",
+          "Soviet",
+          "russian retro"
+        ]
+      },
+      "label": "Мелодия",
+      "release": "Владимир Макаров - Бумажный Кораблик / Песенка Вполголоса / Песенка Находит Друзей / Невесты",
+      "year": 1968,
+      "discogs_url": "https://www.discogs.com/release/4795515",
+      "genres": [
+        "easy listening",
+        "pop",
+        "retro",
+        "russian retro",
+        "soviet",
+        "vocal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0JmuFZNZNs7hJIWflYE3CA",
+    "artist": "Soichi Terada",
+    "name": "Diving into Minds",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Deep House"
+        ],
+        "lastfm_genres": [
+          "House",
+          "electronic",
+          "video game music",
+          "japanese",
+          "Soundtrack"
+        ]
+      },
+      "label": "Rush Hour",
+      "release": "Soichi Terada & Masalo - Diving Into Minds / Double Spire",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/23278745",
+      "genres": [
+        "deep house",
+        "electronic",
+        "house",
+        "japanese",
+        "soundtrack",
+        "video game music"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2527WUoKIauHY1tx5TCetu",
+    "artist": "LTJ Bukem",
+    "name": "Atlantis (I Need You)",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Breakbeat",
+          "Hardcore",
+          "Jungle"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "electronic",
+          "chillout",
+          "Drum n Bass",
+          "dnb"
+        ]
+      },
+      "label": "Good Looking Records",
+      "release": "Apollo Two - Return To Atlantis / Atlantis (I Need You) (LTJ Bukem Remix)",
+      "year": 2000,
+      "discogs_url": "https://www.discogs.com/release/127188",
+      "genres": [
+        "breakbeat",
+        "chillout",
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "hardcore",
+        "jungle"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7hzJrFe2vBnEo6aIiJIZDN",
+    "artist": "Circulation",
+    "name": "Burgandy",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Progressive House",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "House",
+          "deep house",
+          "Progressive House",
+          "electronic",
+          "tech house"
+        ]
+      },
+      "label": "Circulation",
+      "release": "Circulation - Colours",
+      "year": null,
+      "discogs_url": "https://www.discogs.com/release/8193454",
+      "genres": [
+        "deep house",
+        "electronic",
+        "house",
+        "progressive house",
+        "tech house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6x5djDJYCCjAIW9DsLsvXt",
+    "artist": "ShockOne, Metrik & Phetsta",
+    "name": "True Believer",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "neurofunk",
+          "moombahcore",
+          "Brostep",
+          "dubstep"
+        ]
+      },
+      "label": "Viper Recordings",
+      "release": "Shock One (2) - The Shock One EP",
+      "year": 2009,
+      "discogs_url": "https://www.discogs.com/release/1722198",
+      "genres": [
+        "brostep",
+        "drum and bass",
+        "drum n bass",
+        "dubstep",
+        "electronic",
+        "moombahcore",
+        "neurofunk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3b1MT7DUtmSlevSvclDi5w",
+    "artist": "DjRUM",
+    "name": "Unweaving",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Broken Beat",
+          "Drum n Bass",
+          "IDM",
+          "Ambient"
+        ],
+        "lastfm_genres": [
+          "future garage",
+          "dubstep",
+          "electronic",
+          "techno",
+          "ambient"
+        ]
+      },
+      "label": "Houndstooth",
+      "release": "Djrum* - Under Tangled Silence",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/33804456",
+      "genres": [
+        "ambient",
+        "broken beat",
+        "drum n bass",
+        "dubstep",
+        "electronic",
+        "future garage",
+        "idm",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4EqJGKB8ptzxBbbwFimdI3",
+    "artist": "DjRUM",
+    "name": "Waxcap",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Broken Beat",
+          "Drum n Bass",
+          "IDM",
+          "Ambient"
+        ],
+        "lastfm_genres": [
+          "future garage",
+          "dubstep",
+          "electronic",
+          "techno",
+          "ambient"
+        ]
+      },
+      "label": "Houndstooth",
+      "release": "Djrum* - Under Tangled Silence",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/33804456",
+      "genres": [
+        "ambient",
+        "broken beat",
+        "drum n bass",
+        "dubstep",
+        "electronic",
+        "future garage",
+        "idm",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5h5LvaBXqS64yin5xUwTTE",
+    "artist": "Lean Year",
+    "name": "Come and See",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Rock"
+        ],
+        "lastfm_genres": [
+          "indie folk",
+          "folk",
+          "yearning",
+          "ambient",
+          "baroque"
+        ]
+      },
+      "label": "Western Vinyl",
+      "release": "Lean Year - Lean Year",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/11023102",
+      "genres": [
+        "ambient",
+        "baroque",
+        "folk",
+        "indie folk",
+        "rock",
+        "yearning"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7J9BHYfhCAUhgbfdJqgZxd",
+    "artist": "Stones Taro",
+    "name": "Can I Kick Funk",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "UK Garage",
+          "House",
+          "jungle",
+          "japanese",
+          "electronic"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "electronic",
+        "house",
+        "japanese",
+        "jungle",
+        "uk garage"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "1HOCSSUZZMMTmZ9XwFUVdY",
+    "artist": "Ingebrigt Håker Flaten",
+    "name": "MILES AVENUE - For Austin",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Jazz",
+          "Contemporary Jazz",
+          "Free Improvisation",
+          "Free Jazz"
+        ],
+        "lastfm_genres": [
+          "free jazz",
+          "jazz",
+          "bass",
+          "free improvisation",
+          "double bass"
+        ]
+      },
+      "label": "Norsk Jazzforum",
+      "release": "Various - Jazz Out Of Norway / Jazzcd.No 10th Set 2022",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/25244311",
+      "genres": [
+        "bass",
+        "contemporary jazz",
+        "double bass",
+        "free improvisation",
+        "free jazz",
+        "jazz"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3jakJuWQBKSGVJuybD034C",
+    "artist": "Dengue Dengue Dengue",
+    "name": "Rayos Cumbicos",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Latin",
+          "Bass Music",
+          "Cumbia",
+          "Tribal",
+          "Dub"
+        ],
+        "lastfm_genres": [
+          "Peru",
+          "electronic",
+          "cumbia",
+          "psychedelic",
+          "Drum and bass"
+        ]
+      },
+      "label": "Chusma Records",
+      "release": "Dengue Dengue Dengue! - La Alianza Profana",
+      "year": 2015,
+      "discogs_url": "https://www.discogs.com/release/6397308",
+      "genres": [
+        "bass music",
+        "cumbia",
+        "drum and bass",
+        "dub",
+        "electronic",
+        "latin",
+        "peru",
+        "psychedelic",
+        "tribal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2ycYnnFW7QQMf2gZI0NwhB",
+    "artist": "Art Melody, Iyadede",
+    "name": "Afrik Yambre",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "burkina faso",
+          "Hip-Hop",
+          "underground hip-hop",
+          "african"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "african",
+        "burkina faso",
+        "hip-hop",
+        "underground hip-hop"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "2uRgFfheCSLVtEXtZxIyM3",
+    "artist": "Paul Glazby, Paul Maddox",
+    "name": "Keep Hope Alive",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Hard House"
+        ],
+        "lastfm_genres": [
+          "Hard Trance",
+          "hard house",
+          "Hardhouse",
+          "trance",
+          "Hard Dance"
+        ]
+      },
+      "label": "Vicious Circle Recordings",
+      "release": "Paul Glazby & Paul Maddox - Keep Hope Alive",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37683591",
+      "genres": [
+        "electronic",
+        "hard dance",
+        "hard house",
+        "hard trance",
+        "hardhouse",
+        "trance"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "14kiqFbM97b39vEa2AgAPt",
+    "artist": "Thys, Samurai Breaks",
+    "name": "Check The Beat",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass",
+          "Footwork"
+        ],
+        "lastfm_genres": [
+          "idm",
+          "Nu-Skool Breaks",
+          "outro",
+          "dubstep",
+          "ambient"
+        ]
+      },
+      "label": "Vision Recordings",
+      "release": "Thys & Samurai Breaks - Freak Frontier II",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37644828",
+      "genres": [
+        "ambient",
+        "drum n bass",
+        "dubstep",
+        "electronic",
+        "footwork",
+        "idm",
+        "nu-skool breaks",
+        "outro"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6nmYjqujBCejmOzolQ6pEo",
+    "artist": "L.D.F., Tilman",
+    "name": "Do What You Like",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Jazz"
+        ]
+      },
+      "label": "Hat Hut Records",
+      "release": "Steve Lacy / Steve Potts Featuring The Voice Of  Irène Aebi* - Tips",
+      "year": 1981,
+      "discogs_url": "https://www.discogs.com/release/1672962",
+      "genres": [
+        "jazz"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0MoeShvEacFvWAROMIfqKz",
+    "artist": "Machinedrum, Tigran Hamasyan",
+    "name": "Sleepy Pietro",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass",
+          "Hip Hop",
+          "IDM"
+        ],
+        "lastfm_genres": [
+          "idm",
+          "electronic",
+          "glitch",
+          "footwork",
+          "Juke"
+        ]
+      },
+      "label": "Ninja Tune",
+      "release": "Machinedrum - A View Of U",
+      "year": 2020,
+      "discogs_url": "https://www.discogs.com/release/16030301",
+      "genres": [
+        "drum n bass",
+        "electronic",
+        "footwork",
+        "glitch",
+        "hip hop",
+        "idm",
+        "juke"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3K7sWmplr6sreqM3PhHoMM",
+    "artist": "Machinedrum, Jesse Boykins III",
+    "name": "Wait 4 U",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass",
+          "Hip Hop",
+          "IDM"
+        ],
+        "lastfm_genres": [
+          "idm",
+          "electronic",
+          "glitch",
+          "footwork",
+          "Juke"
+        ]
+      },
+      "label": "Ninja Tune",
+      "release": "Machinedrum - A View Of U",
+      "year": 2020,
+      "discogs_url": "https://www.discogs.com/release/16030301",
+      "genres": [
+        "drum n bass",
+        "electronic",
+        "footwork",
+        "glitch",
+        "hip hop",
+        "idm",
+        "juke"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5Xus9GzulSYJyz1YNVwMsR",
+    "artist": "LTJ Bukem",
+    "name": "Moodswings",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Downtempo",
+          "Broken Beat",
+          "Future Jazz",
+          "Drum n Bass",
+          "Jungle"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "electronic",
+          "chillout",
+          "Drum n Bass",
+          "dnb"
+        ]
+      },
+      "label": "Earth",
+      "release": "LTJ Bukem - Earth Volume One",
+      "year": 1996,
+      "discogs_url": "https://www.discogs.com/release/23946",
+      "genres": [
+        "broken beat",
+        "chillout",
+        "dnb",
+        "downtempo",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "future jazz",
+        "jungle"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4FO0Xcc3iqzDb5sQGW8bAc",
+    "artist": "Rudimental, Skream",
+    "name": "Hell Could Freeze - Skream Remix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Hip Hop",
+          "Funk / Soul",
+          "Pop",
+          "Drum n Bass",
+          "Deep House",
+          "Soul",
+          "Hip Hop"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "dubstep",
+          "electronic",
+          "british",
+          "uk funky"
+        ]
+      },
+      "label": "Asylum Records",
+      "release": "Rudimental - Home",
+      "year": 2013,
+      "discogs_url": "https://www.discogs.com/release/4529668",
+      "genres": [
+        "british",
+        "deep house",
+        "drum and bass",
+        "drum n bass",
+        "dubstep",
+        "electronic",
+        "funk / soul",
+        "hip hop",
+        "pop",
+        "soul",
+        "uk funky"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4CMjJqdilMy9jjrX7Qu3Db",
+    "artist": "Friction",
+    "name": "Dare - Hold It Down",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "punk",
+          "no wave",
+          "post-punk",
+          "japanese"
+        ]
+      },
+      "label": "Elevate Audio",
+      "release": "Friction* - Dare EP",
+      "year": 2016,
+      "discogs_url": "https://www.discogs.com/release/9986937",
+      "genres": [
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "japanese",
+        "no wave",
+        "post-punk",
+        "punk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0pcJlDfkdP4YiY3NYnvuJc",
+    "artist": "Pugilist",
+    "name": "Metaphysics",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Breakbeat",
+          "Electro",
+          "Bass Music",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "dubstep",
+          "electronic",
+          "jungle",
+          "techno",
+          "uk bass"
+        ]
+      },
+      "label": "Best Intentions",
+      "release": "Pugilist - Inverse EP",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35972227",
+      "genres": [
+        "bass music",
+        "breakbeat",
+        "dubstep",
+        "electro",
+        "electronic",
+        "jungle",
+        "techno",
+        "uk bass"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1B0RmknQSLdULgsSRqJXfJ",
+    "artist": "Joe Seven, dBridge",
+    "name": "Err Hello",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Electro",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "exit records",
+          "Drum and bass",
+          "autonomic",
+          "electronic",
+          "Italo Disco"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Joe Seven (2) x dBridge* - Radical Apathy",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35546296",
+      "genres": [
+        "autonomic",
+        "drum and bass",
+        "electro",
+        "electronic",
+        "exit records",
+        "italo disco",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "65Iq70oDOb09jEynYx4hpK",
+    "artist": "Breaka",
+    "name": "Damn Hot",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass",
+          "Juke"
+        ],
+        "lastfm_genres": [
+          "electronic",
+          "jungle",
+          "british",
+          "bass",
+          "uk bass"
+        ]
+      },
+      "label": "Beat Machine Records",
+      "release": "Breaka - Swinging Flavors #7",
+      "year": 2018,
+      "discogs_url": "https://www.discogs.com/release/12171813",
+      "genres": [
+        "bass",
+        "british",
+        "drum n bass",
+        "electronic",
+        "juke",
+        "jungle",
+        "uk bass"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0WmpC54excEFBAF5mZylNO",
+    "artist": "DJ Manny",
+    "name": "Groovy",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Hip Hop",
+          "Gangsta",
+          "Cloud Rap"
+        ],
+        "lastfm_genres": [
+          "Juke",
+          "footwork",
+          "electronic",
+          "chicago",
+          "USA"
+        ]
+      },
+      "label": "Top Dawg Entertainment",
+      "release": "Schoolboy Q - Blank Face LP",
+      "year": 2016,
+      "discogs_url": "https://www.discogs.com/release/9391914",
+      "genres": [
+        "chicago",
+        "cloud rap",
+        "electronic",
+        "footwork",
+        "gangsta",
+        "hip hop",
+        "juke",
+        "usa"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0ue4HOqrSVjccth8VEgosn",
+    "artist": "Alix Perez",
+    "name": "Crooklyn",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "liquid funk",
+          "soulful drum and bass",
+          "dnb",
+          "Drum n Bass"
+        ]
+      },
+      "label": "Soul:r",
+      "release": "Alix Perez & Lynx (7) - Allegiance EP",
+      "year": 2008,
+      "discogs_url": "https://www.discogs.com/release/1273330",
+      "genres": [
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "liquid funk",
+        "soulful drum and bass"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "18ciCj4qc0zGDCnNJaRsVo",
+    "artist": "808 State",
+    "name": "In Yer Face - Revisited",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Acid House",
+          "Breakbeat",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "acid house",
+          "electronic",
+          "House",
+          "techno",
+          "electronica"
+        ]
+      },
+      "label": "ZTT",
+      "release": "808 State - ESP: The 808 State Effect",
+      "year": 2021,
+      "discogs_url": "https://www.discogs.com/release/20095567",
+      "genres": [
+        "acid house",
+        "breakbeat",
+        "drum n bass",
+        "electronic",
+        "electronica",
+        "house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5fnicmHl4IYCU7hKGLKiB3",
+    "artist": "Charlie Sparks (UK)",
+    "name": "Fight Club",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Hip Hop",
+          "Latin",
+          "Funk / Soul",
+          "Pop",
+          "Latin",
+          "House",
+          "Disco",
+          "Instrumental",
+          "UK Garage",
+          "Cut-up/DJ"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "Industrial Techno"
+        ]
+      },
+      "label": "DMC",
+      "release": "Various - Commercial Collection 322",
+      "year": 2009,
+      "discogs_url": "https://www.discogs.com/release/2942968",
+      "genres": [
+        "cut-up/dj",
+        "disco",
+        "electronic",
+        "funk / soul",
+        "hip hop",
+        "house",
+        "industrial techno",
+        "instrumental",
+        "latin",
+        "pop",
+        "techno",
+        "uk garage"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6XH3VDM15G4pvl1Wf0zqHE",
+    "artist": "Marusha",
+    "name": "Raveland",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Breakbeat",
+          "Techno",
+          "Hard Trance",
+          "Happy Hardcore"
+        ],
+        "lastfm_genres": [
+          "Rave",
+          "techno",
+          "happy hardcore",
+          "electronic",
+          "dance"
+        ]
+      },
+      "label": "Low Spirit Recordings",
+      "release": "Marusha - Raveland",
+      "year": 1994,
+      "discogs_url": "https://www.discogs.com/release/22675",
+      "genres": [
+        "breakbeat",
+        "dance",
+        "electronic",
+        "happy hardcore",
+        "hard trance",
+        "rave",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5pn96FNF8ejzyBo5E0cCWM",
+    "artist": "Asian Dub Foundation",
+    "name": "Jericho",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Reggae",
+          "Breakbeat",
+          "Reggae",
+          "Dub",
+          "Drum n Bass",
+          "Hip Hop"
+        ],
+        "lastfm_genres": [
+          "dub",
+          "electronic",
+          "Hip-Hop",
+          "alternative",
+          "trip-hop"
+        ]
+      },
+      "label": "EMI",
+      "release": "Asian Dub Foundation - Time Freeze 1995/2007: The Best Of Asian Dub Foundation",
+      "year": 2007,
+      "discogs_url": "https://www.discogs.com/release/1967265",
+      "genres": [
+        "alternative",
+        "breakbeat",
+        "drum n bass",
+        "dub",
+        "electronic",
+        "hip hop",
+        "hip-hop",
+        "reggae",
+        "trip-hop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6QwfRYRapiHwwj4zly3Fby",
+    "artist": "Joe Seven, dBridge",
+    "name": "Anachronistic",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Electro",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "exit records",
+          "Drum and bass",
+          "autonomic",
+          "electronic",
+          "Italo Disco"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Joe Seven (2) x dBridge* - Radical Apathy",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35546296",
+      "genres": [
+        "autonomic",
+        "drum and bass",
+        "electro",
+        "electronic",
+        "exit records",
+        "italo disco",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1N2YSFpSRaZFqpAQqo5w1G",
+    "artist": "Victoria Port",
+    "name": "What We Become",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Funk / Soul",
+          "Soul"
+        ],
+        "lastfm_genres": [
+          "soul",
+          "jazz",
+          "rnb"
+        ]
+      },
+      "label": "First World Records",
+      "release": "Victoria Port - Barefoot in the Garden",
+      "year": null,
+      "discogs_url": "https://www.discogs.com/release/35840518",
+      "genres": [
+        "funk / soul",
+        "jazz",
+        "rnb",
+        "soul"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1ZmrXgyhX4Sl0ozYPBM3iT",
+    "artist": "Dengue Dengue Dengue",
+    "name": "Como Bailar Cumbia",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Hip Hop",
+          "Latin",
+          "Bass Music",
+          "Cumbia"
+        ],
+        "lastfm_genres": [
+          "Peru",
+          "electronic",
+          "cumbia",
+          "psychedelic",
+          "Drum and bass"
+        ]
+      },
+      "label": "Not On Label (Dengue Dengue Dengue! Self-released)",
+      "release": "Dengue Dengue Dengue! - La Alianza Profana",
+      "year": 2021,
+      "discogs_url": "https://www.discogs.com/release/17839648",
+      "genres": [
+        "bass music",
+        "cumbia",
+        "drum and bass",
+        "electronic",
+        "hip hop",
+        "latin",
+        "peru",
+        "psychedelic"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3IR6y86mVKoH9vfBNIuGnz",
+    "artist": "Dengue Dengue Dengue",
+    "name": "Chacalom",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Latin",
+          "Bass Music",
+          "Cumbia",
+          "Tribal",
+          "Dub"
+        ],
+        "lastfm_genres": [
+          "Peru",
+          "electronic",
+          "cumbia",
+          "psychedelic",
+          "Drum and bass"
+        ]
+      },
+      "label": "Chusma Records",
+      "release": "Dengue Dengue Dengue! - La Alianza Profana",
+      "year": 2015,
+      "discogs_url": "https://www.discogs.com/release/6397308",
+      "genres": [
+        "bass music",
+        "cumbia",
+        "drum and bass",
+        "dub",
+        "electronic",
+        "latin",
+        "peru",
+        "psychedelic",
+        "tribal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "62tUnsAeRJIa9WQSwgMOYD",
+    "artist": "Alan Fitzpatrick",
+    "name": "Don't Stop - Extended Mix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Hip Hop",
+          "Rock",
+          "Latin",
+          "Pop",
+          "Folk, World, & Country",
+          "House",
+          "Dance-pop",
+          "Vocal",
+          "Glam",
+          "Hard Rock",
+          "Electro House",
+          "Drum n Bass",
+          "Celtic",
+          "Breakbeat",
+          "Techno",
+          "Reggaeton",
+          "RnB/Swing"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "tech house",
+          "minimal",
+          "electronic",
+          "bedrock"
+        ]
+      },
+      "label": "DMC",
+      "release": "Various - Commercial Collection 446 - Mar 2020",
+      "year": 2020,
+      "discogs_url": "https://www.discogs.com/release/14852643",
+      "genres": [
+        "bedrock",
+        "breakbeat",
+        "celtic",
+        "dance-pop",
+        "drum n bass",
+        "electro house",
+        "electronic",
+        "folk, world, & country",
+        "glam",
+        "hard rock",
+        "hip hop",
+        "house",
+        "latin",
+        "minimal",
+        "pop",
+        "reggaeton",
+        "rnb/swing",
+        "rock",
+        "tech house",
+        "techno",
+        "vocal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "03jsMREaUhOk10zxm3LDXe",
+    "artist": "Glenn Morrison, Circulation",
+    "name": "Strawberry Fields",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Rock",
+          "Folk, World, & Country",
+          "Folk Rock",
+          "Country Rock",
+          "Bluegrass",
+          "Parody"
+        ],
+        "lastfm_genres": [
+          "Progressive House",
+          "progressive trance",
+          "House",
+          "trance",
+          "electronic"
+        ]
+      },
+      "label": "Cooking Vinyl",
+      "release": "Hayseed Dixie - Weapons Of Grass Destruction",
+      "year": 2007,
+      "discogs_url": "https://www.discogs.com/release/976135",
+      "genres": [
+        "bluegrass",
+        "country rock",
+        "electronic",
+        "folk rock",
+        "folk, world, & country",
+        "house",
+        "parody",
+        "progressive house",
+        "progressive trance",
+        "rock",
+        "trance"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6bwKPd12XkenBJT9H3OPor",
+    "artist": "Niev",
+    "name": "Fuck",
+    "meta": {
+      "sources": {},
+      "year": null,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "2xNUS2DwRCOQZij6E6eVcQ",
+    "artist": "Daniel Avery, bdrmm",
+    "name": "⁠A Silent Shadow",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Rock",
+          "Techno",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "electronic",
+          "House",
+          "ambient",
+          "idm"
+        ]
+      },
+      "label": "Domino",
+      "release": "Daniel Avery - Tremor",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35510095",
+      "genres": [
+        "ambient",
+        "drum n bass",
+        "electronic",
+        "house",
+        "idm",
+        "rock",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "75J5T8S4deTeBog1Zio67X",
+    "artist": "DRS, Zar",
+    "name": "Crooks",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Reggae",
+          "Rocksteady"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "Hip-Hop",
+          "rnb",
+          "rap",
+          "All"
+        ]
+      },
+      "label": "Pioneer",
+      "release": "Luddy Pioneer And The Slickers - Rite On Time",
+      "year": null,
+      "discogs_url": "https://www.discogs.com/release/6581007",
+      "genres": [
+        "all",
+        "drum and bass",
+        "hip-hop",
+        "rap",
+        "reggae",
+        "rnb",
+        "rocksteady"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2VemFqEyckpX6HjqJ1AA5W",
+    "artist": "DRS, Zar",
+    "name": "Pay Your Way",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Hip Hop"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "Hip-Hop",
+          "rnb",
+          "rap",
+          "All"
+        ]
+      },
+      "label": "Make A Hit Records",
+      "release": "Gunzmoke - From Pororiko",
+      "year": 2001,
+      "discogs_url": "https://www.discogs.com/release/15686789",
+      "genres": [
+        "all",
+        "drum and bass",
+        "hip hop",
+        "hip-hop",
+        "rap",
+        "rnb"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1OdqPjIyygWxuCEhjujmKP",
+    "artist": "Sweatson Klank",
+    "name": "Catchin' Feels",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "beats",
+          "electronic",
+          "wonky",
+          "Hip-Hop",
+          "abstract hip-hop"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "abstract hip-hop",
+        "beats",
+        "electronic",
+        "hip-hop",
+        "wonky"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "4NmvnmgkDxhUPNC7IRLZFt",
+    "artist": "Sweatson Klank",
+    "name": "The Sugar",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Funk / Soul",
+          "Soul"
+        ],
+        "lastfm_genres": [
+          "beats",
+          "electronic",
+          "wonky",
+          "Hip-Hop",
+          "abstract hip-hop"
+        ]
+      },
+      "label": "MusicIsMySanctuary.com",
+      "release": "Sweatson Klank - Forgotten Treasures Mix #08",
+      "year": 2013,
+      "discogs_url": "https://www.discogs.com/release/5153975",
+      "genres": [
+        "abstract hip-hop",
+        "beats",
+        "electronic",
+        "funk / soul",
+        "hip-hop",
+        "soul",
+        "wonky"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1JcViNL32GtXqV5irM9BgI",
+    "artist": "L.zwo",
+    "name": "Designer Section",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "techno",
+          "german",
+          "electronic"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "electronic",
+        "german",
+        "techno"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "1bNzEmaWX49dx494T55jba",
+    "artist": "Susso",
+    "name": "Bani",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Funk / Soul",
+          "Folk, World, & Country",
+          "African",
+          "Afrobeat",
+          "Tribal",
+          "Deep House",
+          "Tribal House"
+        ],
+        "lastfm_genres": [
+          "gambia",
+          "african",
+          "gambian",
+          "United Kingdom",
+          "british"
+        ]
+      },
+      "label": "Soundway",
+      "release": "Susso - Keira ",
+      "year": 2016,
+      "discogs_url": "https://www.discogs.com/release/9056249",
+      "genres": [
+        "african",
+        "afrobeat",
+        "british",
+        "deep house",
+        "electronic",
+        "folk, world, & country",
+        "funk / soul",
+        "gambia",
+        "gambian",
+        "tribal",
+        "tribal house",
+        "united kingdom"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2spTCecKIKdP7Nu0UxFfDe",
+    "artist": "Asian Dub Foundation",
+    "name": "Flyover",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Reggae",
+          "Breakbeat",
+          "Reggae",
+          "Dub",
+          "Drum n Bass",
+          "Hip Hop"
+        ],
+        "lastfm_genres": [
+          "dub",
+          "electronic",
+          "Hip-Hop",
+          "alternative",
+          "trip-hop"
+        ]
+      },
+      "label": "EMI",
+      "release": "Asian Dub Foundation - Time Freeze 1995/2007: The Best Of Asian Dub Foundation",
+      "year": 2007,
+      "discogs_url": "https://www.discogs.com/release/1967265",
+      "genres": [
+        "alternative",
+        "breakbeat",
+        "drum n bass",
+        "dub",
+        "electronic",
+        "hip hop",
+        "hip-hop",
+        "reggae",
+        "trip-hop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "29dcfEJUr3IYfSLKqePZJJ",
+    "artist": "Mind Vortex",
+    "name": "Till the Sun Comes",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "dnb",
+          "liquid funk",
+          "Drum n Bass",
+          "drum&bass"
+        ]
+      },
+      "label": "RAM Records",
+      "release": "Mind Vortex - Colours EP",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/6270855",
+      "genres": [
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "drum&bass",
+        "electronic",
+        "liquid funk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "06vqcwKBUjA4DsJ1fHUTP0",
+    "artist": "Ben Hauke",
+    "name": "MONSTA REFLEX",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "glitch",
+          "House",
+          "electronic",
+          "jazz",
+          "jungle"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "electronic",
+        "glitch",
+        "house",
+        "jazz",
+        "jungle"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "6OfMupmx26hzUymwu1IPy9",
+    "artist": "Dub War",
+    "name": "One Chill",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "ragga metal",
+          "reggae",
+          "alternative",
+          "hardcore",
+          "metal"
+        ]
+      },
+      "label": "Aphrodite Mix",
+      "release": "Nine Inch Nails / Dub War - Perfect Drug / One Chill (Aphrodite Remixes)",
+      "year": 2005,
+      "discogs_url": "https://www.discogs.com/release/670858",
+      "genres": [
+        "alternative",
+        "drum n bass",
+        "electronic",
+        "hardcore",
+        "metal",
+        "ragga metal",
+        "reggae"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1m4sMaHxpToIAdwAo1Oj8E",
+    "artist": "Maxim",
+    "name": "Dominant Genes",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Hip Hop",
+          "Rock",
+          "Alternative Rock",
+          "Leftfield",
+          "Trip Hop",
+          "Big Beat",
+          "Garage House",
+          "Hip Hop",
+          "Breakbeat",
+          "Downtempo"
+        ],
+        "lastfm_genres": [
+          "electronic",
+          "trip-hop",
+          "big beat",
+          "electronica",
+          "reggae"
+        ]
+      },
+      "label": "XL Recordings",
+      "release": "Maxim - Hell's Kitchen",
+      "year": 2000,
+      "discogs_url": "https://www.discogs.com/release/11882",
+      "genres": [
+        "alternative rock",
+        "big beat",
+        "breakbeat",
+        "downtempo",
+        "electronic",
+        "electronica",
+        "garage house",
+        "hip hop",
+        "leftfield",
+        "reggae",
+        "rock",
+        "trip hop",
+        "trip-hop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "465BcyLnCo3waRTNP5EgiO",
+    "artist": "Stand High Patrol",
+    "name": "News from 2083",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Hip Hop",
+          "Jazz",
+          "Boom Bap",
+          "Conscious"
+        ],
+        "lastfm_genres": [
+          "dub",
+          "reggae",
+          "dubabub",
+          "dancehall",
+          "dubstep"
+        ]
+      },
+      "label": "Stand High",
+      "release": "Stand High Patrol - The Shift ",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/10349954",
+      "genres": [
+        "boom bap",
+        "conscious",
+        "dancehall",
+        "dub",
+        "dubabub",
+        "dubstep",
+        "hip hop",
+        "jazz",
+        "reggae"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6OaqEg6FFcyQqqVNIL0JHG",
+    "artist": "Petar Dundov",
+    "name": "Sparkling Stars",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "electronic",
+          "dub techno",
+          "deep techno",
+          "minimal techno"
+        ]
+      },
+      "label": "Music Man Records",
+      "release": "Petar Dundov - Sparkling Stars",
+      "year": 2008,
+      "discogs_url": "https://www.discogs.com/release/1569910",
+      "genres": [
+        "deep techno",
+        "dub techno",
+        "electronic",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4bfkxuLzICBniqi2jsLsR1",
+    "artist": "Traxman",
+    "name": "Wetdisk",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Juke",
+          "Footwork"
+        ],
+        "lastfm_genres": [
+          "Juke",
+          "footwork",
+          "electronic",
+          "chicago",
+          "bass"
+        ]
+      },
+      "label": "Moveltraxx",
+      "release": "Traxman - Jukepop EP",
+      "year": 2024,
+      "discogs_url": "https://www.discogs.com/release/32712693",
+      "genres": [
+        "bass",
+        "chicago",
+        "electronic",
+        "footwork",
+        "juke"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2lXU30lFDEfFQE52s1E0Ld",
+    "artist": "D-Formation, Alex Medina, YES TO ALL.",
+    "name": "Requiem",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "House",
+          "Progressive House",
+          "tribal",
+          "tribal house",
+          "melodic house and techno"
+        ]
+      },
+      "label": "Formation Records",
+      "release": "Nero (5) - Requiem EP",
+      "year": 2006,
+      "discogs_url": "https://www.discogs.com/release/686330",
+      "genres": [
+        "drum n bass",
+        "electronic",
+        "house",
+        "melodic house and techno",
+        "progressive house",
+        "tribal",
+        "tribal house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4WPMZQmpDdOFX9qaGK6e64",
+    "artist": "SAULT",
+    "name": "Create Your Prophecy",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Funk / Soul",
+          "Contemporary R&B",
+          "Neo Soul"
+        ],
+        "lastfm_genres": [
+          "soul",
+          "rnb",
+          "Neo-Soul",
+          "indie",
+          "pop"
+        ]
+      },
+      "label": "Forever Living Originals",
+      "release": "Sault - Chapter 1",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/36200308",
+      "genres": [
+        "contemporary r&b",
+        "funk / soul",
+        "indie",
+        "neo soul",
+        "neo-soul",
+        "pop",
+        "rnb",
+        "soul"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5OHD5nZcT4MB48MZyxebNe",
+    "artist": "Break",
+    "name": "So Right",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Progressive House",
+          "Breakbeat",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "neurofunk",
+          "darkstep",
+          "dnb",
+          "Drum n Bass"
+        ]
+      },
+      "label": "Vicious Vinyl",
+      "release": "New Horizon (7) - Feels So Right",
+      "year": 1999,
+      "discogs_url": "https://www.discogs.com/release/476869",
+      "genres": [
+        "breakbeat",
+        "darkstep",
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "neurofunk",
+        "progressive house",
+        "tech house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5IM1TAhZ0tGhPketsWMC02",
+    "artist": "Machinedrum",
+    "name": "Gunshotta",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass",
+          "Jungle",
+          "Dubstep",
+          "Halftime"
+        ],
+        "lastfm_genres": [
+          "idm",
+          "electronic",
+          "glitch",
+          "footwork",
+          "Juke"
+        ]
+      },
+      "label": "Ninja Tune",
+      "release": "Machinedrum - Gunshotta Ave.",
+      "year": 2013,
+      "discogs_url": "https://www.discogs.com/release/5002761",
+      "genres": [
+        "drum n bass",
+        "dubstep",
+        "electronic",
+        "footwork",
+        "glitch",
+        "halftime",
+        "idm",
+        "juke",
+        "jungle"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0IS6KJRVoRYU1qkzQk9Fjp",
+    "artist": "Recondite",
+    "name": "Abscondence",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "House",
+          "Minimal Techno"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "House",
+          "electronic",
+          "acid house",
+          "Acid"
+        ]
+      },
+      "label": "Ghostly International",
+      "release": "Recondite - Hinterland",
+      "year": 2013,
+      "discogs_url": "https://www.discogs.com/release/5090676",
+      "genres": [
+        "acid",
+        "acid house",
+        "electronic",
+        "house",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3URM9LxbVUnwC72VWbGTMo",
+    "artist": "Hypho, Samurai Breaks",
+    "name": "Hunted",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "UK Garage",
+          "dubstep",
+          "Drum and bass",
+          "jungle",
+          "footwork"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "drum and bass",
+        "dubstep",
+        "footwork",
+        "jungle",
+        "uk garage"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "62mI7e6i1kx7tTuOqy6vhD",
+    "artist": "Moloko",
+    "name": "Where Is the What if the What Is in Why?",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Downtempo",
+          "Funk",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "trip-hop",
+          "electronic",
+          "female vocalists",
+          "dance",
+          "electronica"
+        ]
+      },
+      "label": "Echo",
+      "release": "Moloko - Where Is The What If The What Is In Why? / Party Weirdo",
+      "year": 1995,
+      "discogs_url": "https://www.discogs.com/release/2528977",
+      "genres": [
+        "dance",
+        "downtempo",
+        "drum n bass",
+        "electronic",
+        "electronica",
+        "female vocalists",
+        "funk",
+        "trip-hop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7EdiBfGY2lrUPedMl4HNUM",
+    "artist": "Mind Vortex",
+    "name": "Colours",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "dnb",
+          "liquid funk",
+          "Drum n Bass",
+          "drum&bass"
+        ]
+      },
+      "label": "RAM Records",
+      "release": "Mind Vortex - Colours EP",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/6270855",
+      "genres": [
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "drum&bass",
+        "electronic",
+        "liquid funk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0FpQGxhbdy7L2facVWOhzf",
+    "artist": "Ground, Iñigo Vontier",
+    "name": "天々向上 - Inigo Vontier Remix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Abstract"
+        ],
+        "lastfm_genres": [
+          "powerviolence",
+          "hardcore",
+          "Drum and bass",
+          "grindcore",
+          "punk"
+        ]
+      },
+      "label": "Chillmountain Rec",
+      "release": "Ground* - 天々向上 (Iñigo Vontier Remix)",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/36358567",
+      "genres": [
+        "abstract",
+        "drum and bass",
+        "electronic",
+        "grindcore",
+        "hardcore",
+        "house",
+        "powerviolence",
+        "punk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4CYm2GlPorCrj2mHWloRS8",
+    "artist": "Asian Dub Foundation",
+    "name": "Th9",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Reggae",
+          "Breakbeat",
+          "Reggae",
+          "Dub",
+          "Drum n Bass",
+          "Hip Hop"
+        ],
+        "lastfm_genres": [
+          "dub",
+          "electronic",
+          "Hip-Hop",
+          "alternative",
+          "trip-hop"
+        ]
+      },
+      "label": "EMI",
+      "release": "Asian Dub Foundation - Time Freeze 1995/2007: The Best Of Asian Dub Foundation",
+      "year": 2007,
+      "discogs_url": "https://www.discogs.com/release/1967265",
+      "genres": [
+        "alternative",
+        "breakbeat",
+        "drum n bass",
+        "dub",
+        "electronic",
+        "hip hop",
+        "hip-hop",
+        "reggae",
+        "trip-hop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5RJL1EYX399dHsamldPMwY",
+    "artist": "Skeptical, Alix Perez",
+    "name": "Without a Trace",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "neurofunk",
+          "All",
+          "dnb",
+          "british"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Skeptical (2) & Alix Perez - Without A Trace EP",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/9877084",
+      "genres": [
+        "all",
+        "british",
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "neurofunk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "74AXIySKR0yDTfgpOGIhl1",
+    "artist": "Chemical Disco",
+    "name": "Dance With The Stars",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Hip Hop",
+          "Rock",
+          "Funk / Soul",
+          "Pop",
+          "Synth-pop",
+          "Dance-pop",
+          "House",
+          "Progressive House",
+          "Disco",
+          "Trance",
+          "Drum n Bass",
+          "Electro",
+          "Hip Hop",
+          "Italo House",
+          "Italo-Disco",
+          "Euro-Disco",
+          "Euro House",
+          "Italodance",
+          "Eurodance",
+          "Techno",
+          "Europop",
+          "Soul",
+          "Hip-House",
+          "Acid",
+          "Acid House",
+          "Big Beat"
+        ],
+        "lastfm_genres": [
+          "brazil",
+          "House",
+          "deep house",
+          "brasil",
+          "deep nu-disco"
+        ]
+      },
+      "label": "EMI",
+      "release": "Various - The Very Best Of Now Dance",
+      "year": 2005,
+      "discogs_url": "https://www.discogs.com/release/3680787",
+      "genres": [
+        "acid",
+        "acid house",
+        "big beat",
+        "brasil",
+        "brazil",
+        "dance-pop",
+        "deep house",
+        "deep nu-disco",
+        "disco",
+        "drum n bass",
+        "electro",
+        "electronic",
+        "euro house",
+        "euro-disco",
+        "eurodance",
+        "europop",
+        "funk / soul",
+        "hip hop",
+        "hip-house",
+        "house",
+        "italo house",
+        "italo-disco",
+        "italodance",
+        "pop",
+        "progressive house",
+        "rock",
+        "soul",
+        "synth-pop",
+        "techno",
+        "trance"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1CMNlG8yOuqnfpYfV2xD3x",
+    "artist": "Dengue Dengue Dengue",
+    "name": "Rastakauboi",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Hip Hop",
+          "Latin",
+          "Bass Music",
+          "Cumbia"
+        ],
+        "lastfm_genres": [
+          "Peru",
+          "electronic",
+          "cumbia",
+          "psychedelic",
+          "Drum and bass"
+        ]
+      },
+      "label": "Not On Label (Dengue Dengue Dengue! Self-released)",
+      "release": "Dengue Dengue Dengue! - La Alianza Profana",
+      "year": 2021,
+      "discogs_url": "https://www.discogs.com/release/17839648",
+      "genres": [
+        "bass music",
+        "cumbia",
+        "drum and bass",
+        "electronic",
+        "hip hop",
+        "latin",
+        "peru",
+        "psychedelic"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0PV1TFUMTBrDETzW6KQulB",
+    "artist": "Souls Of Mischief",
+    "name": "93 'Til Infinity",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Hip Hop",
+          "Boom Bap"
+        ],
+        "lastfm_genres": [
+          "Hip-Hop",
+          "hip hop",
+          "90s",
+          "rap",
+          "classic"
+        ]
+      },
+      "label": "Jive",
+      "release": "Souls Of Mischief - 93 'Til Infinity",
+      "year": 1993,
+      "discogs_url": "https://www.discogs.com/release/90546",
+      "genres": [
+        "90s",
+        "boom bap",
+        "classic",
+        "hip hop",
+        "hip-hop",
+        "rap"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4QtzMfW9JHwEjcJxxYomNy",
+    "artist": "Tim Reaper",
+    "name": "Triumphant March",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Breakbeat",
+          "Breaks",
+          "Jungle"
+        ],
+        "lastfm_genres": [
+          "jungle",
+          "ambient",
+          "breakbeat",
+          "experimental electronic",
+          "dub techno"
+        ]
+      },
+      "label": "LoDubs",
+      "release": "Tim Reaper - Triumphant March",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37641615",
+      "genres": [
+        "ambient",
+        "breakbeat",
+        "breaks",
+        "dub techno",
+        "electronic",
+        "experimental electronic",
+        "jungle"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "56bJeeJETDSoDEKo7R79Pr",
+    "artist": "Marusha",
+    "name": "We Are the Bass",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Breakbeat",
+          "Techno",
+          "Hard Trance",
+          "Happy Hardcore"
+        ],
+        "lastfm_genres": [
+          "Rave",
+          "techno",
+          "happy hardcore",
+          "electronic",
+          "dance"
+        ]
+      },
+      "label": "Low Spirit Recordings",
+      "release": "Marusha - Raveland",
+      "year": 1994,
+      "discogs_url": "https://www.discogs.com/release/22675",
+      "genres": [
+        "breakbeat",
+        "dance",
+        "electronic",
+        "happy hardcore",
+        "hard trance",
+        "rave",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4hMPpspODHxVP4WbY2T7C1",
+    "artist": "Luis de Narváez, Christopher Wilson",
+    "name": "Narváez: Los seys libros del Delphin: Diferencias I - IV sobre \"Guardame las vacas\"",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Classical",
+          "Renaissance",
+          "Classical Guitar",
+          "Art Song"
+        ],
+        "lastfm_genres": [
+          "renaissance",
+          "spanish",
+          "Classical",
+          "early music",
+          "composer"
+        ]
+      },
+      "label": "EMEC Discos",
+      "release": "Luys de Narváez* - Agustín Maruri, Marta Infante - Los Seys Libros Del Delphín De Música De Cifra Para Tañer Vihuela",
+      "year": 2011,
+      "discogs_url": "https://www.discogs.com/release/20978287",
+      "genres": [
+        "art song",
+        "classical",
+        "classical guitar",
+        "composer",
+        "early music",
+        "renaissance",
+        "spanish"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "18sjKfXGZo3IIEVqfPLNUD",
+    "artist": "Dengue Dengue Dengue",
+    "name": "Chichón",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Latin",
+          "Bass Music",
+          "Cumbia",
+          "Tribal",
+          "Dub"
+        ],
+        "lastfm_genres": [
+          "Peru",
+          "electronic",
+          "cumbia",
+          "psychedelic",
+          "Drum and bass"
+        ]
+      },
+      "label": "Chusma Records",
+      "release": "Dengue Dengue Dengue! - La Alianza Profana",
+      "year": 2015,
+      "discogs_url": "https://www.discogs.com/release/6397308",
+      "genres": [
+        "bass music",
+        "cumbia",
+        "drum and bass",
+        "dub",
+        "electronic",
+        "latin",
+        "peru",
+        "psychedelic",
+        "tribal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2k6m9m423ljc0FWG134QAC",
+    "artist": "SAULT",
+    "name": "Lord Have Mercy",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Funk / Soul",
+          "Contemporary R&B",
+          "Neo Soul"
+        ],
+        "lastfm_genres": [
+          "soul",
+          "rnb",
+          "Neo-Soul",
+          "indie",
+          "pop"
+        ]
+      },
+      "label": "Forever Living Originals",
+      "release": "Sault - Chapter 1",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/36200308",
+      "genres": [
+        "contemporary r&b",
+        "funk / soul",
+        "indie",
+        "neo soul",
+        "neo-soul",
+        "pop",
+        "rnb",
+        "soul"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7wiOalpoMBmYlKoQ6VwlfC",
+    "artist": "Machinedrum",
+    "name": "Don’t 1 2 Lose U",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Dubstep",
+          "Electro",
+          "Ghetto",
+          "IDM"
+        ],
+        "lastfm_genres": [
+          "idm",
+          "electronic",
+          "glitch",
+          "footwork",
+          "Juke"
+        ]
+      },
+      "label": "FACT Magazine",
+      "release": "JETS (6) - FACT Mix 358",
+      "year": 2012,
+      "discogs_url": "https://www.discogs.com/release/4073564",
+      "genres": [
+        "dubstep",
+        "electro",
+        "electronic",
+        "footwork",
+        "ghetto",
+        "glitch",
+        "idm",
+        "juke"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6CsR5QRDFvvvfEFbG4Ae8S",
+    "artist": "LTJ Bukem",
+    "name": "Music",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Breakbeat",
+          "Hardcore",
+          "Jungle"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "electronic",
+          "chillout",
+          "Drum n Bass",
+          "dnb"
+        ]
+      },
+      "label": "Good Looking Records",
+      "release": "Apollo Two - Return To Atlantis / Atlantis (I Need You) (LTJ Bukem Remix)",
+      "year": 2000,
+      "discogs_url": "https://www.discogs.com/release/127188",
+      "genres": [
+        "breakbeat",
+        "chillout",
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "hardcore",
+        "jungle"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7exBgEBpflVGS5zCbSbSEb",
+    "artist": "LTJ Bukem",
+    "name": "Cosmic Interlude",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Downtempo",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "electronic",
+          "chillout",
+          "Drum n Bass",
+          "dnb"
+        ]
+      },
+      "label": "Earth",
+      "release": "Doc Scott / LTJ Bukem - Tokyo Dawn / Cosmic Interlude",
+      "year": 2000,
+      "discogs_url": "https://www.discogs.com/release/6966",
+      "genres": [
+        "chillout",
+        "dnb",
+        "downtempo",
+        "drum and bass",
+        "drum n bass",
+        "electronic"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0qbG5hO78oMetSdmetq0qe",
+    "artist": "YAYABLISS, Bliss, Yaya",
+    "name": "Big Bang",
+    "meta": {
+      "sources": {},
+      "year": null,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "6gzDVmDU6EVAj1tQBQJyw1",
+    "artist": "SNAP!",
+    "name": "See the Light",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Trance",
+          "House"
+        ],
+        "lastfm_genres": [
+          "dance",
+          "eurodance",
+          "90s",
+          "electronic",
+          "techno"
+        ]
+      },
+      "label": "Logic Light",
+      "release": "Snap* - Do You See The Light (Looking For)",
+      "year": 1993,
+      "discogs_url": "https://www.discogs.com/release/442424",
+      "genres": [
+        "90s",
+        "dance",
+        "electronic",
+        "eurodance",
+        "house",
+        "techno",
+        "trance"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2XMxguod6BA1EZVNyeCyVh",
+    "artist": "HugoBass303",
+    "name": "BAILE DE FAVELA",
+    "meta": {
+      "sources": {},
+      "year": null,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "2Pmj81PthjqzXYMyjh5YIH",
+    "artist": "Rudimental, Clean Bandit",
+    "name": "Waiting All Night - Clean Bandit Remix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass",
+          "House",
+          "Garage House"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "dubstep",
+          "electronic",
+          "british",
+          "uk funky"
+        ]
+      },
+      "label": "Not On Label",
+      "release": "Rudimental Ft. Ella Eyre - Waiting All Night",
+      "year": 2013,
+      "discogs_url": "https://www.discogs.com/release/4813422",
+      "genres": [
+        "british",
+        "drum and bass",
+        "drum n bass",
+        "dubstep",
+        "electronic",
+        "garage house",
+        "house",
+        "uk funky"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "666elemQTQGi8xbjAAdIgB",
+    "artist": "Rudimental, Ella Eyre",
+    "name": "Waiting All Night (feat. Ella Eyre)",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "dubstep",
+          "electronic",
+          "british",
+          "uk funky"
+        ]
+      },
+      "label": "Warner Music Benelux",
+      "release": "Rudimental Feat. Ella Eyre - Waiting All Night",
+      "year": 2013,
+      "discogs_url": "https://www.discogs.com/release/4925838",
+      "genres": [
+        "british",
+        "drum and bass",
+        "drum n bass",
+        "dubstep",
+        "electronic",
+        "uk funky"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0NNcU87JzZ7Joukg8Ghzbk",
+    "artist": "ShockOne, Reija Lee",
+    "name": "Polygon",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "neurofunk",
+          "moombahcore",
+          "Brostep",
+          "dubstep"
+        ]
+      },
+      "label": "Viper Recordings",
+      "release": "Shock One (2) - The Shock One EP",
+      "year": 2009,
+      "discogs_url": "https://www.discogs.com/release/1722198",
+      "genres": [
+        "brostep",
+        "drum and bass",
+        "drum n bass",
+        "dubstep",
+        "electronic",
+        "moombahcore",
+        "neurofunk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1vlwXwtzSPZaDd0vyKLKhW",
+    "artist": "Rusko",
+    "name": "Somebody to Love - Sigma Remix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Dubstep",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "dubstep",
+          "electronic",
+          "Grime",
+          "massive dubstep",
+          "dubstep-grime"
+        ]
+      },
+      "label": "Mad Decent",
+      "release": "Rusko - Somebody To Love",
+      "year": 2012,
+      "discogs_url": "https://www.discogs.com/release/3371022",
+      "genres": [
+        "drum n bass",
+        "dubstep",
+        "dubstep-grime",
+        "electronic",
+        "grime",
+        "massive dubstep"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6UZc4cMzXaQOLUVnnMXRec",
+    "artist": "Nectax, Fracture",
+    "name": "Cool Runnings - Fracture Remix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "jungle",
+          "Drum and bass",
+          "Rave",
+          "UK",
+          "Juke"
+        ]
+      },
+      "label": "Beat Machine Records",
+      "release": "Nectax - Swinging Flavors #16",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/36825592",
+      "genres": [
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "juke",
+        "jungle",
+        "rave",
+        "uk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3OZseIwEV37M1hqZWdt3me",
+    "artist": "Nectax",
+    "name": "Cool Runnings",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "jungle",
+          "Drum and bass",
+          "Rave",
+          "UK",
+          "Juke"
+        ]
+      },
+      "label": "Beat Machine Records",
+      "release": "Nectax - Swinging Flavors #16",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/36825592",
+      "genres": [
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "juke",
+        "jungle",
+        "rave",
+        "uk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0Q6gkFpjoCQD5fGtBIZ9Wl",
+    "artist": "Fixate",
+    "name": "Rumours",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Juke",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "halftime",
+          "instrumental",
+          "electronica",
+          "electronic",
+          "Drum and bass"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Fixate (2) - What Goes Around",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/11185310",
+      "genres": [
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "electronica",
+        "halftime",
+        "instrumental",
+        "juke"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0GMbei3eCdUpSmRTNIO6IL",
+    "artist": "Matias Aguayo",
+    "name": "El Sucu Tucu",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Latin",
+          "Abstract",
+          "Disco",
+          "Electro",
+          "Leftfield"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "electronic",
+          "techno",
+          "minimal techno",
+          "Kompakt"
+        ]
+      },
+      "label": "Cómeme",
+      "release": "Matias Aguayo - The Visitor",
+      "year": 2013,
+      "discogs_url": "https://www.discogs.com/release/4668140",
+      "genres": [
+        "abstract",
+        "disco",
+        "electro",
+        "electronic",
+        "kompakt",
+        "latin",
+        "leftfield",
+        "minimal",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6sypHLuYA21KTPkHaHrDaI",
+    "artist": "Stones Taro, KOTETSU",
+    "name": "Scarf - KOTETSU Remix",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "UK Garage",
+          "House",
+          "jungle",
+          "japanese",
+          "electronic"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "electronic",
+        "house",
+        "japanese",
+        "jungle",
+        "uk garage"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "3TBBVNVU1bltp5q7f43uKy",
+    "artist": "Dengue Dengue Dengue",
+    "name": "Dumbia Murdahs",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Latin",
+          "Bass Music",
+          "Cumbia",
+          "Tribal",
+          "Dub"
+        ],
+        "lastfm_genres": [
+          "Peru",
+          "electronic",
+          "cumbia",
+          "psychedelic",
+          "Drum and bass"
+        ]
+      },
+      "label": "Chusma Records",
+      "release": "Dengue Dengue Dengue! - La Alianza Profana",
+      "year": 2015,
+      "discogs_url": "https://www.discogs.com/release/6397308",
+      "genres": [
+        "bass music",
+        "cumbia",
+        "drum and bass",
+        "dub",
+        "electronic",
+        "latin",
+        "peru",
+        "psychedelic",
+        "tribal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2xjVH8msR4KL41ut7Lc5X0",
+    "artist": "Dub War",
+    "name": "Cant Stop",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Rock",
+          "Alternative Rock",
+          "Dub",
+          "Ragga",
+          "Funk Metal"
+        ],
+        "lastfm_genres": [
+          "ragga metal",
+          "reggae",
+          "alternative",
+          "hardcore",
+          "metal"
+        ]
+      },
+      "label": "Earache",
+      "release": "Dub War - Wrong Side Of Beautiful",
+      "year": 1996,
+      "discogs_url": "https://www.discogs.com/release/344693",
+      "genres": [
+        "alternative",
+        "alternative rock",
+        "dub",
+        "funk metal",
+        "hardcore",
+        "metal",
+        "ragga",
+        "ragga metal",
+        "reggae",
+        "rock"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7aIbutVKl4GiyLBxMAZtY1",
+    "artist": "Le Peuple de L'Herbe, Sir Jean",
+    "name": "Ph Theme",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Hip Hop",
+          "Breakbeat",
+          "Dub",
+          "Downtempo"
+        ],
+        "lastfm_genres": [
+          "dub",
+          "electronic",
+          "french",
+          "Drum and bass",
+          "Hip-Hop"
+        ]
+      },
+      "label": "PIAS France",
+      "release": "Le Peuple De L'Herbe - PH Theme (Remixes)",
+      "year": 2000,
+      "discogs_url": "https://www.discogs.com/release/652068",
+      "genres": [
+        "breakbeat",
+        "downtempo",
+        "drum and bass",
+        "dub",
+        "electronic",
+        "french",
+        "hip hop",
+        "hip-hop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0CcL4kSHKIEwF3IW0BGgb6",
+    "artist": "Ann Peebles",
+    "name": "I Can't Stand the Rain",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Funk / Soul",
+          "Soul"
+        ],
+        "lastfm_genres": [
+          "soul",
+          "funk",
+          "female vocalists",
+          "rhythm and blues",
+          "rnb"
+        ]
+      },
+      "label": "Hi Records",
+      "release": "Ann Peebles - I Can't Stand The Rain",
+      "year": 1974,
+      "discogs_url": "https://www.discogs.com/release/2117924",
+      "genres": [
+        "female vocalists",
+        "funk",
+        "funk / soul",
+        "rhythm and blues",
+        "rnb",
+        "soul"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1B0RKtwtvsMXcFQuXqn2xj",
+    "artist": "Fixate, Skeptical",
+    "name": "The Rig Monkey",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Juke",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "halftime",
+          "instrumental",
+          "electronica",
+          "electronic",
+          "Drum and bass"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Fixate (2) - What Goes Around",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/11185310",
+      "genres": [
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "electronica",
+        "halftime",
+        "instrumental",
+        "juke"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5cmg3is6lb0TPSys7IiaKh",
+    "artist": "Big Dope P, Kicks 23, Gettoblaster",
+    "name": "Get To Work - Gettoblaster Remix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Ghetto",
+          "Ghetto House"
+        ],
+        "lastfm_genres": [
+          "bounce",
+          "electronic",
+          "Drum and bass",
+          "france",
+          "Juke"
+        ]
+      },
+      "label": "Moveltraxx",
+      "release": "Various - MOVELT HOUSE PARTY 2",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/25240531",
+      "genres": [
+        "bounce",
+        "drum and bass",
+        "electronic",
+        "france",
+        "ghetto",
+        "ghetto house",
+        "house",
+        "juke"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6e0xjHQQIWJNY0HSl4oK3S",
+    "artist": "Michael Mayer",
+    "name": "Neue Furche",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Minimal",
+          "Ambient"
+        ],
+        "lastfm_genres": [
+          "minimal",
+          "minimal techno",
+          "electronic",
+          "techno",
+          "Kompakt"
+        ]
+      },
+      "label": "Kompakt",
+      "release": "Michael Mayer - Mantasy",
+      "year": 2012,
+      "discogs_url": "https://www.discogs.com/release/3961496",
+      "genres": [
+        "ambient",
+        "electronic",
+        "kompakt",
+        "minimal",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3pN6HXQh75X9OAVCPCLa41",
+    "artist": "DJ Python",
+    "name": "Juntos",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep House",
+          "Reggaeton",
+          "Ambient",
+          "IDM"
+        ],
+        "lastfm_genres": [
+          "deep house",
+          "House",
+          "electronic",
+          "ambient house",
+          "deep reggaeton"
+        ]
+      },
+      "label": "Incienso",
+      "release": "DJ Python - Mas Amable",
+      "year": 2020,
+      "discogs_url": "https://www.discogs.com/release/15107835",
+      "genres": [
+        "ambient",
+        "ambient house",
+        "deep house",
+        "deep reggaeton",
+        "electronic",
+        "house",
+        "idm",
+        "reggaeton"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4obJRBmV1AnO09jj03zIqk",
+    "artist": "Fred again..",
+    "name": "Julia (deep diving)",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House"
+        ],
+        "lastfm_genres": [
+          "House",
+          "electronic",
+          "UK Garage",
+          "dance",
+          "deep house"
+        ]
+      },
+      "label": "Atlantic",
+      "release": "Fred again.. - Actual Life (April 14 – December 17 2020)",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/25341883",
+      "genres": [
+        "dance",
+        "deep house",
+        "electronic",
+        "house",
+        "uk garage"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4WThAKjiZbcAymTbK3xWzM",
+    "artist": "Fixate",
+    "name": "What Goes Around",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Juke",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "halftime",
+          "instrumental",
+          "electronica",
+          "electronic",
+          "Drum and bass"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Fixate (2) - What Goes Around",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/11185310",
+      "genres": [
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "electronica",
+        "halftime",
+        "instrumental",
+        "juke"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2zA37S9g6xIzR7QNqCjaFB",
+    "artist": "AIKON",
+    "name": "To You",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Rock",
+          "Goth Rock",
+          "Darkwave"
+        ],
+        "lastfm_genres": [
+          "electronic",
+          "USA",
+          "Drum and bass",
+          "minimal",
+          "dnb"
+        ]
+      },
+      "label": "Pylon Records",
+      "release": "Ikon (4) - In The Shadow Of The Angel",
+      "year": 2011,
+      "discogs_url": "https://www.discogs.com/release/2916643",
+      "genres": [
+        "darkwave",
+        "dnb",
+        "drum and bass",
+        "electronic",
+        "goth rock",
+        "minimal",
+        "rock",
+        "usa"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3tuuuojbchWKVcCJyW9WMm",
+    "artist": "ILS",
+    "name": "Angels",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Progressive House",
+          "Breaks"
+        ],
+        "lastfm_genres": [
+          "breakbeat",
+          "electronic",
+          "Drum and bass",
+          "breaks",
+          "electronica"
+        ]
+      },
+      "label": "Distinct'ive Records",
+      "release": "Ils - Angels (Part Two)",
+      "year": 2005,
+      "discogs_url": "https://www.discogs.com/release/539270",
+      "genres": [
+        "breakbeat",
+        "breaks",
+        "drum and bass",
+        "electronic",
+        "electronica",
+        "progressive house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0fSkyMme1Ze8ewpcbsiuIs",
+    "artist": "DjRUM",
+    "name": "Three Foxes Chasing Each Other",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Broken Beat",
+          "Drum n Bass",
+          "IDM",
+          "Ambient"
+        ],
+        "lastfm_genres": [
+          "future garage",
+          "dubstep",
+          "electronic",
+          "techno",
+          "ambient"
+        ]
+      },
+      "label": "Houndstooth",
+      "release": "Djrum* - Under Tangled Silence",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/33804456",
+      "genres": [
+        "ambient",
+        "broken beat",
+        "drum n bass",
+        "dubstep",
+        "electronic",
+        "future garage",
+        "idm",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0PdR5ZhCvFKIphdQsAmZQl",
+    "artist": "Plastikman, Richie Hawtin",
+    "name": "Contain",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Acid"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "minimal",
+          "minimal techno",
+          "electronic",
+          "electronica"
+        ]
+      },
+      "label": "Electronic Sound",
+      "release": "Plastikman - Contain",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/23203592",
+      "genres": [
+        "acid",
+        "electronic",
+        "electronica",
+        "minimal",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2LtR2I0pV59u2uY7cO8IjK",
+    "artist": "Special Request",
+    "name": "Vellichor (DJ-Kicks) - Mixed",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Jazz",
+          "Funk / Soul",
+          "Free Jazz",
+          "Disco",
+          "House",
+          "Techno",
+          "Breakbeat",
+          "Drum n Bass",
+          "Ambient"
+        ],
+        "lastfm_genres": [
+          "jungle",
+          "techno",
+          "Drum and bass",
+          "UK Garage",
+          "dubstep"
+        ]
+      },
+      "label": "!K7 Records",
+      "release": "Special Request (4) - DJ-Kicks",
+      "year": 2021,
+      "discogs_url": "https://www.discogs.com/release/17926885",
+      "genres": [
+        "ambient",
+        "breakbeat",
+        "disco",
+        "drum and bass",
+        "drum n bass",
+        "dubstep",
+        "electronic",
+        "free jazz",
+        "funk / soul",
+        "house",
+        "jazz",
+        "jungle",
+        "techno",
+        "uk garage"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6iBulByoLfENLfhIqpzv94",
+    "artist": "Daniel Avery, Cecile Believe",
+    "name": "Rapture in Blue",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Rock",
+          "Techno",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "electronic",
+          "House",
+          "ambient",
+          "idm"
+        ]
+      },
+      "label": "Domino",
+      "release": "Daniel Avery - Tremor",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35510095",
+      "genres": [
+        "ambient",
+        "drum n bass",
+        "electronic",
+        "house",
+        "idm",
+        "rock",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5R7dvPkcSSU34Y1cYpCZ3y",
+    "artist": "High Contrast",
+    "name": "Tutti Frutti",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "liquid funk",
+          "electronic",
+          "Drum n Bass",
+          "dnb"
+        ]
+      },
+      "label": "Hospital Records",
+      "release": "High Contrast - High Society",
+      "year": 2004,
+      "discogs_url": "https://www.discogs.com/release/323593",
+      "genres": [
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "liquid funk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "57smYgkLqmozoEWzzWorw7",
+    "artist": "Count Lasher & His Quintet",
+    "name": "Samfi Man",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Reggae",
+          "Latin",
+          "Funk / Soul",
+          "Mento"
+        ]
+      },
+      "label": "Naked Lunch",
+      "release": "Various - Mento - Jamaica's Original Music",
+      "year": 2021,
+      "discogs_url": "https://www.discogs.com/release/18818809",
+      "genres": [
+        "funk / soul",
+        "latin",
+        "mento",
+        "reggae"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5vRNvPebTJv2X1aUk7eblZ",
+    "artist": "Asian Dub Foundation, Mark Stewart",
+    "name": "Illegal Minds - Bonus Track",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Rock",
+          "Reggae",
+          "Folk, World, & Country",
+          "Dub",
+          "Jungle",
+          "Bhangra",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "dub",
+          "electronic",
+          "Hip-Hop",
+          "alternative",
+          "trip-hop"
+        ]
+      },
+      "label": "X-Ray Production",
+      "release": "Asian Dub Foundation - Enemy Of The Enemy",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/22448974",
+      "genres": [
+        "alternative",
+        "bhangra",
+        "drum n bass",
+        "dub",
+        "electronic",
+        "folk, world, & country",
+        "hip-hop",
+        "jungle",
+        "reggae",
+        "rock",
+        "trip-hop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "55J2ON7QxEqvKHoqrrlq9D",
+    "artist": "Skeptical, Alix Perez",
+    "name": "Solitude",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "neurofunk",
+          "All",
+          "dnb",
+          "british"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Skeptical (2) & Alix Perez - Without A Trace EP",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/9877084",
+      "genres": [
+        "all",
+        "british",
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "neurofunk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "46PRAC9BDGinxWR2Jw6chN",
+    "artist": "MCR-T, horsegiirL",
+    "name": "My Little White Pony",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Gabber",
+          "Eurodance",
+          "Happy Hardcore"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "House",
+          "ghettotech",
+          "Hip-Hop",
+          "germany"
+        ]
+      },
+      "label": "Live From Earth Klub",
+      "release": "MCR-T & horsegiirL - Farm Fantasies",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/22378849",
+      "genres": [
+        "electronic",
+        "eurodance",
+        "gabber",
+        "germany",
+        "ghettotech",
+        "happy hardcore",
+        "hip-hop",
+        "house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5xFyy359TNuV0NDv4eW82X",
+    "artist": "DJ Tommy Tune",
+    "name": "Fifth (Pattern 6)",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Acid",
+          "Acid House",
+          "Techno"
+        ]
+      },
+      "label": "Tacido",
+      "release": "DJ Tommy Tune - Fifth (Pattern 6)",
+      "year": 2020,
+      "discogs_url": "https://www.discogs.com/release/23017742",
+      "genres": [
+        "acid",
+        "acid house",
+        "electronic",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "33dDBKdjvAd4hmcr8NX67m",
+    "artist": "Fracture, Tim Reaper",
+    "name": "Dancing Toms",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Jungle",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "Progressive metal",
+          "Power metal",
+          "metal",
+          "jungle"
+        ]
+      },
+      "label": "Astrophonica",
+      "release": "Fracture (2) & Tim Reaper - APHAFR001",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/34079710",
+      "genres": [
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "jungle",
+        "metal",
+        "power metal",
+        "progressive metal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1793v3dQgPm8neD4SR3meI",
+    "artist": "Friction",
+    "name": "Find Our Way",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "punk",
+          "no wave",
+          "post-punk",
+          "japanese"
+        ]
+      },
+      "label": "Elevate Audio",
+      "release": "Friction* - Dare EP",
+      "year": 2016,
+      "discogs_url": "https://www.discogs.com/release/9986937",
+      "genres": [
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "japanese",
+        "no wave",
+        "post-punk",
+        "punk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7MP6NwsRBBmywS7kdEQKJ9",
+    "artist": "Joe Seven, dBridge",
+    "name": "Enjoyable Delusion",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Electro",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "exit records",
+          "Drum and bass",
+          "autonomic",
+          "electronic",
+          "Italo Disco"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Joe Seven (2) x dBridge* - Radical Apathy",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35546296",
+      "genres": [
+        "autonomic",
+        "drum and bass",
+        "electro",
+        "electronic",
+        "exit records",
+        "italo disco",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "18t51LThwRszg2gJ93wnPb",
+    "artist": "Intel990",
+    "name": "Inbox",
+    "meta": {
+      "sources": {},
+      "year": null,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "3QQX7WoqWRrFfKY9uc4dUY",
+    "artist": "Dance System",
+    "name": "What You Want",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Ghetto",
+          "Tech House",
+          "Trance"
+        ],
+        "lastfm_genres": [
+          "House",
+          "electronic",
+          "UK",
+          "UK Garage",
+          "not boring"
+        ]
+      },
+      "label": "PolyGram Projets Spéciaux",
+      "release": "Various - Maxi Dance Collector System Vol.6",
+      "year": 1997,
+      "discogs_url": "https://www.discogs.com/release/1165014",
+      "genres": [
+        "electronic",
+        "ghetto",
+        "house",
+        "not boring",
+        "tech house",
+        "trance",
+        "uk",
+        "uk garage"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "231sAGxB7sdTzLp9Iyyh8G",
+    "artist": "Manami",
+    "name": "Sekai",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Stage & Screen",
+          "Video Game Music"
+        ],
+        "lastfm_genres": [
+          "japanese",
+          "rnb",
+          "j-urban",
+          "pop",
+          "j-rnb"
+        ]
+      },
+      "label": "Sleigh Bells",
+      "release": "Yasunori Mitsuda, ACE (101) ( TOMOri Kudo*, CHiCO* ), Kenji Hiramatsu, Manami Kiyota, Yoko Shimomura, Mariam Abounnasr, Yutaka Kunigo - Xenoblade Original Soundtrack Trinity Box",
+      "year": 2023,
+      "discogs_url": "https://www.discogs.com/release/27872802",
+      "genres": [
+        "j-rnb",
+        "j-urban",
+        "japanese",
+        "pop",
+        "rnb",
+        "stage & screen",
+        "video game music"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4Be09Gth3hXPiVx9nWaLxN",
+    "artist": "Nectax",
+    "name": "Schematics",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "jungle",
+          "Drum and bass",
+          "Rave",
+          "UK",
+          "Juke"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "drum and bass",
+        "juke",
+        "jungle",
+        "rave",
+        "uk"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "6fNKecFExImKS6MCpdZfkO",
+    "artist": "Bronski Beat, Ted Carfrae",
+    "name": "Dr. John - Ted Carfrae Extended Rework",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Synth-pop",
+          "Disco"
+        ],
+        "lastfm_genres": [
+          "new wave",
+          "80s",
+          "synthpop",
+          "synth pop",
+          "pop"
+        ]
+      },
+      "label": "London Records (Because Ltd)",
+      "release": "Bronski Beat - Dr. John (Ted Carfrae Rework)",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37604937",
+      "genres": [
+        "80s",
+        "disco",
+        "electronic",
+        "new wave",
+        "pop",
+        "synth pop",
+        "synth-pop",
+        "synthpop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6WK2R6UwBGMxiu7qrT72kj",
+    "artist": "Marusha",
+    "name": "Somewhere over the Rainbow",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Hard Trance",
+          "Happy Hardcore"
+        ],
+        "lastfm_genres": [
+          "Rave",
+          "techno",
+          "happy hardcore",
+          "electronic",
+          "dance"
+        ]
+      },
+      "label": "Low Spirit Recordings",
+      "release": "Marusha - Over The Rainbow",
+      "year": 1994,
+      "discogs_url": "https://www.discogs.com/release/30536",
+      "genres": [
+        "dance",
+        "electronic",
+        "happy hardcore",
+        "hard trance",
+        "rave",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7CdySup9OS9itHaEBztbaK",
+    "artist": "GusGus",
+    "name": "Selfoss",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Progressive House",
+          "House",
+          "Tech House"
+        ],
+        "lastfm_genres": [
+          "electronic",
+          "icelandic",
+          "House",
+          "techno",
+          "downtempo"
+        ]
+      },
+      "label": "Kompakt",
+      "release": "GusGus - Arabian Horse",
+      "year": 2011,
+      "discogs_url": "https://www.discogs.com/release/2897797",
+      "genres": [
+        "downtempo",
+        "electronic",
+        "house",
+        "icelandic",
+        "progressive house",
+        "tech house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7oaSVE1bB5B0zQVtUH1gZR",
+    "artist": "Breaka, Danny Scrilla",
+    "name": "Damn Hot - Danny Scrilla Remix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass",
+          "Juke"
+        ],
+        "lastfm_genres": [
+          "electronic",
+          "jungle",
+          "british",
+          "bass",
+          "uk bass"
+        ]
+      },
+      "label": "Beat Machine Records",
+      "release": "Breaka - Swinging Flavors #7",
+      "year": 2018,
+      "discogs_url": "https://www.discogs.com/release/12171813",
+      "genres": [
+        "bass",
+        "british",
+        "drum n bass",
+        "electronic",
+        "juke",
+        "jungle",
+        "uk bass"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2C0IvokSio8N7UyHwuB638",
+    "artist": "Emz, Nasser UK, Valor",
+    "name": "Free",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Rock",
+          "Classic Rock"
+        ],
+        "lastfm_genres": [
+          "jungle",
+          "UK",
+          "dubstep",
+          "Grime",
+          "UK Garage"
+        ]
+      },
+      "label": "Elbo",
+      "release": "Free - Fire And Water",
+      "year": null,
+      "discogs_url": "https://www.discogs.com/release/7738860",
+      "genres": [
+        "classic rock",
+        "dubstep",
+        "grime",
+        "jungle",
+        "rock",
+        "uk",
+        "uk garage"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0xI67GwQ9GPAF9JmGtBpKJ",
+    "artist": "DRS, Zar",
+    "name": "Conversations",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Funk / Soul",
+          "Pop",
+          "House",
+          "Soul",
+          "Ballad"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "Hip-Hop",
+          "rnb",
+          "rap",
+          "All"
+        ]
+      },
+      "label": "Not On Label",
+      "release": "Sugababes - Three",
+      "year": null,
+      "discogs_url": "https://www.discogs.com/release/9998302",
+      "genres": [
+        "all",
+        "ballad",
+        "drum and bass",
+        "electronic",
+        "funk / soul",
+        "hip-hop",
+        "house",
+        "pop",
+        "rap",
+        "rnb",
+        "soul"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2VlnzRmaBuzLuf6GomQO5Z",
+    "artist": "DOK G, DJ Fucks Himself",
+    "name": "Nobody Likes U",
+    "meta": {
+      "sources": {},
+      "year": null,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "1uzlqWIVlJC10Oys931uSz",
+    "artist": "Le Peuple de L'Herbe",
+    "name": "Inspiration",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Hip Hop",
+          "Drum n Bass",
+          "Dub",
+          "Trip Hop"
+        ],
+        "lastfm_genres": [
+          "dub",
+          "electronic",
+          "french",
+          "Drum and bass",
+          "Hip-Hop"
+        ]
+      },
+      "label": "[PIAS] Recordings",
+      "release": "Le Peuple De L'Herbe - P.H. Test / Two",
+      "year": 2002,
+      "discogs_url": "https://www.discogs.com/release/132750",
+      "genres": [
+        "drum and bass",
+        "drum n bass",
+        "dub",
+        "electronic",
+        "french",
+        "hip hop",
+        "hip-hop",
+        "trip hop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4FJn70FsC2q3rUXtsCaf21",
+    "artist": "Le Peuple de L'Herbe",
+    "name": "No Escape",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "dub",
+          "electronic",
+          "french",
+          "Drum and bass",
+          "Hip-Hop"
+        ]
+      },
+      "label": "[PIAS] Recordings",
+      "release": "Le Peuple De L'Herbe Feat. UK Apache* - No Escape",
+      "year": 2003,
+      "discogs_url": "https://www.discogs.com/release/194830",
+      "genres": [
+        "drum and bass",
+        "drum n bass",
+        "dub",
+        "electronic",
+        "french",
+        "hip-hop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1TwyT9zuZLjC0cTp7LNB3e",
+    "artist": "Pugilist",
+    "name": "Emulsify",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Breakbeat",
+          "Electro",
+          "Bass Music",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "dubstep",
+          "electronic",
+          "jungle",
+          "techno",
+          "uk bass"
+        ]
+      },
+      "label": "Best Intentions",
+      "release": "Pugilist - Inverse EP",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35972227",
+      "genres": [
+        "bass music",
+        "breakbeat",
+        "dubstep",
+        "electro",
+        "electronic",
+        "jungle",
+        "techno",
+        "uk bass"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0G4m8FsJnNRr5ULahJnBt1",
+    "artist": "Fixate",
+    "name": "Murderers Dance Too",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Juke",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "halftime",
+          "instrumental",
+          "electronica",
+          "electronic",
+          "Drum and bass"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Fixate (2) - What Goes Around",
+      "year": 2017,
+      "discogs_url": "https://www.discogs.com/release/11185310",
+      "genres": [
+        "drum and bass",
+        "drum n bass",
+        "electronic",
+        "electronica",
+        "halftime",
+        "instrumental",
+        "juke"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3LDz20pRVBFtfRPFiqfMUZ",
+    "artist": "ac1d vicious, Samurai Breaks",
+    "name": "Screamer - Samurai Breaks Remix",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Bass Music",
+          "Jungle"
+        ],
+        "lastfm_genres": [
+          "jungle",
+          "hardcore",
+          "breakcore",
+          "electronic",
+          "Drum and bass"
+        ]
+      },
+      "label": "Beat Machine Records",
+      "release": "Ac1d Vicious - Swinging Flavors #15",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35785120",
+      "genres": [
+        "bass music",
+        "breakcore",
+        "drum and bass",
+        "electronic",
+        "hardcore",
+        "jungle"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0sDsIhgJr3QmDM4pzANQkD",
+    "artist": "Breaka",
+    "name": "Berry Baby Cheeto",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Bass Music"
+        ],
+        "lastfm_genres": [
+          "electronic",
+          "jungle",
+          "british",
+          "bass",
+          "uk bass"
+        ]
+      },
+      "label": "FabricLive",
+      "release": "Breaka - Mangled",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37259781",
+      "genres": [
+        "bass",
+        "bass music",
+        "british",
+        "electronic",
+        "jungle",
+        "uk bass"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7KuWdWOHJNh0UbsjU7zDJr",
+    "artist": "Stones Taro",
+    "name": "Scarf",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "UK Garage",
+          "House",
+          "jungle",
+          "japanese",
+          "electronic"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "electronic",
+        "house",
+        "japanese",
+        "jungle",
+        "uk garage"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "3VE4qpLLPS3Bce2ikctDKT",
+    "artist": "Alix Perez",
+    "name": "Reminisce",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "Drum and bass",
+          "liquid funk",
+          "soulful drum and bass",
+          "dnb",
+          "Drum n Bass"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "dnb",
+        "drum and bass",
+        "drum n bass",
+        "liquid funk",
+        "soulful drum and bass"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "4FRaNflRKIlCB6QV5LWLQT",
+    "artist": "Daniel Avery",
+    "name": "Tremor",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Rock",
+          "Techno",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "electronic",
+          "House",
+          "ambient",
+          "idm"
+        ]
+      },
+      "label": "Domino",
+      "release": "Daniel Avery - Tremor",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35510095",
+      "genres": [
+        "ambient",
+        "drum n bass",
+        "electronic",
+        "house",
+        "idm",
+        "rock",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6E3KO24vh1O8YkGPnGoBD8",
+    "artist": "Daniel Avery, Ellie Rowsell",
+    "name": "Haze",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Rock",
+          "Techno",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "electronic",
+          "House",
+          "ambient",
+          "idm"
+        ]
+      },
+      "label": "Domino",
+      "release": "Daniel Avery - Tremor",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35510095",
+      "genres": [
+        "ambient",
+        "drum n bass",
+        "electronic",
+        "house",
+        "idm",
+        "rock",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0edbZDc4LMKONQuhICzFXs",
+    "artist": "Synth Hiacynt",
+    "name": "Morning Mantra",
+    "meta": {
+      "sources": {},
+      "year": null,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "3YNaoelrF9sNlwSufr7S6A",
+    "artist": "Stones Taro",
+    "name": "Iron Door",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "UK Garage",
+          "House",
+          "jungle",
+          "japanese",
+          "electronic"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "electronic",
+        "house",
+        "japanese",
+        "jungle",
+        "uk garage"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "6vmoxLMxrJoBFhlnxeJ5Fk",
+    "artist": "Roland Clark, ROMBE4T",
+    "name": "Everything's Alright - Acapella",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Latin",
+          "Deep House"
+        ],
+        "lastfm_genres": [
+          "House",
+          "deep house",
+          "club",
+          "american",
+          "United States"
+        ]
+      },
+      "label": "ITH Records",
+      "release": "Various - Defected In The House - Eivissa '05",
+      "year": 2005,
+      "discogs_url": "https://www.discogs.com/release/534573",
+      "genres": [
+        "american",
+        "club",
+        "deep house",
+        "electronic",
+        "house",
+        "latin",
+        "united states"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7gd7BDwZWjGXD6CfX7KQcF",
+    "artist": "Arthur Verocai",
+    "name": "Sylvia",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Jazz",
+          "Latin",
+          "Funk / Soul",
+          "Folk, World, & Country",
+          "Jazz-Funk",
+          "MPB",
+          "Psychedelic"
+        ],
+        "lastfm_genres": [
+          "jazz",
+          "brazilian",
+          "Bossa Nova",
+          "mpb",
+          "world"
+        ]
+      },
+      "label": "Mr Bongo",
+      "release": "Arthur Verocai - Arthur Verocai",
+      "year": 2016,
+      "discogs_url": "https://www.discogs.com/release/8562696",
+      "genres": [
+        "bossa nova",
+        "brazilian",
+        "folk, world, & country",
+        "funk / soul",
+        "jazz",
+        "jazz-funk",
+        "latin",
+        "mpb",
+        "psychedelic",
+        "world"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0bYRzPxJ3MSqiMZzcruA50",
+    "artist": "Le Peuple de L'Herbe",
+    "name": "20 Years Gone",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Hip Hop",
+          "Drum n Bass",
+          "Dub",
+          "Trip Hop"
+        ],
+        "lastfm_genres": [
+          "dub",
+          "electronic",
+          "french",
+          "Drum and bass",
+          "Hip-Hop"
+        ]
+      },
+      "label": "[PIAS] Recordings",
+      "release": "Le Peuple De L'Herbe - P.H. Test / Two",
+      "year": 2002,
+      "discogs_url": "https://www.discogs.com/release/132750",
+      "genres": [
+        "drum and bass",
+        "drum n bass",
+        "dub",
+        "electronic",
+        "french",
+        "hip hop",
+        "hip-hop",
+        "trip hop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2o54YzHCRxrTtup2bQvScv",
+    "artist": "Le Peuple de L'Herbe, DJ Duke",
+    "name": "Herbman Shank",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "dub",
+          "electronic",
+          "french",
+          "Drum and bass",
+          "Hip-Hop"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "drum and bass",
+        "dub",
+        "electronic",
+        "french",
+        "hip-hop"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "0u56IvnisfW9gtUhdyhRML",
+    "artist": "Joe Seven, dBridge",
+    "name": "Possible Future",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Electro",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "exit records",
+          "Drum and bass",
+          "autonomic",
+          "electronic",
+          "Italo Disco"
+        ]
+      },
+      "label": "Exit Records",
+      "release": "Joe Seven (2) x dBridge* - Radical Apathy",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35546296",
+      "genres": [
+        "autonomic",
+        "drum and bass",
+        "electro",
+        "electronic",
+        "exit records",
+        "italo disco",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1sOzisF8IVrpZbbKsJtvuJ",
+    "artist": "Stones Taro",
+    "name": "Deep Camel",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "UK Garage",
+          "House",
+          "jungle",
+          "japanese",
+          "electronic"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "electronic",
+        "house",
+        "japanese",
+        "jungle",
+        "uk garage"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "5a2QOpiXzRTLmgZaaNLwhx",
+    "artist": "Andy Compton, Celestine",
+    "name": "Kiss from Above",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep House",
+          "Downtempo",
+          "Broken Beat"
+        ],
+        "lastfm_genres": [
+          "deep house",
+          "House"
+        ]
+      },
+      "label": "Peng",
+      "release": "Andy Compton - Ubuntu",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/6076063",
+      "genres": [
+        "broken beat",
+        "deep house",
+        "downtempo",
+        "electronic",
+        "house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5aXpwknLswZ7P6zf6Q7dtr",
+    "artist": "Señor Coconut",
+    "name": "Electrolatino",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Electro",
+          "Latin",
+          "Acid"
+        ],
+        "lastfm_genres": [
+          "latin",
+          "electronic",
+          "lounge",
+          "electronica",
+          "cover"
+        ]
+      },
+      "label": "Multicolor Recordings",
+      "release": "Señor Coconut - Electrolatino",
+      "year": 2002,
+      "discogs_url": "https://www.discogs.com/release/72896",
+      "genres": [
+        "acid",
+        "cover",
+        "electro",
+        "electronic",
+        "electronica",
+        "latin",
+        "lounge",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0UgLrEaEcTnoGOLawTvPts",
+    "artist": "Fred again.., Skrillex, Four Tet",
+    "name": "Baby again..",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass",
+          "Electro",
+          "UK Garage",
+          "House",
+          "Beatdown",
+          "Bass Music",
+          "Dubstep"
+        ],
+        "lastfm_genres": [
+          "House",
+          "electronic",
+          "UK Garage",
+          "dance",
+          "deep house"
+        ]
+      },
+      "label": "Warner Music UK Ltd.",
+      "release": "Fred again.. - USB001",
+      "year": 2024,
+      "discogs_url": "https://www.discogs.com/release/30946948",
+      "genres": [
+        "bass music",
+        "beatdown",
+        "dance",
+        "deep house",
+        "drum n bass",
+        "dubstep",
+        "electro",
+        "electronic",
+        "house",
+        "uk garage"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1E8RqaZB3TJCgRACxxjLvL",
+    "artist": "Jacques Arcadelt, The King's Singers, Anthony Rooley",
+    "name": "Arcadelt: Margot labourez les vignes",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Classical",
+          "Renaissance"
+        ],
+        "lastfm_genres": [
+          "renaissance",
+          "early music",
+          "Classical",
+          "composer",
+          "All"
+        ]
+      },
+      "label": "Decca",
+      "release": "The Consort Of Musicke, Anthony Rooley, Elizabethan Consort Of Viols, Purcell Consort Of Voices* - Ars Perfecta / Doulce Memoire (Selección De Obras Renacentistas) ",
+      "year": 1985,
+      "discogs_url": "https://www.discogs.com/release/6546599",
+      "genres": [
+        "all",
+        "classical",
+        "composer",
+        "early music",
+        "renaissance"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2trhiCxkfGxM9NoWvAWFJC",
+    "artist": "Decka, Roseen",
+    "name": "Ground Level",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "Berlin",
+          "electro",
+          "electronic",
+          "deutsch"
+        ]
+      },
+      "label": "Frameworks",
+      "release": "Decka & Roseen - Imaginary Places",
+      "year": 2023,
+      "discogs_url": "https://www.discogs.com/release/26829203",
+      "genres": [
+        "berlin",
+        "deutsch",
+        "electro",
+        "electronic",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6d0itoKfR3ZZCxQwx5qb0M",
+    "artist": "Betonkust, Innershades",
+    "name": "Mercy Like",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Techno",
+          "Electro"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "House",
+          "Acid",
+          "idm",
+          "netherlands"
+        ]
+      },
+      "label": "Clone Jack For Daze",
+      "release": "Betonkust & Innershades - Benelux Connection",
+      "year": 2019,
+      "discogs_url": "https://www.discogs.com/release/14091141",
+      "genres": [
+        "acid",
+        "electro",
+        "electronic",
+        "house",
+        "idm",
+        "netherlands",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "54h1RKrrFJDsNOfhwmqu9o",
+    "artist": "Glenn Miller, Glenn Miller Orchestra",
+    "name": "In the Mood - Live at Carnegie Hall, NYC, NY - 10/6/1939",
+    "meta": {
+      "sources": {
+        "lastfm_genres": [
+          "jazz",
+          "swing",
+          "Big Band",
+          "40s",
+          "oldies"
+        ]
+      },
+      "year": null,
+      "genres": [
+        "40s",
+        "big band",
+        "jazz",
+        "oldies",
+        "swing"
+      ],
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "2rVhkoMwbeOzsBdqMUnm0p",
+    "artist": "Ahadadream, Skrillex, Raf Saperra",
+    "name": "Bass Dhol",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Reggae",
+          "Funk / Soul",
+          "Dancehall",
+          "Bass Music",
+          "Jungle",
+          "Jersey Club",
+          "Ragga",
+          "Moombahton",
+          "Garage House",
+          "Tribal"
+        ],
+        "lastfm_genres": [
+          "dance",
+          "electronic",
+          "uk funky",
+          "UK",
+          "british"
+        ]
+      },
+      "label": "FACT Magazine",
+      "release": "Gracie T - Fact Mix 837",
+      "year": 2021,
+      "discogs_url": "https://www.discogs.com/release/29363215",
+      "genres": [
+        "bass music",
+        "british",
+        "dance",
+        "dancehall",
+        "electronic",
+        "funk / soul",
+        "garage house",
+        "jersey club",
+        "jungle",
+        "moombahton",
+        "ragga",
+        "reggae",
+        "tribal",
+        "uk",
+        "uk funky"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "22qCFSccuoaO2lN6YABM0J",
+    "artist": "Youandewan",
+    "name": "10405 (Alice)",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Ambient",
+          "Electro",
+          "House",
+          "Deep House",
+          "Beatdown"
+        ],
+        "lastfm_genres": [
+          "deep house",
+          "minimal",
+          "House",
+          "electronic",
+          "dubstep"
+        ]
+      },
+      "label": "Aus Music",
+      "release": "Youandewan - There Is No Right Time",
+      "year": 2016,
+      "discogs_url": "https://www.discogs.com/release/9194099",
+      "genres": [
+        "ambient",
+        "beatdown",
+        "deep house",
+        "dubstep",
+        "electro",
+        "electronic",
+        "house",
+        "minimal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0ZFIz0wuM7ISnVekuUTAUS",
+    "artist": "The Maghreban",
+    "name": "Needy",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep House",
+          "Tribal",
+          "Downtempo",
+          "African"
+        ],
+        "lastfm_genres": [
+          "techno",
+          "electronic",
+          "downtempo",
+          "deep house",
+          "House"
+        ]
+      },
+      "label": "R & S Records",
+      "release": "The Maghreban - 01deas ",
+      "year": 2018,
+      "discogs_url": "https://www.discogs.com/release/11772992",
+      "genres": [
+        "african",
+        "deep house",
+        "downtempo",
+        "electronic",
+        "house",
+        "techno",
+        "tribal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "10hAgjQ5cv1UBXkwcptGLH",
+    "artist": "Manami",
+    "name": "Dial Again",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Bass Music",
+          "Breaks",
+          "Techno",
+          "Jungle"
+        ],
+        "lastfm_genres": [
+          "japanese",
+          "rnb",
+          "j-urban",
+          "pop",
+          "j-rnb"
+        ]
+      },
+      "label": "Late Night Shopper",
+      "release": "Alberta Balsam & Manami - LNS002",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37732377",
+      "genres": [
+        "bass music",
+        "breaks",
+        "electronic",
+        "j-rnb",
+        "j-urban",
+        "japanese",
+        "jungle",
+        "pop",
+        "rnb",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2800wgknywUzlZu8cUegr6",
+    "artist": "North Base",
+    "name": "I Found You",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "dubstep",
+          "electronic",
+          "england",
+          "Drum n Bass",
+          "United Kingdom"
+        ]
+      },
+      "label": "AudioPorn Records",
+      "release": "North Base - I Found You",
+      "year": 2016,
+      "discogs_url": "https://www.discogs.com/release/11762213",
+      "genres": [
+        "drum n bass",
+        "dubstep",
+        "electronic",
+        "england",
+        "united kingdom"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "34gPwfznY5G4TjksvmZD7s",
+    "artist": "Soundbwoy Killah",
+    "name": "Fuck Off And Dance",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Disco",
+          "Techno",
+          "Deep House",
+          "Breaks"
+        ],
+        "lastfm_genres": [
+          "jungle",
+          "electronic",
+          "ambient",
+          "hardcore",
+          "House"
+        ]
+      },
+      "label": "Dansu Discs",
+      "release": "Various - Club Culture VA Vol.1",
+      "year": 2018,
+      "discogs_url": "https://www.discogs.com/release/12001933",
+      "genres": [
+        "ambient",
+        "breaks",
+        "deep house",
+        "disco",
+        "electronic",
+        "hardcore",
+        "house",
+        "jungle",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5N7dfo4tjZY7CJEtHtxCWn",
+    "artist": "High Maintenance",
+    "name": "Higher",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ],
+        "lastfm_genres": [
+          "Drum and bass",
+          "dubstep",
+          "neurofunk",
+          "House",
+          "electronic"
+        ]
+      },
+      "label": "AudioPorn Records",
+      "release": "High Maintenance (2) - Higher / Running Away",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/11761818",
+      "genres": [
+        "drum and bass",
+        "drum n bass",
+        "dubstep",
+        "electronic",
+        "house",
+        "neurofunk"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2FDpk2ePBTCkFz5HqAdy6f",
+    "artist": "Loxodrome, Jimpster",
+    "name": "Call Me",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Tech House",
+          "Electro",
+          "Deep House",
+          "Breaks"
+        ],
+        "lastfm_genres": [
+          "Nu Metal",
+          "metal",
+          "Nu-metal",
+          "ska",
+          "fm4 soundpark"
+        ]
+      },
+      "label": "Cyphon Recordings",
+      "release": "Loxodrome - More Alive EP",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35239255",
+      "genres": [
+        "breaks",
+        "deep house",
+        "electro",
+        "electronic",
+        "fm4 soundpark",
+        "metal",
+        "nu metal",
+        "nu-metal",
+        "ska",
+        "tech house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7wiDg2Fw5oe2bwIcH9eIXj",
+    "artist": "Wallace, Love Letters",
+    "name": "Cravings",
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Acid House",
+          "Tech House",
+          "Minimal Techno"
+        ],
+        "lastfm_genres": [
+          "rnb",
+          "soul",
+          "House",
+          "punk",
+          "indie rock"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Wallace (13) - Cravings / Concourse",
+      "year": 2024,
+      "discogs_url": "https://www.discogs.com/release/32349741",
+      "genres": [
+        "acid house",
+        "electronic",
+        "house",
+        "indie rock",
+        "minimal techno",
+        "punk",
+        "rnb",
+        "soul",
+        "tech house"
+      ],
+      "meta_status": "enriched"
+    }
+  }
+]

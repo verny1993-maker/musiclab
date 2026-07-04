@@ -63,7 +63,9 @@ def main():
     print(f"Genres: {genre_names}")
 
     # Show class distribution
-    class_counts = [(genre_names[i], (y == i).sum().item()) for i in range(len(genre_names))]
+    class_counts = [
+        (genre_names[i], (y == i).sum().item()) for i in range(len(genre_names))
+    ]
     for name, count in class_counts:
         print(f"  {name}: {count}")
 
@@ -117,7 +119,9 @@ def main():
         class_weights=class_weights,
     )
 
-    print(f"\nBest validation accuracy: {metrics['best_accuracy']:.3f} (epoch {metrics['best_epoch']})")
+    print(
+        f"\nBest validation accuracy: {metrics['best_accuracy']:.3f} (epoch {metrics['best_epoch']})"
+    )
     print(f"Final train loss: {metrics['train_losses'][-1]:.4f}")
     print(f"Final val loss: {metrics['val_losses'][-1]:.4f}")
 
