@@ -1,33 +1,55 @@
 # Python
 __pycache__/
 *.py[cod]
+*.pyo
 *.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
 .venv/
 venv/
-
-# Data
-data/
-*.db
-*.sqlite
-
-# Env
-.env
-.env.*
-
-# Temp
-.tmp/
-*.tmp
-*.bak
+env/
 
 # IDE
-.idea/
 .vscode/
+.idea/
 *.swp
 *.swo
+
+# Secrets
+.env
+*.env
+cookies.txt
+auth.json
+
+# Large data (keep samples only)
+data/audio/
+data/temp_audio/
+data/tmp_analysis/
+data/library/*.db
+data/library/tracks_all.json
+data/library/tracks_enriched_all.json
+data/library/tracks_raw.json
+data/library/unmatched_tracks.jsonl
+data/library/mb_*.json
+data/library/tracks_missing*.json
+data/library/tracks_retest.json
 
 # OS
 .DS_Store
 Thumbs.db
-qdrant_storage/
-data/
-.venv/
+
+# Docker
+docker-compose.override.yml
+
+# Qdrant binary storage
+qdrant/
+
+# Misc
+ac
+_archive/
+
+# Logs
+*.log

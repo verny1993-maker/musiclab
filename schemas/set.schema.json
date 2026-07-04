@@ -142,6 +142,12 @@
             "type": "boolean",
             "default": false,
             "description": "Manual flag — set by human after verifying timecode vs audio alignment. Scripts only warn, never set this."
+          },
+          "id_status": {
+            "type": "string",
+            "enum": ["identified", "unidentified"],
+            "default": "identified",
+            "description": "Whether the track has been identified by a human or tracklist source. 'unidentified' for Unknown placeholder tracks."
           }
         },
         "required": ["position", "title", "audio"],
@@ -190,6 +196,10 @@
         "required": ["position", "stage", "reason"],
         "additionalProperties": false
       }
+    },
+    "tracklist_complete": {
+      "type": "boolean",
+      "description": "False if the tracklist does not cover the full audio (missing tracks at the end). True by default."
     }
   },
   "required": ["id", "title", "tracks", "errors"],
@@ -248,6 +258,14 @@
           "type": "array",
           "description": "Beat positions in seconds",
           "items": { "type": "number" }
+        },
+        "bpm_ambiguous": {
+          "type": "boolean",
+          "description": "True if BPM is metrically ambiguous (half/double interpretation both valid). Set by human after manual tap-tempo verification."
+        },
+        "bpm_note": {
+          "type": "string",
+          "description": "Human note explaining BPM ambiguity or metrical context. E.g. 'metrically dual: 76/153'."
         }
       },
       "required": ["bpm", "key", "camelot", "key_strength", "energy", "danceability", "loudness", "mfcc_mean", "beat_positions"],

@@ -58,7 +58,28 @@ logger = logging.getLogger("rate_limits")
 # ═══════════════════════════════════════════════════════════════════════
 
 def _env(key: str, default: str = "") -> str:
-    return os.environ.get(key, default)
+    val = os.environ.get(key, "")
+    if val:
+        return val
+    # Fallback: read from .env file directly
+    env_paths = [
+        Path(os.environ.get("HERMES_HOME", "")) / ".env",
+        Path.home() / ".hermes" / ".env",
+    ]
+    for env_path in env_paths:
+        if env_path.exists():
+            try:
+                with open(env_path) as f:
+                    for line in f:
+                        line = line.strip()
+                        if line.startswith(f"{key}="):
+                            val = line.split("=", 1)[1].strip()
+                            if val and val not in ("***", ""):
+                                os.environ[key] = val
+                                return val
+            except Exception:
+                pass
+    return default
 
 # MusicBrainz
 MB_BASE_URL = "https://musicbrainz.org"
@@ -156,6 +177,7 @@ def musicbrainz_get(path: str, params: dict | None = None) -> dict:
             "User-Agent": MB_USER_AGENT,
             "Accept": "application/json",
         })
+        _mb_session.verify = False  # SSL broken on Windows
     _wait_if_needed("musicbrainz", MB_MIN_INTERVAL)
 
     if params is None:

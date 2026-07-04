@@ -1,0 +1,68 @@
+{
+  "id": "yousuke-yukimatsu",
+  "name": "Yousuke Yukimatsu",
+  "manual": {},
+  "computed": {
+    "n_sets_analyzed": 4,
+    "n_tracks_analyzed": 77,
+    "mean_bpm": 132.5,
+    "bpm_range": [
+      69.5,
+      174.6
+    ],
+    "bpm_std": 25.0,
+    "mean_energy": 0.1562,
+    "energy_std": 0.1531,
+    "top_camelot": [
+      {
+        "code": "5B",
+        "count": 11
+      },
+      {
+        "code": "4A",
+        "count": 10
+      },
+      {
+        "code": "8A",
+        "count": 8
+      },
+      {
+        "code": "8B",
+        "count": 5
+      },
+      {
+        "code": "2A",
+        "count": 4
+      }
+    ],
+    "top_labels": [
+      {
+        "label": "SVBKVLT",
+        "count": 12
+      },
+      {
+        "label": "Warp Records",
+        "count": 7
+      },
+      {
+        "label": "Nyege Nyege Tapes",
+        "count": 4
+      },
+      {
+        "label": "Not On Label (Slikback Self-released)",
+        "count": 4
+      },
+      {
+        "label": "Hakuna Kulala",
+        "count": 3
+      }
+    ],
+    "set_ids": [
+      "set_yousuke-yukimatsu_midnight-shift-u-ukeur-uk1mat",
+      "set_yousuke-yukimatsu_u-ukeur-uk1mat-u-boiler-room",
+      "set_yousuke-yukimatsu_yousuke-yukimatsu-keep-hush",
+      "set_øuuk-uk1matu_pure-guest030-yousuke-yukimats"
+    ],
+    "computed_at": "2026-06-30T20:28:00.967418Z"
+  }
+}

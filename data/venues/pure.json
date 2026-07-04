@@ -1,0 +1,41 @@
+{
+  "id": "pure",
+  "name": "PURE",
+  "n_sets": 1,
+  "n_tracks": 19,
+  "artists": [
+    "Yousuke Yukimatsu"
+  ],
+  "mean_bpm": 119.4,
+  "bpm_range": [
+    69.5,
+    174.6
+  ],
+  "mean_energy": 0.0865,
+  "top_camelot": [
+    {
+      "code": "6A",
+      "count": 3
+    },
+    {
+      "code": "4A",
+      "count": 3
+    },
+    {
+      "code": "5B",
+      "count": 2
+    },
+    {
+      "code": "5A",
+      "count": 2
+    },
+    {
+      "code": "8B",
+      "count": 2
+    }
+  ],
+  "set_ids": [
+    "set_øuuk-uk1matu_pure-guest030-yousuke-yukimats"
+  ],
+  "computed_at": "2026-06-30T20:28:00.973174Z"
+}

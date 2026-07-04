@@ -1,0 +1,2553 @@
+[
+  {
+    "id": "1BGmn3of8EaszOvSdnASwY",
+    "artist": "Ela Minus, Nick León",
+    "name": "espiral",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "7FHCOQuUexrMkEUJyyU68u",
+    "artist": "J.C. Fous de la mer",
+    "name": "Mon Ange Guitar Mix Instrumental - Radio Edit",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "0qbNEggDdJg8V66O9BCorL",
+    "artist": "Ezequiel Arias",
+    "name": "Sin Control - Extended Mix",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "03jsMREaUhOk10zxm3LDXe",
+    "artist": "Glenn Morrison, Circulation",
+    "name": "Strawberry Fields",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Rock",
+          "Folk, World, & Country",
+          "Folk Rock",
+          "Country Rock",
+          "Bluegrass",
+          "Parody"
+        ]
+      },
+      "label": "Cooking Vinyl",
+      "release": "Hayseed Dixie - Weapons Of Grass Destruction",
+      "year": 2007,
+      "discogs_url": "https://www.discogs.com/release/976135",
+      "genres": [
+        "bluegrass",
+        "country rock",
+        "folk rock",
+        "folk, world, & country",
+        "parody",
+        "rock"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7ivcJvwn2gJFITljgebEhn",
+    "artist": "Niev",
+    "name": "Friday Sake",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "6bwKPd12XkenBJT9H3OPor",
+    "artist": "Niev",
+    "name": "Fuck",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "7kaQQ7KXo6FslOYP5xWDVt",
+    "artist": "Janeret, Miroloja",
+    "name": "Sleek",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Tech House"
+        ]
+      },
+      "label": "Orizon",
+      "release": "Janeret & Miroloja - Gaia EP",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37707231",
+      "genres": [
+        "electronic",
+        "house",
+        "tech house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3DrwOxQ0TRE8783fvKI1s2",
+    "artist": "Janeret, Miroloja",
+    "name": "Gasherbrum II",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Tech House"
+        ]
+      },
+      "label": "Orizon",
+      "release": "Janeret & Miroloja - Gaia EP",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37707231",
+      "genres": [
+        "electronic",
+        "house",
+        "tech house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0DbjCRgF4etJZSI95wnoLK",
+    "artist": "Janeret, Miroloja",
+    "name": "Gaia",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Tech House"
+        ]
+      },
+      "label": "Orizon",
+      "release": "Janeret & Miroloja - Gaia EP",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37707231",
+      "genres": [
+        "electronic",
+        "house",
+        "tech house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0n4Ezzgk5bpBpnvcLFACJF",
+    "artist": "Maze 28",
+    "name": "Personal Space",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "5hTaIIgMBt86pKWilyBh6E",
+    "artist": "Maze 28",
+    "name": "Tell Me Again",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Jazz",
+          "Rock",
+          "Reggae",
+          "Latin",
+          "Funk / Soul",
+          "Blues",
+          "Pop",
+          "Folk, World, & Country",
+          "Stage & Screen",
+          "Folk Rock",
+          "Chanson",
+          "Tango",
+          "P.Funk",
+          "Big Band",
+          "Ska",
+          "Hard Bop",
+          "Easy Listening",
+          "Country Rock",
+          "Pop Rock",
+          "Prog Rock",
+          "Afro-Cuban Jazz",
+          "Cha-Cha",
+          "Art Rock",
+          "Fusion",
+          "Salsa",
+          "Dub",
+          "Funk",
+          "Rock & Roll",
+          "Calypso",
+          "Bossanova",
+          "Jazz-Funk",
+          "Garage Rock",
+          "Bop",
+          "Punk",
+          "Soul",
+          "Mento",
+          "Disco",
+          "New Wave",
+          "Rhythm & Blues",
+          "Swing",
+          "Post Bop",
+          "Hard Rock",
+          "MPB",
+          "Blues Rock",
+          "Rocksteady",
+          "Free Jazz",
+          "Roots Reggae",
+          "Doo Wop",
+          "Psychedelic Rock",
+          "Mambo",
+          "Samba",
+          "Bayou Funk",
+          "Modern Electric Blues",
+          "Reggae",
+          "Bollywood",
+          "Chicago Blues",
+          "Soundtrack",
+          "Vocal",
+          "Skiffle",
+          "Krautrock",
+          "Cool Jazz",
+          "Soul-Jazz",
+          "Son",
+          "Jump Blues",
+          "Country",
+          "Modal",
+          "Avantgarde",
+          "African",
+          "Post-Punk",
+          "No Wave"
+        ]
+      },
+      "label": "Nova Records",
+      "release": "Various - 25 Ans De Musique D'avant Nova",
+      "year": 2007,
+      "discogs_url": "https://www.discogs.com/release/1291688",
+      "genres": [
+        "african",
+        "afro-cuban jazz",
+        "art rock",
+        "avantgarde",
+        "bayou funk",
+        "big band",
+        "blues",
+        "blues rock",
+        "bollywood",
+        "bop",
+        "bossanova",
+        "calypso",
+        "cha-cha",
+        "chanson",
+        "chicago blues",
+        "cool jazz",
+        "country",
+        "country rock",
+        "disco",
+        "doo wop",
+        "dub",
+        "easy listening",
+        "electronic",
+        "folk rock",
+        "folk, world, & country",
+        "free jazz",
+        "funk",
+        "funk / soul",
+        "fusion",
+        "garage rock",
+        "hard bop",
+        "hard rock",
+        "jazz",
+        "jazz-funk",
+        "jump blues",
+        "krautrock",
+        "latin",
+        "mambo",
+        "mento",
+        "modal",
+        "modern electric blues",
+        "mpb",
+        "new wave",
+        "no wave",
+        "p.funk",
+        "pop",
+        "pop rock",
+        "post bop",
+        "post-punk",
+        "prog rock",
+        "psychedelic rock",
+        "punk",
+        "reggae",
+        "rhythm & blues",
+        "rock",
+        "rock & roll",
+        "rocksteady",
+        "roots reggae",
+        "salsa",
+        "samba",
+        "ska",
+        "skiffle",
+        "son",
+        "soul",
+        "soul-jazz",
+        "soundtrack",
+        "stage & screen",
+        "swing",
+        "tango",
+        "vocal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0WMjsMb0YqtBBMOGz2Ho01",
+    "artist": "Youandewan",
+    "name": "Quick Flight",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Tech House",
+          "Deep House",
+          "Progressive House"
+        ]
+      },
+      "label": "The Brane",
+      "release": "Youandewan - The Brane 003",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37754322",
+      "genres": [
+        "deep house",
+        "electronic",
+        "progressive house",
+        "tech house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "742mwmh0qZJl2mjvMWC4B6",
+    "artist": "Eev Frances, gabby start, Behne",
+    "name": "Doves (Kiss) - Behne Remix",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "2Rvi0CiuXzYyYRd3i9wxqM",
+    "artist": "Solomun, Skrillex",
+    "name": "Rumpta",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "3mv86iXUy0qGJUjVzZuk33",
+    "artist": "Juan Almiñana Obando",
+    "name": "Esperanza",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "1zzcinCt2SPDfhLI5HCCRy",
+    "artist": "DESTIINO, Yuksek, Iñigo Vontier, Marina Trench",
+    "name": "Somlake - Marina Trench Remix",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "6sqHzGFwTmg9T6cIdSohfJ",
+    "artist": "Planetary Assault Systems",
+    "name": "Labyrinth",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Ambient"
+        ]
+      },
+      "label": "Ostgut Ton",
+      "release": "Planetary Assault Systems - Planetary People",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37377273",
+      "genres": [
+        "ambient",
+        "electronic",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6tPU70iPKXV6TpXfzdHSgn",
+    "artist": "Planetary Assault Systems",
+    "name": "Thunder Major",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Ambient"
+        ]
+      },
+      "label": "Ostgut Ton",
+      "release": "Planetary Assault Systems - Planetary People",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37377273",
+      "genres": [
+        "ambient",
+        "electronic",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0R1oobHVomGdIqDBhh3xY5",
+    "artist": "CHLOE (Thévenin)",
+    "name": "Heights",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Hip Hop",
+          "Rock",
+          "Folk Rock",
+          "Pop Rock",
+          "Indie Rock",
+          "Punk",
+          "Post Rock",
+          "Tech House",
+          "Electro"
+        ]
+      },
+      "label": "Spex",
+      "release": "Various - ¬ 74",
+      "year": 2007,
+      "discogs_url": "https://www.discogs.com/release/1039487",
+      "genres": [
+        "electro",
+        "electronic",
+        "folk rock",
+        "hip hop",
+        "indie rock",
+        "pop rock",
+        "post rock",
+        "punk",
+        "rock",
+        "tech house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5JKO9BssAlWgkBofHUEPPa",
+    "artist": "CHLOE (Thévenin)",
+    "name": "Drifter - Extended Version",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "4ZFpJBEKBkNjX5rZ4H2mmY",
+    "artist": "LOVEFOXY",
+    "name": "Lovin Me",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "0e05fabWzHUqEGzKC45pSC",
+    "artist": "Oliver Shanti & Friends",
+    "name": "Sacral Nirvana",
+    "year": 2024,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Folk, World, & Country",
+          "New Age",
+          "Downtempo",
+          "Ambient"
+        ]
+      },
+      "label": "Sattva Music",
+      "release": "Oliver Shanti & Friends - Tai Chi Too - Himalaya, Magic And Spirit",
+      "year": 1996,
+      "discogs_url": "https://www.discogs.com/release/876453",
+      "genres": [
+        "ambient",
+        "downtempo",
+        "electronic",
+        "folk, world, & country",
+        "new age"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5F0vFiQJLtQ1E3VQmc7a7o",
+    "artist": "Aphex Twin",
+    "name": "Phlange Phace",
+    "year": 1992,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Breakbeat",
+          "Abstract",
+          "Techno"
+        ]
+      },
+      "label": "R & S Records",
+      "release": "Aphex Twin - Xylem Tube E.P.",
+      "year": 1992,
+      "discogs_url": "https://www.discogs.com/release/1788489",
+      "genres": [
+        "abstract",
+        "breakbeat",
+        "electronic",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2aDkhzKGM3xxiNaUQnd8KJ",
+    "artist": "Aphex Twin",
+    "name": "Tamphex (Hedphuq Mix)",
+    "year": 1992,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Hardcore",
+          "IDM"
+        ]
+      },
+      "label": "R & S Records",
+      "release": "The Aphex Twin* - Classics",
+      "year": 1995,
+      "discogs_url": "https://www.discogs.com/release/830",
+      "genres": [
+        "electronic",
+        "hardcore",
+        "idm",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3E6mMwSocDQS0vKCXeIUny",
+    "artist": "Aphex Twin",
+    "name": "Polynomial-C",
+    "year": 1992,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "IDM",
+          "Experimental",
+          "Techno",
+          "Ambient",
+          "Abstract",
+          "Drum n Bass",
+          "Acid",
+          "Hardcore",
+          "Modern Classical",
+          "Jungle",
+          "Breaks",
+          "Electro"
+        ]
+      },
+      "label": "Домашняя Коллекция",
+      "release": "Aphex Twin - Aphex Twin",
+      "year": 2002,
+      "discogs_url": "https://www.discogs.com/release/848637",
+      "genres": [
+        "abstract",
+        "acid",
+        "ambient",
+        "breaks",
+        "drum n bass",
+        "electro",
+        "electronic",
+        "experimental",
+        "hardcore",
+        "idm",
+        "jungle",
+        "modern classical",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2zWyk27ZZ22Bt6CA8GVWAP",
+    "artist": "AFX",
+    "name": "Wabby Legs",
+    "year": 2005,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "IDM",
+          "Breakcore",
+          "Experimental"
+        ]
+      },
+      "label": "Warp Records",
+      "release": "AFX* - Hangable Auto Bulb EP",
+      "year": 1995,
+      "discogs_url": "https://www.discogs.com/release/136",
+      "genres": [
+        "breakcore",
+        "electronic",
+        "experimental",
+        "idm"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "17Md1nIkMF7MfYZDs36MSF",
+    "artist": "Sully",
+    "name": "Model Collapse",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Drum n Bass"
+        ]
+      },
+      "label": "FabricLive",
+      "release": "Sully (5) - Model Collapse",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/33385673",
+      "genres": [
+        "drum n bass",
+        "electronic"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2iMV9m54c5Ir3xF1QycpgE",
+    "artist": "The Hundred In The Hands",
+    "name": "Pigeons",
+    "year": 2010,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Rock",
+          "Pop",
+          "Synth-pop",
+          "Indie Rock"
+        ]
+      },
+      "label": "Warp Records",
+      "release": "The Hundred In The Hands - The Hundred In The Hands",
+      "year": 2010,
+      "discogs_url": "https://www.discogs.com/release/2454603",
+      "genres": [
+        "electronic",
+        "indie rock",
+        "pop",
+        "rock",
+        "synth-pop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4h5u7D1BtCMv1SOKunZ49p",
+    "artist": "!!!",
+    "name": "AM/FM",
+    "year": 2010,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Non-Music",
+          "Comedy"
+        ]
+      },
+      "label": "Little David Records",
+      "release": "George Carlin - FM & AM",
+      "year": 1972,
+      "discogs_url": "https://www.discogs.com/release/923376",
+      "genres": [
+        "comedy",
+        "non-music"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0nr1ZrTH9ndawJrJn3WrKU",
+    "artist": "PVT",
+    "name": "Window",
+    "year": 2010,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Rock"
+        ]
+      },
+      "label": "Warp Records",
+      "release": "PVT - Window",
+      "year": 2010,
+      "discogs_url": "https://www.discogs.com/release/2527597",
+      "genres": [
+        "rock"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6AwtHSwMxFfbaVl5myeKDW",
+    "artist": "Rey Sapienz",
+    "name": "Eya Eya 6600 volt",
+    "year": 2018,
+    "meta": {
+      "sources": {},
+      "year": 2018,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "3oJZX7VBFRm0huOBTgocBI",
+    "artist": "Rey Sapienz",
+    "name": "Hakuna Ku Lala F",
+    "year": 2018,
+    "meta": {
+      "sources": {},
+      "year": 2018,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "077DPWpJZ2YKXDrnOaJxTY",
+    "artist": "Slikback",
+    "name": "Acid",
+    "year": 2018,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Experimental"
+        ]
+      },
+      "label": "Hakuna Kulala",
+      "release": "Slikback - Lasakaneku / Tomo",
+      "year": 2019,
+      "discogs_url": "https://www.discogs.com/release/14216237",
+      "genres": [
+        "electronic",
+        "experimental"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1e44U9z0w9WdC8Z8corhNL",
+    "artist": "DJ Plead",
+    "name": "Shush",
+    "year": 2025,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Downtempo"
+        ]
+      },
+      "label": "!K7 Records",
+      "release": "Logic1000* - DJ-Kicks",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/33554220",
+      "genres": [
+        "downtempo",
+        "electronic"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2jOCbWkdJTqNcBRhGceAQP",
+    "artist": "Daphni",
+    "name": "Ye Ye - Re-work of When The Going Is Smooth & Good",
+    "year": 2014,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Funk / Soul",
+          "Folk, World, & Country",
+          "Afrobeat",
+          "Disco",
+          "Funk"
+        ]
+      },
+      "label": "Luaka Bop",
+      "release": "William Onyeabor - What?!",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/5612445",
+      "genres": [
+        "afrobeat",
+        "disco",
+        "electronic",
+        "folk, world, & country",
+        "funk",
+        "funk / soul"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5wpdMn2PSpDRvg9wP3wuSC",
+    "artist": "Pearson Sound",
+    "name": "Red Sky",
+    "year": 2022,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Bass Music",
+          "UK Garage"
+        ]
+      },
+      "label": "Hessle Audio",
+      "release": "Pearson Sound - Red Sky",
+      "year": 2022,
+      "discogs_url": "https://www.discogs.com/release/25240240",
+      "genres": [
+        "bass music",
+        "electronic",
+        "uk garage"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2LtR2I0pV59u2uY7cO8IjK",
+    "artist": "Special Request",
+    "name": "Vellichor (DJ-Kicks) - Mixed",
+    "year": 2021,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Jazz",
+          "Funk / Soul",
+          "Free Jazz",
+          "Disco",
+          "House",
+          "Techno",
+          "Breakbeat",
+          "Drum n Bass",
+          "Ambient"
+        ]
+      },
+      "label": "!K7 Records",
+      "release": "Special Request (4) - DJ-Kicks",
+      "year": 2021,
+      "discogs_url": "https://www.discogs.com/release/17926885",
+      "genres": [
+        "ambient",
+        "breakbeat",
+        "disco",
+        "drum n bass",
+        "electronic",
+        "free jazz",
+        "funk / soul",
+        "house",
+        "jazz",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2MOzOqaJeAcg2NXBbJkepk",
+    "artist": "TSVI",
+    "name": "Hossam",
+    "year": 2018,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Reggae",
+          "Breakbeat",
+          "Experimental",
+          "Dancehall",
+          "Grime"
+        ]
+      },
+      "label": "Nervous Horizon",
+      "release": "Tsvi - Inner Worlds",
+      "year": 2018,
+      "discogs_url": "https://www.discogs.com/release/12904781",
+      "genres": [
+        "breakbeat",
+        "dancehall",
+        "electronic",
+        "experimental",
+        "grime",
+        "reggae"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "60tGrVl0hmwDuyXs89HraC",
+    "artist": "DJ Plead",
+    "name": "Shoulder Pop",
+    "year": 2019,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Dubstep",
+          "Tribal",
+          "Techno"
+        ]
+      },
+      "label": "Nervous Horizon",
+      "release": "DJ Plead - Pleats Plead EP",
+      "year": 2019,
+      "discogs_url": "https://www.discogs.com/release/13279535",
+      "genres": [
+        "dubstep",
+        "electronic",
+        "techno",
+        "tribal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4eVvdiBVL7Yn6AELM891ro",
+    "artist": "Simo Cell",
+    "name": "Yes.DJ",
+    "year": 2021,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Electro",
+          "Breaks",
+          "Dubstep"
+        ]
+      },
+      "label": "TemeT",
+      "release": "Simo Cell - Yes.DJ",
+      "year": 2021,
+      "discogs_url": "https://www.discogs.com/release/20400181",
+      "genres": [
+        "breaks",
+        "dubstep",
+        "electro",
+        "electronic",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7oIxRwGGw4l8qwhGiRJoup",
+    "artist": "K-Lone",
+    "name": "Sine Language",
+    "year": 2019,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "House",
+          "Grime",
+          "Electro",
+          "UK Garage",
+          "Broken Beat"
+        ]
+      },
+      "label": "Wisdom Teeth",
+      "release": "K-Lone - Sine Language",
+      "year": 2019,
+      "discogs_url": "https://www.discogs.com/release/13695712",
+      "genres": [
+        "broken beat",
+        "electro",
+        "electronic",
+        "grime",
+        "house",
+        "techno",
+        "uk garage"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1nKu1cTRaefIYKPibSBRcg",
+    "artist": "Alvin Curran",
+    "name": "Light Flowers Dark Flowers: II.",
+    "year": 2010,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Classical",
+          "Post-Modern"
+        ]
+      },
+      "label": "Long Distance",
+      "release": "Alvin Curran, Daan Vandewalle - Inner Cities",
+      "year": 2005,
+      "discogs_url": "https://www.discogs.com/release/1670340",
+      "genres": [
+        "classical",
+        "post-modern"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1dIf1815FWz42hTgsTKGM6",
+    "artist": "Alvin Curran",
+    "name": "Light Flowers Dark Flowers: I.",
+    "year": 2010,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Classical",
+          "Experimental"
+        ]
+      },
+      "label": "New World Records",
+      "release": "Alvin Curran - Solo Works: The '70s",
+      "year": 2010,
+      "discogs_url": "https://www.discogs.com/release/2689585",
+      "genres": [
+        "classical",
+        "electronic",
+        "experimental"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3eNaCqjTBSmrk7AZb9eulb",
+    "artist": "Alvin Curran",
+    "name": "Songs and Views from the Magnetic Garden: II.",
+    "year": 2010,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Classical",
+          "Experimental"
+        ]
+      },
+      "label": "New World Records",
+      "release": "Alvin Curran - Solo Works: The '70s",
+      "year": 2010,
+      "discogs_url": "https://www.discogs.com/release/2689585",
+      "genres": [
+        "classical",
+        "electronic",
+        "experimental"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "15ncbjmCZ81VQFznnWp2wM",
+    "artist": "Alvin Curran",
+    "name": "Songs and Views from the Magnetic Garden: I.",
+    "year": 2010,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Classical",
+          "Experimental"
+        ]
+      },
+      "label": "New World Records",
+      "release": "Alvin Curran - Solo Works: The '70s",
+      "year": 2010,
+      "discogs_url": "https://www.discogs.com/release/2689585",
+      "genres": [
+        "classical",
+        "electronic",
+        "experimental"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5Bp6JaQQVpU9sdJWARSqQI",
+    "artist": "Else Marie Pade",
+    "name": "Syv Cirkler (1958)",
+    "year": 2014,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Experimental",
+          "Musique Concrète"
+        ]
+      },
+      "label": "Important Records",
+      "release": "Else Marie Pade - Electronic Works 1958-1995",
+      "year": 2016,
+      "discogs_url": "https://www.discogs.com/release/9427829",
+      "genres": [
+        "electronic",
+        "experimental",
+        "musique concrète"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2LfC0vr2Jaj7ileyojvmMj",
+    "artist": "Else Marie Pade",
+    "name": "Lyd & Lys (1960)",
+    "year": 2014,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Experimental",
+          "Musique Concrète"
+        ]
+      },
+      "label": "Important Records",
+      "release": "Else Marie Pade - Electronic Works 1958-1995",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/6447403",
+      "genres": [
+        "electronic",
+        "experimental",
+        "musique concrète"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4gMw0xLWUteQuUffBIXE3U",
+    "artist": "Else Marie Pade",
+    "name": "Faust Suite: Faust & Mefisto",
+    "year": 2014,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Experimental"
+        ]
+      },
+      "label": "Important Records",
+      "release": "Else Marie Pade - Electronic Works 1958-1995",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/6462935",
+      "genres": [
+        "electronic",
+        "experimental"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1aDZ1F5tN0nDCg1e8ELDdO",
+    "artist": "Stevie Cox, ansboy",
+    "name": "Alessia",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "1o7c2essYXpPtSkoQ9op2o",
+    "artist": "DJ co.kr, h4rdy, Warrior Queen",
+    "name": "Dancing Matik",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "2FvXh9YSCavLeIMlTExLXL",
+    "artist": "Module One",
+    "name": "Square One",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Abstract",
+          "Noise"
+        ]
+      },
+      "label": "Manual",
+      "release": "Jin Sangtae + Park Seungjun - 5 Modules IV",
+      "year": 2007,
+      "discogs_url": "https://www.discogs.com/release/3095063",
+      "genres": [
+        "abstract",
+        "electronic",
+        "noise"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1pEocxwAwHGIp3lBPkGVTV",
+    "artist": "Module One",
+    "name": "Animation",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Hip Hop",
+          "Boom Bap",
+          "Instrumental"
+        ]
+      },
+      "label": "Module 25",
+      "release": "Trust One, Masta Cypher Devine - Ascended Animation",
+      "year": 2021,
+      "discogs_url": "https://www.discogs.com/release/32727252",
+      "genres": [
+        "boom bap",
+        "hip hop",
+        "instrumental"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1csP9vmF76ATkt3ZGxHHlQ",
+    "artist": "Nick Curly",
+    "name": "Keep on",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Minimal",
+          "Tech House"
+        ]
+      },
+      "label": "8bit Records",
+      "release": "Nick Curly - 8bit Reasons (Part One)",
+      "year": 2009,
+      "discogs_url": "https://www.discogs.com/release/1872630",
+      "genres": [
+        "electronic",
+        "minimal",
+        "tech house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "39SY52L2wO1puZJtPzAXF8",
+    "artist": "Nick Curly",
+    "name": "Bahia",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Tech House"
+        ]
+      },
+      "label": "8bit Records",
+      "release": "Nick Curly - Bahia EP",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37766892",
+      "genres": [
+        "electronic",
+        "house",
+        "tech house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5aXpwknLswZ7P6zf6Q7dtr",
+    "artist": "Señor Coconut",
+    "name": "Electrolatino",
+    "year": 2006,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Electro",
+          "Latin",
+          "Acid"
+        ]
+      },
+      "label": "Multicolor Recordings",
+      "release": "Señor Coconut - Electrolatino",
+      "year": 2002,
+      "discogs_url": "https://www.discogs.com/release/72896",
+      "genres": [
+        "acid",
+        "electro",
+        "electronic",
+        "latin",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5WACLmxePHgd45hptug9n1",
+    "artist": "Ricardo Villalobos",
+    "name": "Lazerpresent",
+    "year": 2006,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Techno",
+          "Deep House",
+          "Minimal"
+        ]
+      },
+      "label": "Label Humanity",
+      "release": "Ralph Payne - Ring Ting Mix",
+      "year": 2009,
+      "discogs_url": "https://www.discogs.com/release/2306360",
+      "genres": [
+        "deep house",
+        "electronic",
+        "house",
+        "minimal",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2zA37S9g6xIzR7QNqCjaFB",
+    "artist": "AIKON",
+    "name": "To You",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Rock",
+          "Goth Rock",
+          "Darkwave"
+        ]
+      },
+      "label": "Pylon Records",
+      "release": "Ikon (4) - In The Shadow Of The Angel",
+      "year": 2011,
+      "discogs_url": "https://www.discogs.com/release/2916643",
+      "genres": [
+        "darkwave",
+        "goth rock",
+        "rock"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0rL2SkiVVDVQtbDL4b94B9",
+    "artist": "Hardt Antoine",
+    "name": "Raw",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "11hQq4yWgnys6cYprSDiYL",
+    "artist": "Âme",
+    "name": "Shiro",
+    "year": 2004,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep House"
+        ]
+      },
+      "label": "Sonar Kollektiv",
+      "release": "Âme - Mifune / Shiro",
+      "year": 2004,
+      "discogs_url": "https://www.discogs.com/release/315990",
+      "genres": [
+        "deep house",
+        "electronic"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "220KL0xFNYtyc6xwK9Vrif",
+    "artist": "Âme",
+    "name": "Hydrolic Dog",
+    "year": 2004,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Electro",
+          "Deep House",
+          "Minimal"
+        ]
+      },
+      "label": "Sonar Kollektiv",
+      "release": "Âme - Âme",
+      "year": 2004,
+      "discogs_url": "https://www.discogs.com/release/334934",
+      "genres": [
+        "deep house",
+        "electro",
+        "electronic",
+        "minimal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0kMl24tYmBZkq0hpAll1Xr",
+    "artist": "Âme",
+    "name": "Nia",
+    "year": 2004,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Deep House"
+        ]
+      },
+      "label": "Sonar Kollektiv",
+      "release": "Âme - Ojomo / Nia",
+      "year": 2004,
+      "discogs_url": "https://www.discogs.com/release/256806",
+      "genres": [
+        "deep house",
+        "electronic"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0b6eHqufNgvWmVNsIR15Zg",
+    "artist": "Ricardo Villalobos",
+    "name": "Suesse Cheques",
+    "year": 2006,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Minimal"
+        ]
+      },
+      "label": "Frisbee Tracks",
+      "release": "Ricardo Villalobos - Pino Jet Explosion",
+      "year": 1999,
+      "discogs_url": "https://www.discogs.com/release/6593",
+      "genres": [
+        "electronic",
+        "minimal"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2wyEQ6gDex0dbOZakKuzaY",
+    "artist": "Sally C",
+    "name": "Turn That",
+    "year": 2020,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House"
+        ]
+      },
+      "label": "Big Saldo's Chunkers",
+      "release": "Sally C - Big Saldo's Chunker EP 001",
+      "year": 2020,
+      "discogs_url": "https://www.discogs.com/release/15506428",
+      "genres": [
+        "electronic",
+        "house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6HUZoMili2b3e6X81OPIQd",
+    "artist": "KI/KI, Storm Mollison",
+    "name": "Getting Ready For The Party",
+    "year": 2025,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Trance",
+          "Neo Trance"
+        ]
+      },
+      "label": "Slash",
+      "release": "KI/KI & Storm Mollison - Getting Ready For The Party",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/34257193",
+      "genres": [
+        "electronic",
+        "neo trance",
+        "trance"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1B4zViEHwgNLqioiL20kmh",
+    "artist": "Slam",
+    "name": "Electrical",
+    "year": 2020,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno"
+        ]
+      },
+      "label": "Soma Quality Recordings",
+      "release": "Slam - Quiet Riot EP",
+      "year": 2020,
+      "discogs_url": "https://www.discogs.com/release/16107426",
+      "genres": [
+        "electronic",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0h6emlm50NxN3gTtgAh3HP",
+    "artist": "Larry de Kat",
+    "name": "Def Joint",
+    "year": 2012,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Deep House"
+        ]
+      },
+      "label": "SlapFunk Records",
+      "release": "Anil Aras & Larry De Kat - Grooveroots EP",
+      "year": 2012,
+      "discogs_url": "https://www.discogs.com/release/3639244",
+      "genres": [
+        "deep house",
+        "electronic",
+        "house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6WeCcdDhNiT6iXPFsAXBv6",
+    "artist": "Cyspe",
+    "name": "Nexus",
+    "year": 2018,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno"
+        ]
+      },
+      "label": "Rhythm Büro Records",
+      "release": "Cyspe - After This World EP",
+      "year": 2018,
+      "discogs_url": "https://www.discogs.com/release/11668954",
+      "genres": [
+        "electronic",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "09W02h8QuNu7K9mjRjwu8k",
+    "artist": "Daniel Avery",
+    "name": "Need Electric",
+    "year": 2013,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Techno",
+          "Electro"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Daniel Avery - Need Electric EP",
+      "year": 2012,
+      "discogs_url": "https://www.discogs.com/release/3752085",
+      "genres": [
+        "electro",
+        "electronic",
+        "house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "73Hqc32T0mkv6X2bbaOzq4",
+    "artist": "Daniel Avery",
+    "name": "These Nights Never End",
+    "year": 2013,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Daniel Avery - All I Need (Roman Flügel Remix)  / These Nights Never End (Ricardo Tobar Remix)",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/5988529",
+      "genres": [
+        "electronic",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6cjUtb7XopHEeQKBjj0rER",
+    "artist": "Daniel Avery",
+    "name": "Drone Logic",
+    "year": 2013,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Acid",
+          "Acid House",
+          "Tech House",
+          "Dark Ambient"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Daniel Avery - Drone Logic",
+      "year": 2013,
+      "discogs_url": "https://www.discogs.com/release/4967829",
+      "genres": [
+        "acid",
+        "acid house",
+        "dark ambient",
+        "electronic",
+        "tech house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2ph2tX9G9kAJ0lE8DqzC5i",
+    "artist": "Daniel Avery",
+    "name": "Free Floating",
+    "year": 2013,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Techno",
+          "Minimal",
+          "Acid"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Daniel Avery - Need Electric (Audion Remix) / Free Floating (Matt Walsh Remix)",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/5482730",
+      "genres": [
+        "acid",
+        "electronic",
+        "minimal",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "5mEYnNUtWCB97Z09tk2Nw2",
+    "artist": "Daniel Avery",
+    "name": "Water Jump",
+    "year": 2013,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "House",
+          "Techno",
+          "Electro",
+          "Acid"
+        ]
+      },
+      "label": "Phantasy Sound",
+      "release": "Daniel Avery - Water Jump EP",
+      "year": 2012,
+      "discogs_url": "https://www.discogs.com/release/3980062",
+      "genres": [
+        "acid",
+        "electro",
+        "electronic",
+        "house",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "3n0VSK5SAD3MW0Yrv4Sbi9",
+    "artist": "Daniel Avery",
+    "name": "Lemon",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Blues",
+          "Folk, World, & Country",
+          "Cajun",
+          "Country",
+          "Gospel",
+          "Delta Blues",
+          "Folk"
+        ]
+      },
+      "label": "Dust-to-Digital",
+      "release": "Various - The Harry Smith B-Sides",
+      "year": 2020,
+      "discogs_url": "https://www.discogs.com/release/16095631",
+      "genres": [
+        "blues",
+        "cajun",
+        "country",
+        "delta blues",
+        "folk",
+        "folk, world, & country",
+        "gospel"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4fqB5gsYfKzcxpf4I4VKbP",
+    "artist": "Daniel Avery, DJ Stingray 313",
+    "name": "Greasy off the Racing Line - DJ Stingray 313 Remix",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "4MfQ9eDWMSzsnzRq3iT3vh",
+    "artist": "Daniel Avery, Cecile Believe, X CLUB.",
+    "name": "Rapture in Blue - X CLUB. Remix",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Rock",
+          "House",
+          "Electro House",
+          "Tech House",
+          "Progressive House",
+          "Indie Rock",
+          "Garage House",
+          "Progressive Trance"
+        ]
+      },
+      "label": "Ministry Of Sound",
+      "release": "Various - The Annual 2008",
+      "year": 2007,
+      "discogs_url": "https://www.discogs.com/release/1181551",
+      "genres": [
+        "electro house",
+        "electronic",
+        "garage house",
+        "house",
+        "indie rock",
+        "progressive house",
+        "progressive trance",
+        "rock",
+        "tech house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "72HY9RPDHqD1Yuesb7Amae",
+    "artist": "Daniel Avery, Art School Girlfriend",
+    "name": "Give Your Feelings a Try",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Hard House",
+          "Hard Trance",
+          "House"
+        ]
+      },
+      "label": "Tidy",
+      "release": "Various - Tidy 25 - Hard-Drive (Special Deluxe Edition)",
+      "year": 2021,
+      "discogs_url": "https://www.discogs.com/release/24981379",
+      "genres": [
+        "electronic",
+        "hard house",
+        "hard trance",
+        "house"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6aHrEfmZN1sEwacycrW0VO",
+    "artist": "Daniel Avery, Art School Girlfriend",
+    "name": "I Feel You",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Rock",
+          "Techno",
+          "Drum n Bass"
+        ]
+      },
+      "label": "Domino",
+      "release": "Daniel Avery - Tremor",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35510095",
+      "genres": [
+        "drum n bass",
+        "electronic",
+        "rock",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4FRaNflRKIlCB6QV5LWLQT",
+    "artist": "Daniel Avery",
+    "name": "Tremor",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Rock",
+          "Techno",
+          "Drum n Bass"
+        ]
+      },
+      "label": "Domino",
+      "release": "Daniel Avery - Tremor",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35510095",
+      "genres": [
+        "drum n bass",
+        "electronic",
+        "rock",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "2xNUS2DwRCOQZij6E6eVcQ",
+    "artist": "Daniel Avery, bdrmm",
+    "name": "A Silent Shadow",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Rock",
+          "Techno",
+          "Drum n Bass"
+        ]
+      },
+      "label": "Domino",
+      "release": "Daniel Avery - Tremor",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35510095",
+      "genres": [
+        "drum n bass",
+        "electronic",
+        "rock",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6E3KO24vh1O8YkGPnGoBD8",
+    "artist": "Daniel Avery, Ellie Rowsell",
+    "name": "Haze",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Rock",
+          "Techno",
+          "Drum n Bass"
+        ]
+      },
+      "label": "Domino",
+      "release": "Daniel Avery - Tremor",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35510095",
+      "genres": [
+        "drum n bass",
+        "electronic",
+        "rock",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "6iBulByoLfENLfhIqpzv94",
+    "artist": "Daniel Avery, Cecile Believe",
+    "name": "Rapture in Blue",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Rock",
+          "Techno",
+          "Drum n Bass"
+        ]
+      },
+      "label": "Domino",
+      "release": "Daniel Avery - Tremor",
+      "year": 2025,
+      "discogs_url": "https://www.discogs.com/release/35510095",
+      "genres": [
+        "drum n bass",
+        "electronic",
+        "rock",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0FWme359racQGTtcsqjeSG",
+    "artist": "CAN",
+    "name": "Oh Yeah",
+    "year": 1971,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Leftfield",
+          "Disco",
+          "Synth-pop"
+        ]
+      },
+      "label": "Mercury",
+      "release": "Yello - Oh Yeah",
+      "year": 1986,
+      "discogs_url": "https://www.discogs.com/release/3179869",
+      "genres": [
+        "disco",
+        "electronic",
+        "leftfield",
+        "synth-pop"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1jzfakrnD3nMK3BPSUZfZg",
+    "artist": "CAN",
+    "name": "Mushroom",
+    "year": 1971,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Rock",
+          "Psychedelic Rock",
+          "Experimental",
+          "Krautrock"
+        ]
+      },
+      "label": "Spoon Records",
+      "release": "Can - Can",
+      "year": 2013,
+      "discogs_url": "https://www.discogs.com/release/5145373",
+      "genres": [
+        "experimental",
+        "krautrock",
+        "psychedelic rock",
+        "rock"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "07B2B3iy8IW3oA4ezFT88A",
+    "artist": "Squarepusher",
+    "name": "E8 Boogie",
+    "year": 1997,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "IDM",
+          "Drum n Bass",
+          "Breakbeat"
+        ]
+      },
+      "label": "Warp Records",
+      "release": "Squarepusher - Hard Normal Daddy",
+      "year": 1997,
+      "discogs_url": "https://www.discogs.com/release/30829",
+      "genres": [
+        "breakbeat",
+        "drum n bass",
+        "electronic",
+        "idm"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "53VlzIz47O26mDaXsAIVu2",
+    "artist": "µ-Ziq",
+    "name": "Secret Stair #2",
+    "year": 1997,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Breakbeat",
+          "IDM",
+          "Experimental"
+        ]
+      },
+      "label": "Planet Mu",
+      "release": "µ-Ziq - Lunatic Harness",
+      "year": 1997,
+      "discogs_url": "https://www.discogs.com/release/66788",
+      "genres": [
+        "breakbeat",
+        "electronic",
+        "experimental",
+        "idm"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "321hWrisLKmLZ9bER2P7Yt",
+    "artist": "µ-Ziq",
+    "name": "Lunatic Harness",
+    "year": 1997,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Breakbeat",
+          "IDM",
+          "Experimental"
+        ]
+      },
+      "label": "Planet Mu",
+      "release": "µ-Ziq - Lunatic Harness",
+      "year": 1997,
+      "discogs_url": "https://www.discogs.com/release/66788",
+      "genres": [
+        "breakbeat",
+        "electronic",
+        "experimental",
+        "idm"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "08EgS4Nqe1jPkI9tx9Dq3S",
+    "artist": "Boards of Canada",
+    "name": "Aquarius",
+    "year": 1998,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "IDM",
+          "Downtempo",
+          "Ambient"
+        ]
+      },
+      "label": "Skam",
+      "release": "Boards Of Canada - Aquarius",
+      "year": 1998,
+      "discogs_url": "https://www.discogs.com/release/14936",
+      "genres": [
+        "ambient",
+        "downtempo",
+        "electronic",
+        "idm"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4Wc2IIL5jGE1V9NkxS9OL3",
+    "artist": "Boards of Canada",
+    "name": "Rue The Whirl",
+    "year": 1998,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "IDM",
+          "Ambient"
+        ]
+      },
+      "label": "Warp Records",
+      "release": "Boards Of Canada - Music Has The Right To Children",
+      "year": 2013,
+      "discogs_url": "https://www.discogs.com/release/5006908",
+      "genres": [
+        "ambient",
+        "electronic",
+        "idm"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7F3MjS1b1xHeaeXyBTvCE0",
+    "artist": "Boards of Canada",
+    "name": "Turquoise Hexagon Sun",
+    "year": 1998,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Downtempo",
+          "Ambient"
+        ]
+      },
+      "label": "Skam",
+      "release": "Boards Of Canada - Hi Scores",
+      "year": 2014,
+      "discogs_url": "https://www.discogs.com/release/6197108",
+      "genres": [
+        "ambient",
+        "downtempo",
+        "electronic"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "7AfbtT8GN1iv3Crb11NaVI",
+    "artist": "Boards of Canada",
+    "name": "Telephasic Workshop",
+    "year": 1998,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "IDM",
+          "Downtempo"
+        ]
+      },
+      "label": "Warp Records",
+      "release": "Boards Of Canada - Telephasic Workshop",
+      "year": 1998,
+      "discogs_url": "https://www.discogs.com/release/24007",
+      "genres": [
+        "downtempo",
+        "electronic",
+        "idm"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "78w0l5CJ3VwtXKBpRCktwa",
+    "artist": "Aphex Twin",
+    "name": "Actium",
+    "year": 1992,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "IDM",
+          "Techno",
+          "Electro",
+          "Experimental",
+          "Ambient"
+        ]
+      },
+      "label": "Apollo",
+      "release": "Aphex Twin - Selected Ambient Works 85-92",
+      "year": 2013,
+      "discogs_url": "https://www.discogs.com/release/4887177",
+      "genres": [
+        "ambient",
+        "electro",
+        "electronic",
+        "experimental",
+        "idm",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "1sTzDqhcrpB2BC8TOMeInR",
+    "artist": "Aphex Twin",
+    "name": "We Are the Music Makers",
+    "year": 1992,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "IDM",
+          "Techno",
+          "Electro",
+          "Experimental",
+          "Ambient"
+        ]
+      },
+      "label": "Apollo",
+      "release": "Aphex Twin - Selected Ambient Works 85-92",
+      "year": 2013,
+      "discogs_url": "https://www.discogs.com/release/4887177",
+      "genres": [
+        "ambient",
+        "electro",
+        "electronic",
+        "experimental",
+        "idm",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "643gyipSU7dkmrFhJ8UAIm",
+    "artist": "Aphex Twin",
+    "name": "Pulsewidth",
+    "year": 1992,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "IDM",
+          "Experimental",
+          "Techno",
+          "Ambient",
+          "Abstract",
+          "Drum n Bass",
+          "Acid",
+          "Hardcore",
+          "Modern Classical",
+          "Jungle",
+          "Breaks",
+          "Electro"
+        ],
+        "lastfm_genres": [
+          "electronic",
+          "ambient",
+          "idm",
+          "techno",
+          "electronica"
+        ]
+      },
+      "label": "Домашняя Коллекция",
+      "release": "Aphex Twin - Aphex Twin",
+      "year": 2002,
+      "discogs_url": "https://www.discogs.com/release/848637",
+      "genres": [
+        "abstract",
+        "acid",
+        "ambient",
+        "breaks",
+        "drum n bass",
+        "electro",
+        "electronic",
+        "electronica",
+        "experimental",
+        "hardcore",
+        "idm",
+        "jungle",
+        "modern classical",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "4Sxv0whUHWzHK5T8uuP66S",
+    "artist": "Aphex Twin",
+    "name": "Tha",
+    "year": 1992,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "IDM",
+          "Experimental",
+          "Techno",
+          "Ambient",
+          "Abstract",
+          "Drum n Bass",
+          "Acid",
+          "Hardcore",
+          "Modern Classical",
+          "Jungle",
+          "Breaks",
+          "Electro"
+        ]
+      },
+      "label": "Домашняя Коллекция",
+      "release": "Aphex Twin - Aphex Twin",
+      "year": 2002,
+      "discogs_url": "https://www.discogs.com/release/848637",
+      "genres": [
+        "abstract",
+        "acid",
+        "ambient",
+        "breaks",
+        "drum n bass",
+        "electro",
+        "electronic",
+        "experimental",
+        "hardcore",
+        "idm",
+        "jungle",
+        "modern classical",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "0ENA5IvLLpnwQjumIEcNNb",
+    "artist": "Sinan Arsan, Savrun Brothers, Maze 28",
+    "name": "Shrug - Maze 28 Reform",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "2iNvwXABBM2pmVkX1jTJ0q",
+    "artist": "Hraach",
+    "name": "It Was All A Dream",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "3czY5ZDNlnu1r02zrUffHr",
+    "artist": "Jeff Mills",
+    "name": "Destination Bright Star",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Ambient",
+          "Techno",
+          "Minimal Techno"
+        ]
+      },
+      "label": "Axis",
+      "release": "Jeff Mills - The Trip To Vega",
+      "year": 2026,
+      "discogs_url": "https://www.discogs.com/release/37649532",
+      "genres": [
+        "ambient",
+        "electronic",
+        "minimal techno",
+        "techno"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "66q5QW6GpsDAS69SDCaCKL",
+    "artist": "Nico de Andrea, ARCH, Cerrone",
+    "name": "Give Me Love - Extended Mix",
+    "year": 2026,
+    "meta": {
+      "sources": {
+        "discogs_genres": [
+          "Electronic",
+          "Funk / Soul",
+          "Stage & Screen",
+          "Disco",
+          "Boogie",
+          "House",
+          "Soundtrack"
+        ]
+      },
+      "label": "Glitterbox",
+      "release": "Various - Glitterbox - Where Love Lives",
+      "year": 2021,
+      "discogs_url": "https://www.discogs.com/release/18420019",
+      "genres": [
+        "boogie",
+        "disco",
+        "electronic",
+        "funk / soul",
+        "house",
+        "soundtrack",
+        "stage & screen"
+      ],
+      "meta_status": "enriched"
+    }
+  },
+  {
+    "id": "12XpAqOGnLCFdwLbQGSlHC",
+    "artist": "D. Diggler",
+    "name": "Nightshade",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  },
+  {
+    "id": "3Yia1necnNqhTpfycKNAu9",
+    "artist": "D. Diggler",
+    "name": "Distant Echoes",
+    "year": 2026,
+    "meta": {
+      "sources": {},
+      "year": 2026,
+      "genres": null,
+      "meta_status": "unmatched"
+    }
+  }
+]

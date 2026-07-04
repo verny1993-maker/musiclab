@@ -1,0 +1,41 @@
+{
+  "id": "boiler-room",
+  "name": "Boiler Room",
+  "n_sets": 1,
+  "n_tracks": 16,
+  "artists": [
+    "Yousuke Yukimatsu"
+  ],
+  "mean_bpm": 137.7,
+  "bpm_range": [
+    104.0,
+    152.0
+  ],
+  "mean_energy": 0.4382,
+  "top_camelot": [
+    {
+      "code": "5B",
+      "count": 3
+    },
+    {
+      "code": "7B",
+      "count": 2
+    },
+    {
+      "code": "4B",
+      "count": 2
+    },
+    {
+      "code": "10B",
+      "count": 2
+    },
+    {
+      "code": "4A",
+      "count": 1
+    }
+  ],
+  "set_ids": [
+    "set_yousuke-yukimatsu_u-ukeur-uk1mat-u-boiler-room"
+  ],
+  "computed_at": "2026-06-30T20:28:00.967418Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "keep-hush",
+  "name": "Keep Hush",
+  "n_sets": 1,
+  "n_tracks": 21,
+  "artists": [
+    "Yousuke Yukimatsu"
+  ],
+  "mean_bpm": 137.3,
+  "bpm_range": [
+    88.0,
+    168.6
+  ],
+  "mean_energy": 0.0816,
+  "top_camelot": [
+    {
+      "code": "5B",
+      "count": 4
+    },
+    {
+      "code": "8A",
+      "count": 4
+    },
+    {
+      "code": "8B",
+      "count": 2
+    },
+    {
+      "code": "12A",
+      "count": 2
+    },
+    {
+      "code": "10B",
+      "count": 2
+    }
+  ],
+  "set_ids": [
+    "set_yousuke-yukimatsu_yousuke-yukimatsu-keep-hush"
+  ],
+  "computed_at": "2026-06-30T20:28:00.973174Z"
+}

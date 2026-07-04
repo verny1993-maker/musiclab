@@ -1,0 +1,1085 @@
+{
+  "id": "set_yousuke-yukimatsu_midnight-shift-u-ukeur-uk1mat",
+  "title": "Midnight Shift - ¥ØU$UK€ ¥UK1MAT$U HÖR SET     Yousuke Yukimatsu",
+  "artist": "Yousuke Yukimatsu",
+  "venue": "HÖR Berlin",
+  "audio_url": "https://soundcloud.com/lennart-forster/midnight-shift-u-ukeur-uk1mat",
+  "youtube_url": "https://www.youtube.com/watch?v=uUkC5q-o0_s",
+  "source_url": "https://set79.com/tracklist/soundcloud.com/lennart-forster/midnight-shift-u-ukeur-uk1mat",
+  "source_platform": "set79",
+  "parsed_at": "2026-06-30T19:07:00.422382Z",
+  "enriched_at": "2026-06-30T19:12:43Z",
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Rustie le clown",
+      "artist": "J-Zbel",
+      "timecode": "00:00:12",
+      "start_sec": 12,
+      "audio": {
+        "bpm": 143.6,
+        "key": "Eb minor",
+        "camelot": "2A",
+        "key_strength": 0.6281,
+        "energy": 0.0864,
+        "danceability": 0.8307,
+        "loudness": -21.0,
+        "mfcc_mean": [
+          -233.68,
+          149.26,
+          -28.2,
+          35.68,
+          2.82,
+          18.02,
+          -0.27,
+          11.77,
+          7.15,
+          -0.06,
+          8.66,
+          0.25,
+          3.49
+        ],
+        "beat_positions": [
+          0.453,
+          0.917,
+          1.37,
+          1.811,
+          2.241
+        ]
+      },
+      "meta": {
+        "label": "Brothers From Different Mothers",
+        "release": "J-Zbel - Dog's Fart Is So Bad The Cat Throws Up",
+        "year": 2019,
+        "genres": [
+          "Electronic",
+          "Techno",
+          "Breakbeat",
+          "Acid",
+          "Hardcore"
+        ],
+        "discogs_url": "https://www.discogs.com/release/13615657",
+        "source": "discogs"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Transmitted Quartal",
+      "artist": "Wulffluw XCIV",
+      "timecode": "00:04:12",
+      "start_sec": 252,
+      "audio": {
+        "bpm": 70.8,
+        "key": "C major",
+        "camelot": "8B",
+        "key_strength": 0.796,
+        "energy": 0.0775,
+        "danceability": 0.6124,
+        "loudness": -19.2,
+        "mfcc_mean": [
+          -179.32,
+          176.98,
+          -30.55,
+          20.91,
+          -3.34,
+          22.95,
+          -16.92,
+          7.97,
+          -4.61,
+          8.44,
+          -2.4,
+          5.24,
+          1.51
+        ],
+        "beat_positions": [
+          0.778,
+          1.579,
+          2.38,
+          3.204,
+          4.052
+        ]
+      },
+      "meta": {
+        "label": "Hakuna Kulala",
+        "release": "Wulffluw XCIV* - Ngoma Injection",
+        "year": 2020,
+        "genres": [
+          "Electronic",
+          "Grime",
+          "Techno",
+          "Industrial"
+        ],
+        "discogs_url": "https://www.discogs.com/release/16383975",
+        "source": "discogs"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Mirage",
+      "artist": "Slikback & Mapalma",
+      "timecode": "00:06:48",
+      "start_sec": 408,
+      "audio": {
+        "bpm": 94.0,
+        "key": "A minor",
+        "camelot": "8A",
+        "key_strength": 0.7482,
+        "energy": 0.0691,
+        "danceability": 0.6819,
+        "loudness": -16.8,
+        "mfcc_mean": [
+          -143.36,
+          122.33,
+          -43.19,
+          40.93,
+          -11.36,
+          33.26,
+          -17.36,
+          19.23,
+          -4.44,
+          14.67,
+          -5.24,
+          14.46,
+          -2.39
+        ],
+        "beat_positions": [
+          0.441,
+          0.882,
+          1.347,
+          1.788,
+          2.218
+        ]
+      },
+      "meta": {
+        "label": "Not On Label",
+        "release": "Slikback - Condense",
+        "year": 2022,
+        "genres": [
+          "Electronic",
+          "Experimental"
+        ],
+        "discogs_url": "https://www.discogs.com/release/31107344",
+        "source": "discogs"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Worst (Sinjin Hawke Remix)",
+      "artist": "DVA",
+      "timecode": "00:08:36",
+      "start_sec": 516,
+      "audio": {
+        "bpm": 143.6,
+        "key": "F# minor",
+        "camelot": "11A",
+        "key_strength": 0.88,
+        "energy": 0.072,
+        "danceability": 0.8307,
+        "loudness": -17.5,
+        "mfcc_mean": [
+          -204.0,
+          144.45,
+          -20.59,
+          49.85,
+          -14.4,
+          19.91,
+          -4.77,
+          7.57,
+          3.19,
+          1.12,
+          11.95,
+          4.7,
+          6.86
+        ],
+        "beat_positions": [
+          0.453,
+          0.894,
+          1.335,
+          1.765,
+          2.183
+        ]
+      },
+      "meta": {
+        "label": "Hyperdub",
+        "release": "DVA (2) - Take It All",
+        "year": 2016,
+        "genres": [
+          "Electronic",
+          "Dubstep",
+          "Grime",
+          "Techno"
+        ],
+        "discogs_url": "https://www.discogs.com/release/8539664",
+        "source": "discogs"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Kuliki",
+      "artist": "El Gordo",
+      "timecode": "00:12:36",
+      "start_sec": 756,
+      "audio": {
+        "bpm": 143.6,
+        "key": "Eb minor",
+        "camelot": "2A",
+        "key_strength": 0.8488,
+        "energy": 0.078,
+        "danceability": 0.8307,
+        "loudness": -17.7,
+        "mfcc_mean": [
+          -160.4,
+          128.46,
+          -40.61,
+          44.69,
+          -11.73,
+          31.44,
+          -8.0,
+          13.19,
+          4.58,
+          5.46,
+          6.48,
+          3.56,
+          6.62
+        ],
+        "beat_positions": [
+          0.406,
+          0.813,
+          1.231,
+          1.649,
+          2.067
+        ]
+      },
+      "meta": null
+    },
+    {
+      "position": 6,
+      "title": "Raptor",
+      "artist": "Rustie",
+      "timecode": "00:17:36",
+      "start_sec": 1056,
+      "audio": {
+        "bpm": 143.6,
+        "key": "Eb major",
+        "camelot": "5B",
+        "key_strength": 0.8409,
+        "energy": 0.0717,
+        "danceability": 0.8307,
+        "loudness": -17.3,
+        "mfcc_mean": [
+          -185.41,
+          148.27,
+          -34.79,
+          42.91,
+          -11.22,
+          31.13,
+          -2.91,
+          17.2,
+          9.92,
+          9.6,
+          11.37,
+          8.61,
+          8.07
+        ],
+        "beat_positions": [
+          0.43,
+          0.871,
+          1.3,
+          1.73,
+          2.159
+        ]
+      },
+      "meta": {
+        "label": "Warp Records",
+        "release": "Rustie - Green Language",
+        "year": 2014,
+        "genres": [
+          "Electronic",
+          "Hip Hop",
+          "Electro",
+          "Crunk",
+          "Bass Music"
+        ],
+        "discogs_url": "https://www.discogs.com/release/6006664",
+        "source": "discogs"
+      }
+    },
+    {
+      "position": 7,
+      "title": "Stasix",
+      "artist": "3xOJ",
+      "timecode": "00:18:24",
+      "start_sec": 1104,
+      "audio": {
+        "bpm": 144.5,
+        "key": "C minor",
+        "camelot": "5A",
+        "key_strength": 0.8303,
+        "energy": 0.0942,
+        "danceability": 0.6184,
+        "loudness": -19.9,
+        "mfcc_mean": [
+          -250.87,
+          167.11,
+          -7.59,
+          31.37,
+          4.28,
+          17.63,
+          -3.72,
+          11.32,
+          -5.49,
+          3.08,
+          -3.14,
+          2.99,
+          1.23
+        ],
+        "beat_positions": [
+          0.383,
+          0.766,
+          1.138,
+          1.509,
+          1.916
+        ]
+      },
+      "meta": {
+        "label": "Nyege Nyege Tapes",
+        "release": "Various - L'Esprit De Nyege 2020 ",
+        "year": 2021,
+        "genres": [
+          "Electronic",
+          "Reggae",
+          "Experimental",
+          "Dancehall"
+        ],
+        "discogs_url": "https://www.discogs.com/release/17673442",
+        "source": "discogs"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Don't Get Lemon (feat. Spyro)",
+      "artist": "Mumdance",
+      "timecode": "00:21:48",
+      "start_sec": 1308,
+      "audio": {
+        "bpm": 143.6,
+        "key": "D minor",
+        "camelot": "7A",
+        "key_strength": 0.8431,
+        "energy": 0.0755,
+        "danceability": 0.8307,
+        "loudness": -20.4,
+        "mfcc_mean": [
+          -251.42,
+          181.06,
+          -12.46,
+          10.19,
+          -3.19,
+          7.74,
+          -1.37,
+          3.37,
+          1.98,
+          1.37,
+          3.7,
+          2.55,
+          4.1
+        ],
+        "beat_positions": [
+          0.476,
+          0.917,
+          1.335,
+          1.765,
+          2.159
+        ]
+      },
+      "meta": {
+        "label": "Rinse",
+        "release": "Take Time",
+        "year": 2014,
+        "genres": [
+          "Electronic",
+          "Grime"
+        ],
+        "discogs_url": "https://www.discogs.com/release/5804936",
+        "source": "discogs"
+      }
+    },
+    {
+      "position": 9,
+      "title": "In the Mood",
+      "artist": "DJ Gigola",
+      "timecode": "00:23:12",
+      "start_sec": 1392,
+      "audio": {
+        "bpm": 114.6,
+        "key": "F# minor",
+        "camelot": "11A",
+        "key_strength": 0.8494,
+        "energy": 0.0908,
+        "danceability": 0.6184,
+        "loudness": -18.3,
+        "mfcc_mean": [
+          -244.13,
+          123.7,
+          -0.8,
+          44.49,
+          5.9,
+          32.42,
+          4.55,
+          15.64,
+          4.79,
+          11.97,
+          1.71,
+          7.82,
+          8.5
+        ],
+        "beat_positions": [
+          0.755,
+          1.533,
+          2.322,
+          3.135,
+          3.971
+        ]
+      },
+      "meta": {
+        "label": "Live From Earth Klub",
+        "release": "DJ Gigola - In The Mood",
+        "year": 2022,
+        "genres": [
+          "Electronic",
+          "Dance-pop",
+          "Techno"
+        ],
+        "discogs_url": "https://www.discogs.com/release/25227226",
+        "source": "discogs"
+      }
+    },
+    {
+      "position": 10,
+      "title": "Nightmare Song",
+      "artist": "Ecko Bazz",
+      "timecode": "00:26:12",
+      "start_sec": 1572,
+      "audio": {
+        "bpm": 143.6,
+        "key": "F minor",
+        "camelot": "4A",
+        "key_strength": 0.7468,
+        "energy": 0.0804,
+        "danceability": 0.8307,
+        "loudness": -19.1,
+        "mfcc_mean": [
+          -164.39,
+          138.96,
+          -46.8,
+          39.58,
+          -13.0,
+          25.42,
+          -7.78,
+          20.09,
+          -3.26,
+          9.39,
+          -0.32,
+          4.57,
+          3.28
+        ],
+        "beat_positions": [
+          0.43,
+          0.882,
+          1.324,
+          1.765,
+          2.229
+        ]
+      },
+      "meta": {
+        "label": "Hakuna Kulala",
+        "release": "Ecko Bazz - Kyusa Embela",
+        "year": 2019,
+        "genres": [
+          "Electronic",
+          "Hip Hop",
+          "Folk, World, & Country",
+          "Hip Hop",
+          "African",
+          "Bass Music",
+          "Grime"
+        ],
+        "discogs_url": "https://www.discogs.com/release/14632639",
+        "source": "discogs"
+      }
+    },
+    {
+      "position": 11,
+      "title": "Free",
+      "artist": "Flume",
+      "timecode": "00:28:48",
+      "start_sec": 1728,
+      "audio": {
+        "bpm": 143.6,
+        "key": "D minor",
+        "camelot": "7A",
+        "key_strength": 0.8013,
+        "energy": 0.0712,
+        "danceability": 0.8307,
+        "loudness": -17.6,
+        "mfcc_mean": [
+          -142.77,
+          152.44,
+          -47.84,
+          53.39,
+          -21.95,
+          19.15,
+          -14.4,
+          14.51,
+          -9.55,
+          4.79,
+          4.53,
+          -2.26,
+          6.52
+        ],
+        "beat_positions": [
+          0.383,
+          0.766,
+          1.161,
+          1.567,
+          1.974
+        ]
+      },
+      "meta": {
+        "label": "Future Classic",
+        "release": "Flume - Flume",
+        "year": 2013,
+        "genres": [
+          "Electronic",
+          "Future Bass",
+          "Glitch Hop",
+          "Chillwave",
+          "Downtempo",
+          "Bass Music"
+        ],
+        "discogs_url": "https://www.discogs.com/release/5722780",
+        "source": "discogs"
+      }
+    },
+    {
+      "position": 12,
+      "title": "Can't Remember",
+      "artist": "Gabber Eleganza & HDMIRROR",
+      "timecode": "00:30:48",
+      "start_sec": 1848,
+      "audio": {
+        "bpm": 147.7,
+        "key": "Eb minor",
+        "camelot": "2A",
+        "key_strength": 0.7758,
+        "energy": 0.0807,
+        "danceability": 0.843,
+        "loudness": -15.6,
+        "mfcc_mean": [
+          -145.48,
+          131.33,
+          -25.89,
+          50.45,
+          -21.12,
+          29.96,
+          -19.91,
+          18.96,
+          -11.45,
+          10.48,
+          -5.28,
+          6.08,
+          -2.55
+        ],
+        "beat_positions": [
+          0.43,
+          0.859,
+          1.277,
+          1.683,
+          2.09
+        ]
+      },
+      "meta": {
+        "label": "Live From Earth Klub",
+        "release": "Gabber Eleganza & HDMIRROR - The Real Life",
+        "year": 2020,
+        "genres": [
+          "Electronic",
+          "Techno",
+          "Hardcore",
+          "Abstract"
+        ],
+        "discogs_url": "https://www.discogs.com/release/15410854",
+        "source": "discogs"
+      }
+    },
+    {
+      "position": 13,
+      "title": "Blossom",
+      "artist": "Le Dom",
+      "timecode": "00:34:24",
+      "start_sec": 2064,
+      "audio": {
+        "bpm": 86.1,
+        "key": "G major",
+        "camelot": "9B",
+        "key_strength": 0.5494,
+        "energy": 0.0803,
+        "danceability": 0.843,
+        "loudness": -17.2,
+        "mfcc_mean": [
+          -172.62,
+          140.9,
+          -22.94,
+          33.35,
+          -3.73,
+          21.65,
+          -2.55,
+          15.42,
+          -2.25,
+          6.69,
+          0.99,
+          4.7,
+          3.2
+        ],
+        "beat_positions": [
+          0.383,
+          0.789,
+          1.196,
+          1.602,
+          2.02
+        ]
+      },
+      "meta": {
+        "label": "Paradoxe Club",
+        "release": "Le Dom - Blossom",
+        "year": 2018,
+        "genres": [
+          "Electronic",
+          "Electro"
+        ],
+        "discogs_url": "https://www.discogs.com/release/12874462",
+        "source": "discogs"
+      }
+    },
+    {
+      "position": 14,
+      "title": "Memphis Mumbai Tool",
+      "artist": "Locked Club",
+      "timecode": "00:37:24",
+      "start_sec": 2244,
+      "audio": {
+        "bpm": 147.7,
+        "key": "F major",
+        "camelot": "7B",
+        "key_strength": 0.6239,
+        "energy": 0.102,
+        "danceability": 0.843,
+        "loudness": -16.8,
+        "mfcc_mean": [
+          -183.52,
+          147.63,
+          -30.47,
+          50.25,
+          6.07,
+          26.04,
+          1.17,
+          19.56,
+          2.01,
+          7.03,
+          3.51,
+          0.98,
+          5.12
+        ],
+        "beat_positions": [
+          0.418,
+          0.859,
+          1.3,
+          1.718,
+          2.136
+        ]
+      },
+      "meta": {
+        "label": "TRAM Planet Records",
+        "release": "Locked Club - Atom Hell EP",
+        "year": 2020,
+        "genres": [
+          "Electronic",
+          "Techno"
+        ],
+        "discogs_url": "https://www.discogs.com/release/14973582",
+        "source": "discogs"
+      }
+    },
+    {
+      "position": 15,
+      "title": "Mumbai Power (feat. Beam)",
+      "artist": "Skrillex",
+      "timecode": "00:39:48",
+      "start_sec": 2388,
+      "audio": {
+        "bpm": 147.7,
+        "key": "Eb major",
+        "camelot": "5B",
+        "key_strength": 0.8652,
+        "energy": 0.0958,
+        "danceability": 0.843,
+        "loudness": -16.7,
+        "mfcc_mean": [
+          -164.76,
+          98.65,
+          -32.05,
+          40.05,
+          -25.0,
+          38.66,
+          -10.16,
+          21.64,
+          -5.87,
+          13.25,
+          -0.04,
+          12.84,
+          12.42
+        ],
+        "beat_positions": [
+          0.348,
+          0.743,
+          1.149,
+          1.556,
+          1.974
+        ]
+      },
+      "meta": {
+        "label": "OWSLA / Atlantic",
+        "release": "Show Tracks EP",
+        "year": 2019,
+        "genres": [
+          "Electronic",
+          "Dubstep",
+          "Trap",
+          "Future Bass"
+        ],
+        "discogs_url": "https://www.discogs.com/release/14508081",
+        "source": "discogs"
+      }
+    },
+    {
+      "position": 16,
+      "title": "Obfuscate (feat. Jordan Tierney)",
+      "artist": "Osheyack",
+      "timecode": "00:42:00",
+      "start_sec": 2520,
+      "audio": {
+        "bpm": 147.7,
+        "key": "F minor",
+        "camelot": "4A",
+        "key_strength": 0.8307,
+        "energy": 0.0691,
+        "danceability": 0.843,
+        "loudness": -16.6,
+        "mfcc_mean": [
+          -114.77,
+          143.15,
+          -49.64,
+          35.98,
+          -16.41,
+          29.41,
+          -14.47,
+          20.72,
+          -1.7,
+          10.18,
+          4.09,
+          8.17,
+          1.44
+        ],
+        "beat_positions": [
+          0.406,
+          0.813,
+          1.231,
+          1.637,
+          2.043
+        ]
+      },
+      "meta": {
+        "label": "Parkingstone",
+        "release": "BLIST (Compilation)",
+        "year": 2020,
+        "genres": [
+          "Electronic",
+          "Hardcore",
+          "Noise",
+          "Techno",
+          "Industrial"
+        ],
+        "discogs_url": "https://www.discogs.com/release/16770774",
+        "source": "discogs"
+      }
+    },
+    {
+      "position": 17,
+      "title": "1048 Drift",
+      "artist": "Slikback",
+      "timecode": "00:48:00",
+      "start_sec": 2880,
+      "audio": {
+        "bpm": 144.7,
+        "key": "A minor",
+        "camelot": "8A",
+        "key_strength": 0.7379,
+        "energy": 0.076,
+        "danceability": 0.6925,
+        "loudness": -17.5,
+        "mfcc_mean": [
+          -158.46,
+          127.34,
+          -38.88,
+          26.81,
+          -15.48,
+          23.19,
+          -20.86,
+          20.17,
+          -5.81,
+          1.75,
+          8.47,
+          -7.56,
+          2.97
+        ],
+        "beat_positions": [
+          0.418,
+          0.859,
+          1.3,
+          1.73,
+          2.171
+        ]
+      },
+      "meta": {
+        "label": "Not On Label (Slikback Self-released)",
+        "release": "Slikback - Sometimes I Just Want To Feel",
+        "year": 2021,
+        "genres": [
+          "Electronic",
+          "Hip Hop",
+          "Trap",
+          "Bass Music",
+          "Grime",
+          "Noise",
+          "Experimental",
+          "Juke"
+        ],
+        "discogs_url": "https://www.discogs.com/release/23468108",
+        "source": "discogs"
+      }
+    },
+    {
+      "position": 18,
+      "title": "Entambula",
+      "artist": "Don Zilla",
+      "timecode": "00:50:00",
+      "start_sec": 3000,
+      "audio": {
+        "bpm": 97.5,
+        "key": "A minor",
+        "camelot": "8A",
+        "key_strength": 0.3776,
+        "energy": 0.0759,
+        "danceability": 0.6925,
+        "loudness": -16.7,
+        "mfcc_mean": [
+          -163.61,
+          158.55,
+          -27.16,
+          39.17,
+          5.09,
+          29.06,
+          -9.51,
+          21.21,
+          -5.79,
+          15.2,
+          4.24,
+          2.97,
+          -0.02
+        ],
+        "beat_positions": [
+          0.836,
+          1.695,
+          2.554,
+          3.413,
+          4.284
+        ]
+      },
+      "meta": {
+        "label": "Hakuna Kulala",
+        "release": "Don Zilla - Ekizikiza Mubwengula",
+        "year": 2021,
+        "genres": [
+          "Electronic",
+          "Bass Music",
+          "Breakbeat",
+          "Experimental",
+          "Grime",
+          "Industrial",
+          "Jungle",
+          "Techno",
+          "Trap",
+          "Tribal"
+        ],
+        "discogs_url": "https://www.discogs.com/release/19239055",
+        "source": "discogs"
+      }
+    },
+    {
+      "position": 19,
+      "title": "Ultra",
+      "artist": "Evian Christ",
+      "timecode": "00:51:48",
+      "start_sec": 3108,
+      "audio": {
+        "bpm": 101.3,
+        "key": "F minor",
+        "camelot": "4A",
+        "key_strength": 0.9068,
+        "energy": 0.0705,
+        "danceability": 0.704,
+        "loudness": -19.7,
+        "mfcc_mean": [
+          -151.71,
+          132.44,
+          -39.82,
+          31.13,
+          -8.71,
+          29.18,
+          -6.09,
+          22.73,
+          -1.28,
+          11.4,
+          5.18,
+          7.65,
+          7.58
+        ],
+        "beat_positions": [
+          0.395,
+          0.801,
+          1.207,
+          1.614,
+          2.02
+        ]
+      },
+      "meta": {
+        "label": "Warp Records",
+        "release": "Evian Christ - Ultra",
+        "year": 2020,
+        "genres": [
+          "Electronic",
+          "Experimental"
+        ],
+        "discogs_url": "https://www.discogs.com/release/15884580",
+        "source": "discogs"
+      }
+    },
+    {
+      "position": 20,
+      "title": "Unknown",
+      "artist": "Unknown",
+      "timecode": "00:51:48",
+      "start_sec": 3108,
+      "audio": {
+        "bpm": 101.3,
+        "key": "F minor",
+        "camelot": "4A",
+        "key_strength": 0.8806,
+        "energy": 0.0704,
+        "danceability": 0.704,
+        "loudness": -20.6,
+        "mfcc_mean": [
+          -185.16,
+          131.06,
+          -27.0,
+          20.08,
+          0.35,
+          22.52,
+          -0.39,
+          15.9,
+          3.6,
+          7.71,
+          9.73,
+          7.27,
+          4.43
+        ],
+        "beat_positions": [
+          0.406,
+          0.824,
+          1.254,
+          1.672,
+          2.09
+        ]
+      },
+      "meta": null,
+      "id_status": "unidentified"
+    },
+    {
+      "position": 21,
+      "title": "Unknown",
+      "artist": "Unknown",
+      "timecode": "00:53:00",
+      "start_sec": 3180,
+      "audio": {
+        "bpm": 101.3,
+        "key": "F minor",
+        "camelot": "4A",
+        "key_strength": 0.8823,
+        "energy": 0.0696,
+        "danceability": 0.704,
+        "loudness": -19.6,
+        "mfcc_mean": [
+          -134.79,
+          137.04,
+          -46.49,
+          37.09,
+          -16.06,
+          30.21,
+          -12.08,
+          27.36,
+          -3.91,
+          12.91,
+          1.23,
+          6.21,
+          8.88
+        ],
+        "beat_positions": [
+          0.592,
+          1.184,
+          1.788,
+          2.38,
+          2.984
+        ]
+      },
+      "meta": null,
+      "id_status": "unidentified"
+    }
+  ],
+  "energy_curve_archetype": {
+    "type": null,
+    "segments": []
+  },
+  "errors": [
+    {
+      "position": 5,
+      "stage": "02_enrich_meta",
+      "reason": "No metadata found for El Gordo — Kuliki"
+    },
+    {
+      "position": 8,
+      "stage": "02_enrich_meta",
+      "reason": "No metadata found for Mumdance — Don't Get Lemon (feat. Spyro)"
+    },
+    {
+      "position": 15,
+      "stage": "02_enrich_meta",
+      "reason": "No metadata found for Skrillex — Mumbai Power (feat. Beam)"
+    },
+    {
+      "position": 16,
+      "stage": "02_enrich_meta",
+      "reason": "No metadata found for Osheyack — Obfuscate (feat. Jordan Tierney)"
+    }
+  ],
+  "tracklist_complete": false
+}
