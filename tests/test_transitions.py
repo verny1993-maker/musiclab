@@ -27,6 +27,7 @@ from musiclab.transitions import (
 # camelot_distance
 # ═══════════════════════════════════════════════════════════
 
+
 class TestCamelotDistance:
     def test_same_key(self):
         assert camelot_distance("8A", "8A") == 0
@@ -58,11 +59,16 @@ class TestCamelotDistance:
     def test_all_distances(self):
         """Distance matrix for 8A: every distance should appear."""
         targets = {
-            "8A": 0, "8B": 0,
-            "7A": 1, "9A": 1,
-            "6A": 2, "10A": 2,
-            "5A": 3, "11A": 3,
-            "4A": 4, "12A": 4,
+            "8A": 0,
+            "8B": 0,
+            "7A": 1,
+            "9A": 1,
+            "6A": 2,
+            "10A": 2,
+            "5A": 3,
+            "11A": 3,
+            "4A": 4,
+            "12A": 4,
         }
         for code, expected in targets.items():
             assert camelot_distance("8A", code) == expected, f"8A→{code}"
@@ -71,6 +77,7 @@ class TestCamelotDistance:
 # ═══════════════════════════════════════════════════════════
 # camelot_score
 # ═══════════════════════════════════════════════════════════
+
 
 class TestCamelotScore:
     def test_perfect(self):
@@ -92,6 +99,7 @@ class TestCamelotScore:
 # ═══════════════════════════════════════════════════════════
 # bpm_score
 # ═══════════════════════════════════════════════════════════
+
 
 class TestBpmScore:
     def test_perfect(self):
@@ -119,6 +127,7 @@ class TestBpmScore:
 # ═══════════════════════════════════════════════════════════
 # energy_bonus
 # ═══════════════════════════════════════════════════════════
+
 
 class TestEnergyBonus:
     def test_build_rising(self):
@@ -152,6 +161,7 @@ class TestEnergyBonus:
 # cosine_similarity
 # ═══════════════════════════════════════════════════════════
 
+
 class TestCosineSimilarity:
     def test_identical(self):
         assert cosine_similarity([1, 0, 0], [1, 0, 0]) == pytest.approx(1.0)
@@ -174,10 +184,17 @@ class TestCosineSimilarity:
 # score_transition
 # ═══════════════════════════════════════════════════════════
 
+
 class TestScoreTransition:
     def _track(self, bpm=128, camelot="8A", energy=0.5, vector=None):
         vec = vector or [0.5] * 8
-        return {"bpm": bpm, "camelot": camelot, "energy": energy, "vector": vec, "title": "Test"}
+        return {
+            "bpm": bpm,
+            "camelot": camelot,
+            "energy": energy,
+            "vector": vec,
+            "title": "Test",
+        }
 
     def test_perfect_transition(self):
         a = self._track(128, "8A", 0.5)
@@ -201,13 +218,21 @@ class TestScoreTransition:
         a = self._track(128, "8A", 0.5)
         b = self._track(128, "8A", 0.5)
         result = score_transition(a, b)
-        for key in ("camelot", "bpm", "energy", "vibe", "camelot_distance", "bpm_ratio"):
+        for key in (
+            "camelot",
+            "bpm",
+            "energy",
+            "vibe",
+            "camelot_distance",
+            "bpm_ratio",
+        ):
             assert key in result, f"Missing key: {key}"
 
 
 # ═══════════════════════════════════════════════════════════
 # build_chain
 # ═══════════════════════════════════════════════════════════
+
 
 class TestBuildChain:
     def _make_track(self, idx, bpm=128, camelot="8A", energy=0.5, artist="Artist"):
@@ -223,7 +248,9 @@ class TestBuildChain:
 
     def test_builds_chain(self):
         start = self._make_track(0, bpm=128, camelot="8A")
-        candidates = [self._make_track(i, bpm=128 + i, camelot="8A") for i in range(1, 20)]
+        candidates = [
+            self._make_track(i, bpm=128 + i, camelot="8A") for i in range(1, 20)
+        ]
         chain = build_chain(start, candidates, chain_length=5)
 
         assert len(chain) == 5
@@ -272,6 +299,7 @@ class TestBuildChain:
 # ═══════════════════════════════════════════════════════════
 # analyze_chain
 # ═══════════════════════════════════════════════════════════
+
 
 class TestAnalyzeChain:
     def test_empty(self):

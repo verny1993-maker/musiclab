@@ -54,18 +54,20 @@ def load_tracks(db_path: str, tracks_path: str, limit: int = 0) -> list[dict]:
     tracks = []
     for row in rows:
         vector = json.loads(row["vector_8d"]) if row["vector_8d"] else [0.5] * 8
-        tracks.append({
-            "track_id": row["track_id"],
-            "artist": row["artist"],
-            "title": row["title"],
-            "bpm": row["bpm"],
-            "camelot": row["camelot"],
-            "key": row["key_text"],
-            "energy": row["energy"] or 0.5,
-            "danceability": row["danceability"] or 0.5,
-            "vector": vector,
-            "genres": genres_map.get(row["track_id"], []),
-        })
+        tracks.append(
+            {
+                "track_id": row["track_id"],
+                "artist": row["artist"],
+                "title": row["title"],
+                "bpm": row["bpm"],
+                "camelot": row["camelot"],
+                "key": row["key_text"],
+                "energy": row["energy"] or 0.5,
+                "danceability": row["danceability"] or 0.5,
+                "vector": vector,
+                "genres": genres_map.get(row["track_id"], []),
+            }
+        )
 
     conn.close()
     return tracks
@@ -74,17 +76,28 @@ def load_tracks(db_path: str, tracks_path: str, limit: int = 0) -> list[dict]:
 def main():
     parser = argparse.ArgumentParser(description="Build a DJ set chain")
     parser.add_argument("--start-track-id", help="Spotify track ID to start from")
-    parser.add_argument("--start-artist", help="Artist name to search for starting track")
-    parser.add_argument("--random", action="store_true", help="Pick random starting track")
+    parser.add_argument(
+        "--start-artist", help="Artist name to search for starting track"
+    )
+    parser.add_argument(
+        "--random", action="store_true", help="Pick random starting track"
+    )
     parser.add_argument("--length", type=int, default=10, help="Chain length")
-    parser.add_argument("--direction", default="build",
-                        choices=["build", "cool", "peak", "neutral"])
-    parser.add_argument("--diversity", type=float, default=0.3,
-                        help="Artist diversity penalty (0=none, 1=max)")
-    parser.add_argument("--pool-size", type=int, default=500,
-                        help="Number of candidate tracks to load")
-    parser.add_argument("--top-k", type=int, default=50,
-                        help="Top-K candidates per step")
+    parser.add_argument(
+        "--direction", default="build", choices=["build", "cool", "peak", "neutral"]
+    )
+    parser.add_argument(
+        "--diversity",
+        type=float,
+        default=0.3,
+        help="Artist diversity penalty (0=none, 1=max)",
+    )
+    parser.add_argument(
+        "--pool-size", type=int, default=500, help="Number of candidate tracks to load"
+    )
+    parser.add_argument(
+        "--top-k", type=int, default=50, help="Top-K candidates per step"
+    )
     parser.add_argument(
         "--db",
         default=str(_PROJECT_ROOT / "data" / "library" / "audio_analysis.db"),
@@ -104,7 +117,11 @@ def main():
     if args.random:
         start = random.choice(tracks)
     elif args.start_artist:
-        matches = [t for t in tracks if args.start_artist.lower() in (t["artist"] or "").lower()]
+        matches = [
+            t
+            for t in tracks
+            if args.start_artist.lower() in (t["artist"] or "").lower()
+        ]
         if not matches:
             print(f"No tracks found for artist '{args.start_artist}'")
             sys.exit(1)
@@ -140,11 +157,15 @@ def main():
 
     # Print chain
     print(f"\n{'=' * 70}")
-    print(f"{'#':>3} {'Score':>6} {'C':>5} {'BPM':>6} {'Energy':>8} {'Artist':<25} Title")
+    print(
+        f"{'#':>3} {'Score':>6} {'C':>5} {'BPM':>6} {'Energy':>8} {'Artist':<25} Title"
+    )
     print(f"{'=' * 70}")
 
-    print(f"{'1':>3} {'—':>6} {'—':>5} {start['bpm']:>6.1f} {start['energy']:>8.3f} "
-          f"{start['artist'][:24]:<25} {start['title'][:35]}")
+    print(
+        f"{'1':>3} {'—':>6} {'—':>5} {start['bpm']:>6.1f} {start['energy']:>8.3f} "
+        f"{start['artist'][:24]:<25} {start['title'][:35]}"
+    )
 
     for i, transition in enumerate(chain):
         score = transition["total"]
@@ -156,8 +177,10 @@ def main():
 
         # Score color indicators
         "█" * int(score * 10)
-        print(f"{i+2:>3} {score:>5.3f} {cs:>5.2f} {bpms:>5.2f} {energy:>8.3f} "
-              f"{artist:<25} {title}")
+        print(
+            f"{i + 2:>3} {score:>5.3f} {cs:>5.2f} {bpms:>5.2f} {energy:>8.3f} "
+            f"{artist:<25} {title}"
+        )
 
     # Analyze chain
     print(f"\n{'=' * 70}")
@@ -166,7 +189,9 @@ def main():
     print(f"  Mean score: {stats['mean_score']:.3f}")
     print(f"  Score range: {stats['min_score']:.3f} — {stats['max_score']:.3f}")
     print(f"  Mean BPM ratio: {stats['mean_bpm_ratio']:.3f}")
-    print(f"  Energy: {stats['energy_start']:.3f} → {stats['energy_end']:.3f} ({stats['energy_trend']})")
+    print(
+        f"  Energy: {stats['energy_start']:.3f} → {stats['energy_end']:.3f} ({stats['energy_trend']})"
+    )
 
 
 if __name__ == "__main__":

@@ -18,6 +18,7 @@ import math
 # Camelot wheel distance
 # ═══════════════════════════════════════════════════════════
 
+
 def camelot_distance(code_a: str, code_b: str) -> int:
     """
     Compute the harmonic distance between two Camelot codes.
@@ -80,6 +81,7 @@ def camelot_score(code_a: str, code_b: str) -> float:
 # BPM matching score
 # ═══════════════════════════════════════════════════════════
 
+
 def bpm_score(bpm_a: float, bpm_b: float) -> float:
     """
     Score a BPM transition from 0.0 to 1.0.
@@ -106,6 +108,7 @@ def bpm_score(bpm_a: float, bpm_b: float) -> float:
 # Energy direction bonus
 # ═══════════════════════════════════════════════════════════
 
+
 def energy_bonus(energy_a: float, energy_b: float, direction: str = "build") -> float:
     """
     Bonus for energy direction in a DJ set.
@@ -128,6 +131,7 @@ def energy_bonus(energy_a: float, energy_b: float, direction: str = "build") -> 
 # ═══════════════════════════════════════════════════════════
 # Vector similarity (vibe matching)
 # ═══════════════════════════════════════════════════════════
+
 
 def cosine_similarity(vec_a: list[float], vec_b: list[float]) -> float:
     """Cosine similarity between two vectors (0.0 to 1.0)."""
@@ -185,7 +189,9 @@ def score_transition(
         "camelot": round(cs, 4),
         "camelot_distance": camelot_distance(camelot_a, camelot_b),
         "bpm": round(bs, 4),
-        "bpm_ratio": round(abs(bpm_a - bpm_b) / max(bpm_a, bpm_b), 4) if max(bpm_a, bpm_b) > 0 else 1.0,
+        "bpm_ratio": round(abs(bpm_a - bpm_b) / max(bpm_a, bpm_b), 4)
+        if max(bpm_a, bpm_b) > 0
+        else 1.0,
         "energy": round(0.5 + eb, 4),
         "vibe": round(vs, 4),
         "track_a": track_a.get("title", "?")[:40],
@@ -196,6 +202,7 @@ def score_transition(
 # ═══════════════════════════════════════════════════════════
 # Chain builder
 # ═══════════════════════════════════════════════════════════
+
 
 def build_chain(
     start_track: TrackFeatures,
@@ -255,7 +262,9 @@ def build_chain(
         chain.append(best_result)
 
         # Remove chosen track from pool
-        remaining = [c for c in remaining if c.get("track_id") != best_candidate.get("track_id")]
+        remaining = [
+            c for c in remaining if c.get("track_id") != best_candidate.get("track_id")
+        ]
         current = best_candidate
 
     return chain
@@ -264,6 +273,7 @@ def build_chain(
 # ═══════════════════════════════════════════════════════════
 # Chain analysis
 # ═══════════════════════════════════════════════════════════
+
 
 def analyze_chain(chain: list[dict]) -> dict:
     """
@@ -276,9 +286,7 @@ def analyze_chain(chain: list[dict]) -> dict:
         return {"error": "empty chain"}
 
     scores = [t["total"] for t in chain]
-    bpms = [
-        t["bpm_ratio"] for t in chain
-    ]
+    bpms = [t["bpm_ratio"] for t in chain]
 
     # Energy curve: track how energy evolves across the chain
     energies = [t["energy"] for t in chain]
@@ -291,7 +299,7 @@ def analyze_chain(chain: list[dict]) -> dict:
         "mean_bpm_ratio": round(sum(bpms) / len(bpms) if bpms else 0, 4),
         "energy_start": energies[0] if energies else 0,
         "energy_end": energies[-1] if energies else 0,
-        "energy_trend": "rising" if energies[-1] > energies[0] + 0.1 else (
-            "falling" if energies[-1] < energies[0] - 0.1 else "flat"
-        ),
+        "energy_trend": "rising"
+        if energies[-1] > energies[0] + 0.1
+        else ("falling" if energies[-1] < energies[0] - 0.1 else "flat"),
     }
