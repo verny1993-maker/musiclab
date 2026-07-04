@@ -22,9 +22,10 @@ jobs:
         with:
           python-version: ${{ matrix.python-version }}
 
-      - name: Install dependencies
+      - name: Install package + dev deps
         run: |
           python -m pip install --upgrade pip
+          # Install only dev deps (pytest etc) — runtime deps not needed for utils tests
           pip install pytest pytest-cov
 
       - name: Run tests
@@ -54,3 +55,26 @@ jobs:
         uses: astral-sh/ruff-action@v3
         with:
           args: format --check .
+
+  build:
+    name: Build package
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install build tools
+        run: pip install build
+
+      - name: Build wheel
+        run: python -m build --wheel
+
+      - name: Verify import
+        run: |
+          pip install dist/*.whl
+          python -c "from musiclab.utils import camelot_to_angle, pitch_to_camelot, build_8d_vector; print('Import OK')"

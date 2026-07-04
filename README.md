@@ -23,6 +23,40 @@ set79.com ──→ 01_parse ──→ 02_enrich_audio ──→ 02_enrich_meta 
 
 ---
 
+## Installation
+
+```bash
+# From GitHub (recommended)
+pip install git+https://github.com/verny1993-maker/musiclab.git
+
+# Or clone + editable install
+git clone https://github.com/verny1993-maker/musiclab.git
+cd musiclab
+pip install -e ".[dev]"
+```
+
+After installation, use the CLI commands:
+
+```bash
+musiclab-parse --url "https://set79.com/tracklist/..." --artist "DJ Name"
+musiclab-enrich-audio --set data/sets/set_<id>.json
+musiclab-enrich-meta --set data/sets/set_<id>.json
+musiclab-enrich-library --workers 1 --resume
+musiclab-build-cards --all
+```
+
+Or import programmatically:
+
+```python
+from musiclab.utils import camelot_to_angle, pitch_to_camelot, build_8d_vector
+
+cos_a, sin_a = camelot_to_angle("8A")
+camelot = pitch_to_camelot("A", "minor")  # → "8A"
+vector = build_8d_vector(128, "8A", 0.7, 0.65, [-140.2, 85.3, -12.1])
+```
+
+---
+
 ## Pipeline Stages
 
 | # | Script | Input | Output | Description |
@@ -150,23 +184,34 @@ Vectors are stored in SQLite and indexed in Qdrant for nearest-neighbor search.
 
 ```
 AudioLab/
-├── 01_parse.py              # Parse set79 tracklists
-├── 02_enrich_audio.py       # Download + analyze set audio
-├── 02_enrich_meta.py        # Multi-source metadata enrichment
+├── 01_parse.py               # Parse set79 tracklists
+├── 02_enrich_audio.py        # Download + analyze set audio
+├── 02_enrich_meta.py         # Multi-source metadata enrichment
 ├── 03_enrich_audio_library.py # Batch library analysis + 8D vectors
-├── 04_hypothesis.py         # [planned] Hypothesis generation
-├── 05_build_cards.py        # Artist & venue intelligence cards
-├── 06_transitions.py        # [planned] Transition analysis
-├── enrich_library.py        # Discogs + Last.fm + MusicBrainz metadata
+├── 03_index.py               # Qdrant vector indexing
+├── 05_build_cards.py         # Artist & venue intelligence cards
+├── enrich_library.py         # Discogs + Last.fm + MusicBrainz metadata
+├── musiclab/
+│   ├── __init__.py
+│   ├── utils.py              # Pure functions (no deps): Camelot, vectors, parsing
+│   └── cli.py                # CLI entry points
+├── tests/
+│   ├── test_vectors.py       # 35 tests: norm, Camelot, 8D vectors
+│   ├── test_parsing.py       # 16 tests: timecode, artist/title split
+│   ├── test_camelot.py       # 12 tests: pitch_to_camelot (all 24 keys)
+│   └── test_analysis.py      # 7 integration tests (synthetic WAV)
 ├── lib/
-│   ├── rate_limits.py       # Centralized rate limiting for 5 APIs
-│   └── lib_io.py            # JSON Schema validation + I/O
+│   ├── rate_limits.py        # Centralized rate limiting for 5 APIs
+│   └── lib_io.py             # JSON Schema validation + I/O
 ├── data/
-│   ├── sets/                # Parsed DJ sets (JSON)
-│   ├── library/             # Tracks DB, enriched data
-│   ├── artists/             # Artist intelligence cards
-│   └── venues/              # Venue intelligence cards
-├── architecture.html        # Architecture diagram
+│   ├── sets/                 # Parsed DJ sets (JSON)
+│   ├── library/              # Tracks DB, enriched data
+│   ├── artists/              # Artist intelligence cards
+│   ├── venues/               # Venue intelligence cards
+│   └── samples/              # Sample data for demos
+├── .github/workflows/ci.yml  # CI: test + lint + format + build
+├── pyproject.toml            # Package config, ruff, pytest
+├── architecture.html         # Architecture diagram
 └── README.md
 ```
 

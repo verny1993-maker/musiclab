@@ -1,0 +1,91 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "musiclab"
+version = "0.1.0"
+description = "DJ set analysis pipeline — parse, download, analyze, enrich, and build artist intelligence from music data"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.11"
+authors = [
+    { name = "Artem Verny", email = "verny1993@yandex.ru" },
+]
+keywords = ["music", "dj", "audio-analysis", "camelot", "bpm", "dsp"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Multimedia :: Sound/Audio :: Analysis",
+]
+
+dependencies = [
+    "beautifulsoup4>=4.12",
+    "jsonschema>=4.20",
+    "librosa>=0.10",
+    "numpy>=1.24",
+    "requests>=2.31",
+    "soundfile>=0.12",
+]
+
+[project.optional-dependencies]
+analysis = [
+    "essentia>=2.1b5",
+]
+search = [
+    "qdrant-client>=1.7",
+]
+dev = [
+    "pytest>=8",
+    "pytest-cov>=6",
+    "ruff>=0.11",
+]
+
+[project.scripts]
+musiclab-parse = "musiclab.cli:main_parse"
+musiclab-enrich-audio = "musiclab.cli:main_enrich_audio"
+musiclab-enrich-meta = "musiclab.cli:main_enrich_meta"
+musiclab-enrich-library = "musiclab.cli:main_enrich_library"
+musiclab-build-cards = "musiclab.cli:main_build_cards"
+
+[project.urls]
+Homepage = "https://github.com/verny1993-maker/musiclab"
+Repository = "https://github.com/verny1993-maker/musiclab"
+
+# ═══════════════════════════════════════════════════════════
+# Ruff
+# ═══════════════════════════════════════════════════════════
+
+[tool.ruff]
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I"]
+ignore = [
+    "E501",  # line too long
+    "E402",  # import not at top
+    "E701",  # multiple statements on colon
+    "E702",  # multiple statements on semicolon
+    "E741",  # ambiguous variable name
+]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["F811"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+
+# ═══════════════════════════════════════════════════════════
+# Pytest
+# ═══════════════════════════════════════════════════════════
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "integration: integration tests (require Docker or local server)",
+]
