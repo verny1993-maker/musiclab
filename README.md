@@ -10,9 +10,9 @@ MusicLab is a multi-stage pipeline that takes DJ set tracklists, downloads the a
 
 ## Architecture
 
-![Architecture](architecture.html)
+Open [`architecture.html`](architecture.html) in any browser for an interactive dark-themed diagram.
 
-Open `architecture.html` in any browser for an interactive dark-themed diagram.
+[→ Download SVG diagram](architecture.html)
 
 ```
 set79.com ──→ 01_parse ──→ 02_enrich_audio ──→ 02_enrich_meta ──→ 03_enrich_library ──→ 05_build_cards
@@ -150,16 +150,78 @@ Vectors are stored in SQLite and indexed in Qdrant for nearest-neighbor search.
 
 ---
 
+## DJ Transition Engine
+
+`musiclab/transitions.py` scores the quality of a DJ transition between two tracks:
+
+| Factor | Weight | Algorithm |
+|--------|--------|-----------|
+| **Camelot (harmonic)** | 40% | Distance on Camelot wheel (0=perfect, 1=good, 4+=avoid) |
+| **BPM matching** | 35% | Ratio scoring: <3%=perfect, 3-6%=good, 6-8%=acceptable |
+| **Energy direction** | 15% | Bonus for building/cooling/peak energy curves |
+| **Vibe similarity** | 10% | Cosine similarity on 8D vectors |
+
+Build a DJ set chain from any starting track:
+
+```bash
+python build_chain.py --random --length 10 --direction build --diversity 0.3
+```
+
+```python
+from musiclab.transitions import build_chain, score_transition
+
+chain = build_chain(start_track, candidates, chain_length=10, direction="build")
+for t in chain:
+    print(f"{t['total']:.3f} | Camelot={t['camelot']} | BPM={t['bpm']:.2f}")
+```
+
+---
+
+## Genre Classifier (PyTorch)
+
+`musiclab/classifier.py` — 3-layer MLP that classifies tracks into genres from 8D vectors:
+
+```bash
+pip install musiclab[ml]
+python train_genre_classifier.py --epochs 50 --genres 8
+```
+
+```python
+from musiclab.classifier import GenreClassifier, predict
+
+model = GenreClassifier(num_genres=8)
+# Load checkpoint: torch.load("models/genre_classifier.pt")
+genres = predict(model, vector, genre_names)
+```
+
+1209 tracks trained on 8 genres (electronic, deep house, ambient, electro, acid, drum n bass, disco, breakbeat). 2920 parameters, trains in <1 min on CPU.
+
+---
+
+## Deployment
+
+See [`deploy/README.md`](deploy/README.md) for full instructions.
+
+| Option | Cost | Complexity |
+|--------|------|------------|
+| **AWS Lightsail** (Terraform) | ~$7/mo | Medium — `deploy/terraform/main.tf` |
+| **GCP Cloud Run** | Free tier | Low — `gcloud run deploy` |
+| **Local Docker** | Free | Minimal — `docker run -p 8777:8777` |
+
+---
+
 ## Tech Stack
 
 | Category | Technology |
 |----------|-----------|
 | Language | Python 3.11+ |
 | Audio DSP | librosa, essentia |
+| Machine Learning | PyTorch |
 | API Framework | FastAPI |
 | Containerization | Docker |
 | Database | SQLite (WAL mode) |
 | Vector Search | Qdrant |
+| Infrastructure | Terraform (AWS) |
 | Download | yt-dlp, FFmpeg |
 | Parsing | BeautifulSoup4 |
 | Metadata APIs | Discogs, Last.fm, MusicBrainz, Spotify |
@@ -184,34 +246,44 @@ Vectors are stored in SQLite and indexed in Qdrant for nearest-neighbor search.
 
 ```
 AudioLab/
-├── 01_parse.py               # Parse set79 tracklists
-├── 02_enrich_audio.py        # Download + analyze set audio
-├── 02_enrich_meta.py         # Multi-source metadata enrichment
+├── 01_parse.py                # Parse set79 tracklists
+├── 02_enrich_audio.py         # Download + analyze set audio
+├── 02_enrich_meta.py          # Multi-source metadata enrichment
 ├── 03_enrich_audio_library.py # Batch library analysis + 8D vectors
-├── 03_index.py               # Qdrant vector indexing
-├── 05_build_cards.py         # Artist & venue intelligence cards
-├── enrich_library.py         # Discogs + Last.fm + MusicBrainz metadata
+├── 03_index.py                # Qdrant vector indexing
+├── 05_build_cards.py          # Artist & venue intelligence cards
+├── enrich_library.py          # Discogs + Last.fm + MusicBrainz metadata
+├── build_chain.py             # DJ set chain builder
+├── train_genre_classifier.py  # Genre classifier training script
 ├── musiclab/
 │   ├── __init__.py
-│   ├── utils.py              # Pure functions (no deps): Camelot, vectors, parsing
-│   └── cli.py                # CLI entry points
+│   ├── utils.py               # Pure functions: Camelot, vectors, parsing
+│   ├── transitions.py         # DJ transition scoring + chain builder
+│   ├── classifier.py          # PyTorch genre classifier (3-layer MLP)
+│   └── cli.py                 # CLI entry points
 ├── tests/
-│   ├── test_vectors.py       # 35 tests: norm, Camelot, 8D vectors
-│   ├── test_parsing.py       # 16 tests: timecode, artist/title split
-│   ├── test_camelot.py       # 12 tests: pitch_to_camelot (all 24 keys)
-│   └── test_analysis.py      # 7 integration tests (synthetic WAV)
+│   ├── test_vectors.py        # 35 tests
+│   ├── test_parsing.py        # 16 tests
+│   ├── test_camelot.py        # 12 tests
+│   ├── test_classifier.py     # 9 tests (PyTorch)
+│   ├── test_transitions.py    # 43 tests (DJ transitions)
+│   └── test_analysis.py       # 7 integration tests
 ├── lib/
-│   ├── rate_limits.py        # Centralized rate limiting for 5 APIs
-│   └── lib_io.py             # JSON Schema validation + I/O
-├── data/
-│   ├── sets/                 # Parsed DJ sets (JSON)
-│   ├── library/              # Tracks DB, enriched data
-│   ├── artists/              # Artist intelligence cards
-│   ├── venues/               # Venue intelligence cards
-│   └── samples/              # Sample data for demos
-├── .github/workflows/ci.yml  # CI: test + lint + format + build
-├── pyproject.toml            # Package config, ruff, pytest
-├── architecture.html         # Architecture diagram
+│   ├── rate_limits.py         # Rate limiting for 5 APIs
+│   └── lib_io.py              # JSON Schema validation
+├── deploy/
+│   ├── Dockerfile             # Production Docker image
+│   ├── server.py              # FastAPI audio analysis service
+│   ├── terraform/main.tf      # AWS Lightsail deployment
+│   └── README.md              # Deployment guide
+├── models/
+│   └── genre_classifier.pt    # Trained PyTorch checkpoint
+├── scripts/                   # Utility scripts
+├── data/                      # Sample data + schemas
+├── .github/workflows/ci.yml   # CI: test + lint + format + build
+├── pyproject.toml             # Package config
+├── .env.example               # Environment variables template
+├── architecture.html          # Architecture diagram
 └── README.md
 ```
 

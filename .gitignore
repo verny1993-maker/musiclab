@@ -51,6 +51,7 @@ qdrant/
 ac
 _archive/
 run.ps1
+03_index_library.py
 
 # Playlists (auto-generated)
 data/playlists/
