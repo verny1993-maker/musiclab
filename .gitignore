@@ -53,3 +53,7 @@ _archive/
 
 # Logs
 *.log
+
+# Coverage
+.coverage
+.pytest_cache/
